@@ -1,5 +1,6 @@
 from urllib.parse import urljoin
 from html import unescape
+from ftfy import fix_text
 import re
 
 # Used to prepend image URLs if they are relative
@@ -36,21 +37,21 @@ def transform_event(cal_event):
     event = {
         "@context": "https://schema.org",
         "@type": "Event",
-        "name": unescape(evt.get("eventName", "")),
+        "name": fix_text(unescape(evt.get("eventName", ""))),
         "startDate": start_dt,
         "endDate": end_dt,
         "location": {
             "@type": "Place",
-            "name": unescape(location.get("locationName", "Toronto")),
+            "name": fix_text(unescape(location.get("locationName", "Toronto"))),
             "address": parse_address(address),  # Use utility to parse addres
             "geo": extract_geo(location),  # Optional but added if available
         },
-        "description": unescape(evt.get("description", "")),
+        "description": fix_text(unescape(evt.get("description", ""))),
         "url": primary_url,
         "image": image_url,
         "organizer": {
             "@type": "Organization",
-            "name": unescape(evt.get("orgName", "")),
+            "name": fix_text(unescape(evt.get("orgName", ""))),
             "email": evt.get("orgEmail"),
             "telephone": evt.get("orgPhone"),
         },
