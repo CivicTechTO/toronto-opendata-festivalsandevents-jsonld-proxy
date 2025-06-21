@@ -51,6 +51,13 @@ python build_indexes.py
 
 ### Usage
 
+
+**Add**
+
+Go to [https://www.toronto.ca/explore-enjoy/festivals-events/festivals-events-calendar/](https://www.toronto.ca/explore-enjoy/festivals-events/festivals-events-calendar/) to add events.
+
+**Consume**
+
 For each day:
 
 - All output data is stored under [docs/daily_jsonl/](docs/daily_jsonl/), split by event date.
