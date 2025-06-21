@@ -3,6 +3,12 @@ from html import unescape
 from ftfy import fix_text
 import re
 
+
+def normalize_text(s):
+    """Fix text encoding and clean up spacing/HTML entities."""
+    return fix_text(unescape(s or "")).strip()
+
+
 # Used to prepend image URLs if they are relative
 TORONTO_IMAGE_BASE = "https://secure.toronto.ca"
 LOCALITIES = ["Toronto", "North York", "Scarborough", "Etobicoke", "East York", "York"]
@@ -37,21 +43,21 @@ def transform_event(cal_event):
     event = {
         "@context": "https://schema.org",
         "@type": "Event",
-        "name": fix_text(unescape(evt.get("eventName", ""))),
+        "name": normalize_text(evt.get("eventName", "")),
         "startDate": start_dt,
         "endDate": end_dt,
         "location": {
             "@type": "Place",
-            "name": fix_text(unescape(location.get("locationName", "Toronto"))),
+            "name": normalize_text(location.get("locationName", "Toronto")),
             "address": parse_address(address),  # Use utility to parse addres
             "geo": extract_geo(location),  # Optional but added if available
         },
-        "description": fix_text(unescape(evt.get("description", ""))),
+        "description": normalize_text(evt.get("description", "")),
         "url": primary_url,
         "image": image_url,
         "organizer": {
             "@type": "Organization",
-            "name": fix_text(unescape(evt.get("orgName", ""))),
+            "name": normalize_text(evt.get("orgName", "")),
             "email": evt.get("orgEmail"),
             "telephone": evt.get("orgPhone"),
         },

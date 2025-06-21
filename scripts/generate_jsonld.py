@@ -1,7 +1,7 @@
 import os
 import json
 from ckan import get_latest_resource_url, stream_resource_data
-from transform import transform_event
+from transform import transform_event, normalize_text
 import hashlib
 
 OUTPUT_DIR = "docs/daily_jsonl"
@@ -9,8 +9,11 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 
 def generate_event_key(event):
-    """Create a unique key for an event using its name, date, and location."""
-    key_source = f"{event.get('name', '')}|{event.get('startDate', '')}|{event.get('location', {}).get('name', '')}"
+    """Create a unique key for an event using normalized name, date, and location."""
+    name = normalize_text(event.get("name"))
+    date = event.get("startDate", "")
+    location_name = normalize_text(event.get("location", {}).get("name"))
+    key_source = f"{name}|{date}|{location_name}"
     return hashlib.sha1(key_source.encode("utf-8")).hexdigest()
 
 
