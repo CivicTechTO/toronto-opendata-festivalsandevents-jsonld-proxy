@@ -2,336 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Flying with Billy Bishop Walking Tour",
-    "startDate": "2025-06-21T19:00:00.000Z",
-    "endDate": "2025-06-21T20:30:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "Start Point - Southwest corner of Queens Quay West and Eireann Quay",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "659R Queens Quay W",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M5V 3N2",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.63536,
-        "longitude": -79.39849
-      }
-    },
-    "description": "Explore the history of Billy Bishop Toronto City Airport and discover how it has connected Toronto to the world and contributed to Toronto's aviation history in its over 85 years of flight.\n\nThis 1.1 kilometre-long tour was developed and will be led by Shannon Buskermolen. Shannon is an Emerging Historian and former Programs Assistant with Heritage Toronto, who recently completed a graduate certificate program in Museum and Cultural Management at Centennial College. Shannon holds a double MA in International War Studies from University College Dublin and the University of Potsdam, and a BA Honours in Anthropology and History from Trent University.",
-    "url": "https://www.eventbrite.ca/e/flying-with-billy-bishop-walking-tour-tickets-1344347352119",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/Flying_ucHffGrXzcxXRM9iNOYZuQ.jpg",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Heritage Toronto",
-      "email": "heritagetoronto@gmail.com",
-      "telephone": "6475423450"
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "History",
-      "Talks",
-      "Walking"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "price": 9.85,
-      "priceCurrency": "CAD",
-      "url": "https://www.eventbrite.ca/e/flying-with-billy-bishop-walking-tour-tickets-1344347352119"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Lake Shore West Garden Tour",
-    "startDate": "2025-06-21T14:00:00.000Z",
-    "endDate": "2025-06-21T20:00:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "Long Branch, Alderwood, New Toronto and Mimico",
-      "address": {},
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.608511881536785,
-        "longitude": -79.55763863463274
-      }
-    },
-    "description": "You're invited to visit a collection of unique and private gardens in West Lakeshore neighbourhoods. Most gardens are hosted by the gardeners so you can ask questions. More information including garden locations and events will be available in May and June.",
-    "url": "https://lakeshorewestgt.ca",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/Flower toss_UgWxNElXwKVQXAST0dMSVQ.jpg",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Lakeshore West Garden Tour committee",
-      "email": "kjobrien4@rogers.com",
-      "telephone": "4169085065"
-    },
-    "isAccessibleForFree": true,
-    "keywords": [
-      "Family/Children",
-      "Tour",
-      "Walking"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Cyanotype Printmaking Workshop",
-    "startDate": "2025-06-21T17:00:00.000Z",
-    "endDate": "2025-06-21T20:00:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "High Park Nature Centre Forest School",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "375 Colborne Lodge Dr",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M6P 3K7",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.65230359195698,
-        "longitude": -79.46365357143804
-      }
-    },
-    "description": "Note: Pre-registration is required for all our events, hikes and workshops. We do this to ensure we don't exceed our capacity for indoor events or the maximum limits for group sizes on High Park's ecologically sensitive trails. \n\nPlease join us for a delightful afternoon of Cyanotype Printmaking! In this hands-on workshop, you will be creating a collection of eight original prints inspired from nature at High Park. The instructor, Alan Li, will also explain how you can continue creating Cyanotype prints year-round at home. No previous experience is required, just bring your curiosity and enthusiasm!\n\nPaper, cyanotype printmaking, and other all other art supplies will be provided.",
-    "url": "https://highparknaturecentre.com/event/sp25-cyanotype-printmaking/",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/Website Featured Images (32)_5LqHa5pRn0vTaHuNm2hx2Q.jpg",
-    "organizer": {
-      "@type": "Organization",
-      "name": "High Park Nature Centre",
-      "email": "info@highparknaturecentre.com",
-      "telephone": "4163921748"
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Artisan",
-      "Environmental",
-      "Seminars/Workshops"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "url": "https://highparknaturecentre.com/event/sp25-cyanotype-printmaking/"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Community Environment Day at L'Amoreaux Community Recreation Centre",
-    "startDate": "2025-06-21T14:00:00.000Z",
-    "endDate": "2025-06-21T18:00:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "L' Amoreaux Community Recreation Centre",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "2000 McNicoll Ave",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M1V 5E9",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.81266,
-        "longitude": -79.30489
-      }
-    },
-    "description": "Join Councillor Mantas (Ward 22) and the City of Toronto to help reduce the amount of waste going to landfill. Drop off household items for donation, electronics for reuse or recycling and household hazardous waste for proper disposal. \n\nPick up free bagged compost while supplies last and kitchen catchers for organics ($7 each – cash, debit and credit accepted).",
-    "url": "https://www.toronto.ca/services-payments/recycling-organics-garbage/community-environment-days/",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/CED Calendar Image 2_o1fCMlIRhh3kUuVTLOF05g.jpg",
-    "organizer": {
-      "@type": "Organization",
-      "name": "City of Toronto",
-      "email": "erin.gardhouse@toronto.ca",
-      "telephone": "4372204091"
-    },
-    "isAccessibleForFree": true,
-    "keywords": [
-      "Environmental"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Beading Workshop with Jessica McKenzie at Todmorden Mills",
-    "startDate": "2025-06-21T15:00:00.000Z",
-    "endDate": "2025-06-21T17:00:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "Todmorden Mills Museum",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "MJPR+78 Todmorden Mills Park, 67 Pottery Rd",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M4K 2B9",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.6856652,
-        "longitude": -79.35913479999999
-      }
-    },
-    "description": "Learn and appreciate the Indigenous tradition of beading, with the guidance and support of Cree bead artist and Miss Indigenous Canada, Jessica McKenzie.\nCraft your own piece of beaded art and learn about the importance of passing down culture from generation to generation. Weave bead by bead, and feel connected to the history and significance of the beading craft in Indigenous communities.\n\nJessica McKenzie is a proud member of Opaskwayak Cree Nation living in Toronto, ON. She is a sister, auntie, step-mother, entrepreneur and beadwork artist. With her love for community, she encourages cultural revitalization through traditional beading workshops.",
-    "url": "https://anc.ca.apm.activecommunities.com/toronto/activity/search/detail/95843?onlineSiteId=0&from_original_cui=true",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/Jessica Mackenzie Beading Workshop_9Yn0NHY_LUsVqHozrwdPSQ.jpg",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Todmorden Mills, City of Toronto",
-      "email": "melissa.beynon@toronto.ca",
-      "telephone": "4163963315"
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Artisan",
-      "Indigenous",
-      "Museum"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "price": 15,
-      "priceCurrency": "CAD",
-      "url": "https://anc.ca.apm.activecommunities.com/toronto/activity/search/detail/95843?onlineSiteId=0&from_original_cui=true"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Creating Toronto Walking Tour",
-    "startDate": "2025-06-21T15:00:00.000Z",
-    "endDate": "2025-06-21T16:30:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "Start and End Point - South-end of Market Lane Park",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "149 King St E",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M5C 1G9",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.6500388,
-        "longitude": -79.3726769
-      }
-    },
-    "description": "Explore the hidden gems of the St. Lawrence Neighbourhood, once the old Town of York. Learn how remnants from the early city connect to today's bustling metropolis.\n\nThis tour is approximately 1.8 kilometers in distance and takes place predominantly on paved city sidewalks and streets. There are some unpaved portions of the route that take place in city parks.",
-    "url": "https://www.eventbrite.ca/e/creating-toronto-walking-tour-tickets-1342776634059",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/Creating_OmlNwU5PZsdhcs4oBp-nyA.jpg",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Heritage Toronto",
-      "email": "heritagetoronto@gmail.com",
-      "telephone": "6475423450"
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "History",
-      "Tour",
-      "Walking"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "price": 9.85,
-      "priceCurrency": "CAD",
-      "url": "https://www.eventbrite.ca/e/creating-toronto-walking-tour-tickets-1342776634059"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Can You Feel It?",
-    "startDate": "2025-06-21T19:00:00.000Z",
-    "endDate": "2025-06-21T20:30:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "Eglinton St. George's United Church",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "35 Lytton Blvd",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M4R 1L2",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.7154824,
-        "longitude": -79.4031718
-      }
-    },
-    "description": "Experience a concert to ignite the senses with vibrant sound and movement. The senior choir - the internationally-acclaimed Chamber Choir - will be touring this summer to an international festival, and starting in Toronto!\n\nNew commissions by Jude Roldan of the Philippines and Laura Jekobsone of Latvia. Other works include \"Stars\", accompanied by tuned wine glasses by Ēriks Ešenvalds, \"Singkap Siaga\" by Tracy Wong with choreography from Malaysia, and \"Abendlied\" Josef Rheinberger's choral masterpiece. Conducted by Zimfira Poloz.",
-    "url": "https://www.eventbrite.ca/e/can-you-feel-it-tcc-chamber-choir-tour-send-off-concert-tickets-1349062575479?aff=oddtdtcreator",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/TCC Chamber - Can You Feel It-2_1JolzsQqCcS9u-zsNS0RqA.jpg",
-    "organizer": {
-      "@type": "Organization",
-      "name": "T",
-      "email": "info@torontochildrenschorus.com",
-      "telephone": "4169328666"
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Live Performances",
-      "Music",
-      "World Culture"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "price": 25,
-      "priceCurrency": "CAD",
-      "url": "https://www.eventbrite.ca/e/can-you-feel-it-tcc-chamber-choir-tour-send-off-concert-tickets-1349062575479?aff=oddtdtcreator"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Port Union Waterfront Festival",
-    "startDate": "2025-06-21T15:00:00.000Z",
-    "endDate": "2025-06-21T19:00:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "Port Union Waterfront Park",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Port Union Village Common Park, 105 Bridgend St",
-        "addressLocality": "Scarborough",
-        "addressRegion": "ON",
-        "postalCode": "M1C 5G5",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.7767107,
-        "longitude": -79.1347485
-      }
-    },
-    "description": "Enjoy a vibrant annual festival packed with live entertainment, exciting children's activities, a bustling craft market, and unique vendor displays! Bring the whole family for a day of fun, community spirit, and discovery. Delicious food will be available for purchase at a nominal cost. Don't miss out on this unforgettable celebration!",
-    "url": "https://portunionwaterfront.ca/",
-    "image": null,
-    "organizer": {
-      "@type": "Organization",
-      "name": "Port Union Waterfront Festival Committee",
-      "email": "alisonrobhinz@gmail.com",
-      "telephone": "4169899271"
-    },
-    "isAccessibleForFree": true,
-    "keywords": [
-      "Celebration",
-      "Family/Children"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Move for Sight",
     "startDate": "2025-06-22T13:30:00.000Z",
     "endDate": "2025-06-22T16:30:00.000Z",
@@ -409,50 +79,6 @@
       "Dance",
       "LGBTQ2S+"
     ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Black Comedy Night - a Stand-Up Comedy Show",
-    "startDate": "2025-06-22T00:00:00.000Z",
-    "endDate": "2025-06-22T01:30:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "The Real Jerk - Legacy",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "647 College St",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M6G 1B7",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.6547834,
-        "longitude": -79.41582729999999
-      }
-    },
-    "description": "After an electric first success, Black Comedy Night is back with an all-new lineup of Canada's best comedians New faces, new jokes, same unmatched energy. Featuring Tobi Solebo, Clif Knight, Kerby Darius, and Daphney Joseph. The first show sold out. This one goes even harder. Saturday Night. Two Shows. Twice the Energy.",
-    "url": "https://www.eventbrite.ca/e/black-comedy-night-a-stand-up-comedy-show-tickets-1378889468519?aff=ebdsshcopyurl&utm-source=cp&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/cEFPCluGCOfGOdytmV5OtQ_RdddMOtyG3OO-0UYA2MEjA.png",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Hanoun Productions",
-      "email": "info@laughhousecomedy.com",
-      "telephone": "2897162588"
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "price": 25,
-      "priceCurrency": "CAD",
-      "url": "https://www.eventbrite.ca/e/black-comedy-night-a-stand-up-comedy-show-tickets-1378889468519?aff=ebdsshcopyurl&utm-source=cp&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing"
-    }
   },
   {
     "@context": "https://schema.org",
@@ -545,51 +171,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Theo x Travis: Jazz is Dead",
-    "startDate": "2025-06-22T00:00:00.000Z",
-    "endDate": "2025-06-22T01:30:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "Meridian Arts Centre",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "5040 Yonge St",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M2N 6R8",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.7660521,
-        "longitude": -79.4144443
-      }
-    },
-    "description": "What happens when a Grammy-nominated jazz artist and a multiple award-winning tap dance powerhouse unite for an electrifying exchange on the \"death\" of jazz? \n\nTrumpeter Theo Croker and tap dancer Travis Knights take musical performance to the next level in this dynamic union of sound and movement. Fusing jazz, hip-hop, R&B, and live improvisation, this show brings a fresh edge to the timeless art form of jazz—bold, electric, and completely unpredictable.\n\nA world premiere, conceived by Timea Wharton-Suri and co-commissioned by dance Immersion and Luminato Festival, Jazz is Dead isn't a tribute—it's a rebirth",
-    "url": "https://am.ticketmaster.com/tolive/buy/luminatofestival-2025-jazzisdead-booknow",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/theo x jazz_BLyE-1aZ1UhmNeloxfoZFw.JPG",
-    "organizer": {
-      "@type": "Organization",
-      "name": "dance Immersion",
-      "email": "communications@danceimmersion.ca",
-      "telephone": "4162030666"
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Dance",
-      "Live Performances",
-      "Music"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "price": 49,
-      "priceCurrency": "CAD",
-      "url": "https://am.ticketmaster.com/tolive/buy/luminatofestival-2025-jazzisdead-booknow"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Community Environment Day at Glen Long Community Centre",
     "startDate": "2025-06-22T14:00:00.000Z",
     "endDate": "2025-06-22T18:00:00.000Z",
@@ -623,51 +204,6 @@
     "keywords": [
       "Environmental"
     ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Theo x Travis: Jazz is Dead",
-    "startDate": "2025-06-22T00:00:00.000Z",
-    "endDate": "2025-06-22T01:30:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "Meridian Arts Centre, The Studio Theatre",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "5040 Yonge St",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M2N 6R8",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.7660521,
-        "longitude": -79.4144443
-      }
-    },
-    "description": "What happens when a Grammy-nominated jazz artist and a tap dance powerhouse unite for an electrifying exchange on the \"death\" of jazz? Trumpeter Theo Croker and tap dancer Travis Knights push musical boundaries in a dynamic fusion of jazz, hip-hop, R&B, and live improvisation. Their electric synergy creates a bold, unpredictable performance that reimagines a timeless art form.\n\nJazz is Dead isn't a tribute—it's a rebirth.",
-    "url": "https://danceimmersion.ca/theo-x-travis-jazz-is-dead/",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/Screenshot 2025-04-11 140503_onQdFcOsP2UPVluIVvIV5w.png",
-    "organizer": {
-      "@type": "Organization",
-      "name": "dance Immersion",
-      "email": "info@danceimmersion.ca",
-      "telephone": "4162030666"
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Dance",
-      "Live Performances",
-      "Music"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "price": 49,
-      "priceCurrency": "CAD",
-      "url": "https://danceimmersion.ca/theo-x-travis-jazz-is-dead/"
-    }
   },
   {
     "@context": "https://schema.org",
@@ -2578,6 +2114,121 @@
       "Arts/Exhibits",
       "History",
       "Indigenous",
+      "Museum"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Washed Up at Scarborough Museum",
+    "startDate": "2025-07-02T16:00:00.000Z",
+    "endDate": "2025-07-02T21:00:00.000Z",
+    "location": {
+      "@type": "Place",
+      "name": "Scarborough Museum",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1007 Brimley Rd",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M1P 3E8",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.757610002017095,
+        "longitude": -79.25482355359142
+      }
+    },
+    "description": "Beginning July 1st at Scarborough Museum, experience Washed Up by Hatecopy. The project captures the essence of liminal spaces that serve as cultural hubs for the South Asian immigrant communities, using the washing machine as a vessel to carry textiles that signify our roots and drawing visitors into an environment that intertwines the past, present, and future; acknowledging the dirty laundry of Canadian History and \"Truth,\" and reclaiming both seen and unseen spaces.\n\nMaria Qamar (b. 1991) is a Toronto-based pop artist whose work is focused in the South Asian diaspora and immigrant communities and their cultural experiences. The work specializes in themes regarding feminism, social change, humour, pop culture, politics and romance. The artist has been recognized both nationally and internationally with exhibits and features in the Museum of Contemporary Arts, the National Arts Centre, Sotheby's, Phillips Auction, and the AGO.",
+    "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/museums/scarborough-museum/",
+    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/Washed Up F&E_yrBIRxwku5zAqBTI2rFf4Q.png",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Scarborough Museum",
+      "email": "shm@toronto.ca",
+      "telephone": "4163888807"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Arts/Exhibits",
+      "Museum"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Pop-Up Exhibit - Making Home in Scarborough at Scarborough Museum",
+    "startDate": "2025-07-02T16:00:00.000Z",
+    "endDate": "2025-07-02T21:00:00.000Z",
+    "location": {
+      "@type": "Place",
+      "name": "Scarborough Museum",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1007 Brimley Rd",
+        "addressLocality": "Scarborough",
+        "addressRegion": "ON",
+        "postalCode": "M1P 3E8",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.75750866187515,
+        "longitude": -79.25482216963748
+      }
+    },
+    "description": "Beginning July 1st, experience \"Making Home in Scarborough,\" a vibrant pop-up installation that celebrates memory, identity, and belonging through community voices, cultural expression, and shared experiences of place. This pop-up exhibit is rooted in ideas of home which are often rooted in memory, place, community, cultural traditions and objects we hold dear to our hearts in generations past, present and future. \n\nCo-created through conversation and care, Making Home in Scarborough celebrates the creativity, resilience, and traditions that shape our communities. As you explore the exhibition, we invite you to reflect: \"What does home mean to you?\" If you live in Scarborough, \"What does Making Home in Scarborough Mean to you?\" \n\nWe are grateful for our community collaborators: Native Child and Family Services / Scarborough Child & Family Life Centre, Malvern Family Resource Centre, TDSB Newcomer Services (Malvern), Toby's Place, Scarborough Museum Youth Collective and Change Made.",
+    "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/museums/scarborough-museum/",
+    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/Making Home F&E_oGjRMRDupXstJOYny8RZyQ.png",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Scarborough Museum",
+      "email": "shm@toronto.ca",
+      "telephone": "4163388807"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Arts/Exhibits",
+      "Family/Children",
+      "Museum"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Washed Up - Pop-Up Installation at Scarborough Museum",
+    "startDate": "2025-07-02T16:00:00.000Z",
+    "endDate": "2025-07-02T21:00:00.000Z",
+    "location": {
+      "@type": "Place",
+      "name": "Scarborough Museum",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1007 Brimley Rd",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M1P 3E8",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.75761117010184,
+        "longitude": -79.25482341995588
+      }
+    },
+    "description": "Beginning July 1st at Scarborough Museum, experience Washed Up by Hatecopy. The project captures the essence of liminal spaces that serve as cultural hubs for the South Asian immigrant communities, using the washing machine as a vessel to carry textiles that signify our roots and drawing visitors into an environment that intertwines the past, present, and future; acknowledging the dirty laundry of Canadian History and \"Truth,\" and reclaiming both seen and unseen spaces.\n\nMaria Qamar (b. 1991) is a Toronto-based pop artist whose work is focused in the South Asian diaspora and immigrant communities and their cultural experiences. The work specializes in themes regarding feminism, social change, humour, pop culture, politics and romance. The artist has been recognized both nationally and internationally with exhibits and features in the Museum of Contemporary Arts, the National Arts Centre, Sotheby's, Phillips Auction, and the AGO.",
+    "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/museums/scarborough-museum/",
+    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/F&E Listings (29)_BZQdq95XDTIVuhuxCOT6yA.png",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Scarborough Museum",
+      "email": "shm@toronto.ca",
+      "telephone": "4163388807"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Arts/Exhibits",
       "Museum"
     ]
   },
