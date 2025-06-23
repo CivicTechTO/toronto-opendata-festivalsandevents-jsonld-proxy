@@ -2,84 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Colour is Art Exhibition",
-    "startDate": "2025-06-23T13:00:00.000Z",
-    "endDate": "2025-06-23T21:00:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "Assembly Hall",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "1 Colonel Samuel Smith Park Dr",
-        "addressLocality": "Etobicoke",
-        "addressRegion": "ON",
-        "postalCode": "M8V 4B6",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.59765460000001,
-        "longitude": -79.5158459
-      }
-    },
-    "description": "Get immersed in representational art and compositions reminiscing childhood surroundings and dreams in a visual language of shapes, forms and colour. Presented in an inspiring solo show by Victor de M.",
-    "url": "http://toronto.ca/assemblyhall",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/June_Victor_TheFlight&Fall of Icarus_f6ju3wygpZPT9J1MmYTHeg.png",
-    "organizer": {
-      "@type": "Organization",
-      "name": "City of Toronto",
-      "email": "assembly@toronto.ca",
-      "telephone": "4163387255"
-    },
-    "isAccessibleForFree": true,
-    "keywords": [
-      "Arts/Exhibits"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Jr. Forest Explorers: Tiny Explorers",
-    "startDate": "2025-06-23T14:00:00.000Z",
-    "endDate": "2025-06-23T15:30:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "Downsview Park Discovery Centre",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "70 Canuck Ave",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M3K 2C5",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.7438553,
-        "longitude": -79.48421979999999
-      }
-    },
-    "description": "Join us for a caregiver and toddler nature program. Connect with the natural world through hands-on outdoor activities.\n\nTiny Explorers - Summer has begun! Join us for a mini hike in Downsview Park and participate in a summer scavenger hunt. Let's discover all the tiny treasures in our urban park!\n\nFrench language service is available upon request. Please let us know.",
-    "url": "https://downsviewpark.ca/events/jr-forest-explorers-tiny-explorers-2",
-    "image": null,
-    "organizer": {
-      "@type": "Organization",
-      "name": "Downsview Park",
-      "email": "downsvieweducation@clc-sic.ca",
-      "telephone": "4166342566"
-    },
-    "isAccessibleForFree": true,
-    "keywords": [
-      "Family/Children"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "url": "https://downsviewpark.ca/events/jr-forest-explorers-tiny-explorers-2"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "DanceAble 2025",
     "startDate": "2025-06-24T22:00:00.000Z",
     "endDate": "2025-06-25T01:00:00.000Z",
@@ -532,7 +454,7 @@
         "longitude": -79.4235377
       }
     },
-    "description": "Dive into the Battle of York in which American invaders occupied the town of York during the War of 1812. Explore the reasons for the invasion, the state of York's defences, the course of the battle and why it ruined Elizabeth Powell's dinner party. We'll also take a look at what this area was like in 1813 and how the American occupation shaped the development of the future city of Toronto.\n\nThis 4.0 kilometre-long tour was developed and will be led by Adam Waiser. Adam is a history enthusiast and co-host of the Muddy York history podcast. The podcast has been operating for nearly two years and their mission is to tell Toronto stories and inform listeners about what the GTA was like before the year 2000.\n\n",
+    "description": "Dive into the Battle of York in which American invaders occupied the town of York during the War of 1812. Explore the reasons for the invasion, the state of York's defences, the course of the battle and why it ruined Elizabeth Powell's dinner party. We'll also take a look at what this area was like in 1813 and how the American occupation shaped the development of the future city of Toronto.\n\nThis 4.0 kilometre-long tour was developed and will be led by Adam Waiser. Adam is a history enthusiast and co-host of the Muddy York history podcast. The podcast has been operating for nearly two years and their mission is to tell Toronto stories and inform listeners about what the GTA was like before the year 2000.",
     "url": "https://www.eventbrite.ca/e/how-the-americans-ruined-dinner-walking-tour-tickets-1348496101139",
     "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/How the Americans_ho7_2S-6ILLP136S2E1x0w.jpg",
     "organizer": {
@@ -1908,83 +1830,6 @@
       "Arts/Exhibits",
       "History",
       "Indigenous",
-      "Museum"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Washed Up at Scarborough Museum",
-    "startDate": "2025-07-02T16:00:00.000Z",
-    "endDate": "2025-07-02T21:00:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "Scarborough Museum",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "1007 Brimley Rd",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M1P 3E8",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.757610002017095,
-        "longitude": -79.25482355359142
-      }
-    },
-    "description": "Beginning July 1st at Scarborough Museum, experience Washed Up by Hatecopy. The project captures the essence of liminal spaces that serve as cultural hubs for the South Asian immigrant communities, using the washing machine as a vessel to carry textiles that signify our roots and drawing visitors into an environment that intertwines the past, present, and future; acknowledging the dirty laundry of Canadian History and \"Truth,\" and reclaiming both seen and unseen spaces.\n\nMaria Qamar (b. 1991) is a Toronto-based pop artist whose work is focused in the South Asian diaspora and immigrant communities and their cultural experiences. The work specializes in themes regarding feminism, social change, humour, pop culture, politics and romance. The artist has been recognized both nationally and internationally with exhibits and features in the Museum of Contemporary Arts, the National Arts Centre, Sotheby's, Phillips Auction, and the AGO.",
-    "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/museums/scarborough-museum/",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/Washed Up F&E_yrBIRxwku5zAqBTI2rFf4Q.png",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Scarborough Museum",
-      "email": "shm@toronto.ca",
-      "telephone": "4163888807"
-    },
-    "isAccessibleForFree": true,
-    "keywords": [
-      "Arts/Exhibits",
-      "Museum"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Pop-Up Exhibit - Making Home in Scarborough at Scarborough Museum",
-    "startDate": "2025-07-02T16:00:00.000Z",
-    "endDate": "2025-07-02T21:00:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "Scarborough Museum",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "1007 Brimley Rd",
-        "addressLocality": "Scarborough",
-        "addressRegion": "ON",
-        "postalCode": "M1P 3E8",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.75750866187515,
-        "longitude": -79.25482216963748
-      }
-    },
-    "description": "Beginning July 1st, experience \"Making Home in Scarborough,\" a vibrant pop-up installation that celebrates memory, identity, and belonging through community voices, cultural expression, and shared experiences of place. This pop-up exhibit is rooted in ideas of home which are often rooted in memory, place, community, cultural traditions and objects we hold dear to our hearts in generations past, present and future. \n\nCo-created through conversation and care, Making Home in Scarborough celebrates the creativity, resilience, and traditions that shape our communities. As you explore the exhibition, we invite you to reflect: \"What does home mean to you?\" If you live in Scarborough, \"What does Making Home in Scarborough Mean to you?\" \n\nWe are grateful for our community collaborators: Native Child and Family Services / Scarborough Child & Family Life Centre, Malvern Family Resource Centre, TDSB Newcomer Services (Malvern), Toby's Place, Scarborough Museum Youth Collective and Change Made.",
-    "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/museums/scarborough-museum/",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/Making Home F&E_oGjRMRDupXstJOYny8RZyQ.png",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Scarborough Museum",
-      "email": "shm@toronto.ca",
-      "telephone": "4163388807"
-    },
-    "isAccessibleForFree": true,
-    "keywords": [
-      "Arts/Exhibits",
-      "Family/Children",
       "Museum"
     ]
   },
