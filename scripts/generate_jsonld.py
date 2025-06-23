@@ -8,40 +8,55 @@ OUTPUT_DIR = "docs/daily_jsonl"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 
+def hash_event_content(event):
+    """Generate a hash of the event content for change detection."""
+    normalized = json.dumps(event, sort_keys=True, ensure_ascii=False)
+    return hashlib.sha1(normalized.encode("utf-8")).hexdigest()
+
+
 def generate_event_key(event):
-    """Create a unique key for an event using normalized name, date, and location."""
-    name = normalize_text(event.get("name"))
-    date = event.get("startDate", "")
+    """Create a unique key using organizer, start date, and location."""
+    organizer_name = normalize_text(event.get("organizer", {}).get("name"))
+    start_date = event.get("startDate", "")
     location_name = normalize_text(event.get("location", {}).get("name"))
-    key_source = f"{name}|{date}|{location_name}"
+    primary_url = event.get("url", "")
+    key_source = f"{organizer_name}|{start_date}|{location_name}|{primary_url}"
     return hashlib.sha1(key_source.encode("utf-8")).hexdigest()
 
 
 def write_event_jsonl(event):
-    """Write a single event to its respective daily .jsonl file if not already present."""
     date_str = event.get("startDate", "")[:10]
     if not date_str:
         return
 
     output_path = os.path.join(OUTPUT_DIR, f"{date_str}.jsonl")
     event_key = generate_event_key(event)
+    event_hash = hash_event_content(event)
 
-    # Load existing keys for the day (just once per day/file)
-    existing_keys = set()
+    existing_records = {}
     if os.path.exists(output_path):
         with open(output_path, "r", encoding="utf-8") as f:
             for line in f:
                 try:
                     existing_event = json.loads(line)
                     key = generate_event_key(existing_event)
-                    existing_keys.add(key)
+                    existing_records[key] = (
+                        existing_event,
+                        hash_event_content(existing_event),
+                    )
                 except json.JSONDecodeError:
                     continue
 
-    # Only write if the event is not already in the file
-    if event_key not in existing_keys:
-        with open(output_path, "a", encoding="utf-8") as f:
-            f.write(json.dumps(event, ensure_ascii=False) + "\n")
+    # Check for insert or update
+    if (event_key not in existing_records) or (
+        existing_records[event_key][1] != event_hash
+    ):
+        existing_records[event_key] = (event, event_hash)
+
+        # Overwrite the file with updated records
+        with open(output_path, "w", encoding="utf-8") as f:
+            for e, _ in existing_records.values():
+                f.write(json.dumps(e, ensure_ascii=False) + "\n")
 
 
 def main():
