@@ -27714,6 +27714,36 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Flemingdon Park Streets Plan Interactive Map and Survey",
+    "startDate": "2025-06-25T04:00:00.000Z",
+    "endDate": "2025-07-28T04:00:00.000Z",
+    "location": {
+      "@type": "Place",
+      "name": "Online",
+      "address": {},
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.7202421320528,
+        "longitude": -79.33903455734253
+      }
+    },
+    "description": "The City is developing a Neighbourhood Streets Plan (NSP) for Flemingdon Park. The Streets Plan will investigate road safety for vulnerable road users, excessive speeding​, excessive motor vehicle traffic on neighbourhood streets​, opportunities for active transportation (walking and cycling) and access to transit stops and stations. The survey will allow you to provide feedback on issues and ideas for your community by completing the survey using an interactive map.",
+    "url": "https://www.toronto.ca/community-people/get-involved/public-consultations/infrastructure-projects/flemingdon-park-streets-plan/",
+    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/9789-Flemingdon-Park-Webpage-Header-1024x338-20250625150248-8vfw_etkb2BSaG6oRx4jv4chxEA.jpg",
+    "organizer": {
+      "@type": "Organization",
+      "name": "City of Toronto",
+      "email": "jielan.xu@toronto.ca",
+      "telephone": "4163585874"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Virtual/Online Event"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "The Sunset Social",
     "startDate": "2025-06-26T23:00:00.000Z",
     "endDate": "2025-06-27T01:00:00.000Z",
@@ -30964,6 +30994,43 @@
       "@type": "Offer",
       "url": "https://anc.ca.apm.activecommunities.com/toronto/activity/search?center_ids=567&activity_category_ids=82&viewMode=list"
     }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Flemingdon Park Streets Plan In-Person Public Drop-In Event",
+    "startDate": "2025-07-14T21:30:00.000Z",
+    "endDate": "2025-07-14T23:30:00.000Z",
+    "location": {
+      "@type": "Place",
+      "name": "Flemingdon Park Ministry",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "#140, 10 Gateway Blvd",
+        "addressLocality": "North York",
+        "addressRegion": "ON",
+        "postalCode": "M3C 3A1",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.7098813,
+        "longitude": -79.3326187
+      }
+    },
+    "description": "The City is developing a Neighbourhood Streets Plan for the Flemingdon Park area that will investigate road safety for vulnerable road users, excessive speeding, excessive motor vehicle traffic on neighbourhood streets, opportunities for active transportation (walking and cycling) and access to transit stops and stations. Attend the drop-in event to view information panels, provide comments, ask questions and speak with the project team.",
+    "url": "https://www.toronto.ca/community-people/get-involved/public-consultations/infrastructure-projects/flemingdon-park-streets-plan/",
+    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/9789-Flemingdon-Park-Webpage-Header-1024x338-20250625150248-8vfw_QwrqAiwmcoKZPf4fXKkMIA.jpg",
+    "organizer": {
+      "@type": "Organization",
+      "name": "City of Toronto",
+      "email": "jielan.xu@toronto.ca",
+      "telephone": "4163585874"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Seminars/Workshops"
+    ]
   },
   {
     "@context": "https://schema.org",

@@ -2,266 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Trees Around the Branch Tour at Yorkville Library",
-    "startDate": "2025-06-25T22:00:00.000Z",
-    "endDate": "2025-06-25T23:30:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "Yorkville Library",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "22 Yorkville Ave",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M4W 1L4",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.6720537,
-        "longitude": -79.38869129999999
-      }
-    },
-    "description": "The Yorkville Library and its neighbourhood is home to a variety of trees. Join City of Toronto Urban Forestry staff to explore the natural world on a local neighbourhood walk. Learn how to recognize different species and fun facts about their cultural and ecological importance.\n\nChildren under 12 must be accompanied by a parent/caregiver.\n\nPlease note, the tour will start and end at the Yorkville library branch. The City of Toronto Urban Forestry staff will guide attendees outside and around the neighbourhood where there may be uneven, unpaved surfaces. Please dress and prepare accordingly for this outdoor program (e.g. hats, sunscreen, water, comfortable shoes).",
-    "url": "https://www.torontopubliclibrary.ca/detail.jsp?Entt=RDMEVT547746&R=EVT547746",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/Yorkville_ATWCbd4tWb2WRTHQPPqM6w.png",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Urban Forestry, Natural Environment and Community Programs",
-      "email": "aliya.din@toronto.ca",
-      "telephone": "4164509306"
-    },
-    "isAccessibleForFree": true,
-    "keywords": [
-      "Environmental",
-      "Tour",
-      "Walking"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "url": "https://www.torontopubliclibrary.ca/detail.jsp?Entt=RDMEVT547746&R=EVT547746"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "VRTO Spatial Media World Conference & Expo",
-    "startDate": "2025-06-25T17:00:00.000Z",
-    "endDate": "2025-06-27T02:00:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "OCAD University",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "100 McCaul St",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M5T 2W7",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.65318449999999,
-        "longitude": -79.3914842
-      }
-    },
-    "description": "Bringing together global experts in VR, AR, spatial computing, and AI. \n\nExperience: \n- Hands-on VR/AR activations \n- Student XR project showcases\n- Talks on immersive design, virtual production, generative AI, digital humans, haptics, and more\n- Networking with industry leading developers, creators, technologists, educators, producers, and business professionals\n\nToronto Video Game Month is set to bring the world of gaming to life! From adrenaline-pumping esports tournaments to massive outdoor games played under the open sky, this event is designed for all—from hardcore gamers to the game-curious. Immerse yourself in interactive experiences, discover the talent of Toronto's local indie developers, and engage with major studio activations. Plus, tap into the industry at a prestigious video game conference, thought-provoking workshops, and expert talks on the future of gaming. It's a month to discover, play, and connect with Toronto's thriving gaming community!",
-    "url": "https://conference.virtualreality.to",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/20170624-VRTO-Captive-Camera-8742-1024x684_erYJVbPaFy39fHtBOMbs0A.jpg",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Constant Change Media Group, Inc.",
-      "email": "keram@virtualreality.to",
-      "telephone": "3239634718"
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Arts/Exhibits",
-      "Consumer Show/Convention",
-      "Live Performances"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "price": 25,
-      "priceCurrency": "CAD"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Shab-e She'r Poetry Night CXII",
-    "startDate": "2025-06-25T23:00:00.000Z",
-    "endDate": "2025-06-26T02:00:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "Tranzac Club",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "292 Brunswick Ave",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M5S 2M7",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.6652267,
-        "longitude": -79.4075335
-      }
-    },
-    "description": "Canada's most diverse and brave poetry reading open microphone series. \n\nFeaturing readings by poets Sonja Greckol and Chet Singh and hosted by Bänoo Zan with an open microphone opportunity for poetry in any language.",
-    "url": "https://www.facebook.com/share/1Bg9rumSNb/",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/PWYjPE_8G1zpUhopt__R-w_6vOY-rp_uRGme5Qj2I5CMg.jpg",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Shab-e She'r (Poetry Night)",
-      "email": "rghrhino@gmail.com",
-      "telephone": "6477016347"
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Literary",
-      "World Culture"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "price": 10,
-      "priceCurrency": "CAD"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "FIVARS Festival of International Virtual & Augmented Reality Stories",
-    "startDate": "2025-06-25T19:00:00.000Z",
-    "endDate": "2025-06-27T03:00:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "OCAD University",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "100 McCaul St",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M5T 2W7",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.65318449999999,
-        "longitude": -79.3914842
-      }
-    },
-    "description": "Now in its 11th year, is a Toronto-grown internationally renown festival.\n\nToronto Video Game Month: Where Gamers and Creators Unite\n\nToronto Video Game Month is set to bring the world of gaming to life! From adrenaline-pumping esports tournaments to massive outdoor games played under the open sky, this event is designed for all—from hardcore gamers to the game-curious. Immerse yourself in interactive experiences, discover the talent of Toronto's local indie developers, and engage with major studio activations. Plus, tap into the industry at a prestigious video game conference, thought-provoking workshops, and expert talks on the future of gaming. It's a month to discover, play, and connect with Toronto's thriving gaming community!",
-    "url": "https://fivars.net",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/FIVARs festival_f-Zb2UudKyBiSk4O97QZWw.jpg",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Constant Change Media Group, Inc.",
-      "email": "info@fivars.net",
-      "telephone": "3239634718"
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Arts/Exhibits"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "price": 60,
-      "priceCurrency": "CAD",
-      "url": "https://fivars.net"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Trees Around the Branch Tour at Runnymede Library",
-    "startDate": "2025-06-25T18:00:00.000Z",
-    "endDate": "2025-06-25T19:00:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "Runnymede Library",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "2178 Bloor St W",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M6S 1M8",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.6519739,
-        "longitude": -79.47391739999999
-      }
-    },
-    "description": "The Runnymede Branch and its neighbourhood is home to a variety of trees. Join City of Toronto Urban Forestry staff to explore the natural world on a local neighbourhood walk. Learn how to recognize different species and fun facts about their cultural and ecological importance.\n\nChildren under 12 must be accompanied by a parent/caregiver.",
-    "url": "https://www.torontopubliclibrary.ca/detail.jsp?Entt=RDMEVT543697&R=EVT543697",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/Runnymede_QKTCQ0mCEr_U4G8KUvvwbw.png",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Urban Forestry, Natural Environment and Community Programs",
-      "email": "aliya.din@toronto.ca",
-      "telephone": "4164509306"
-    },
-    "isAccessibleForFree": true,
-    "keywords": [
-      "Environmental",
-      "Walking"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "url": "https://www.torontopubliclibrary.ca/detail.jsp?Entt=RDMEVT543697&R=EVT543697"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "World Vitiligo Day Innovation Summit 2025",
-    "startDate": "2025-06-25T12:30:00.000Z",
-    "endDate": "2025-06-25T21:30:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "Lake Lounge at the MaRS Waterfront",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "155 Queens Quay E",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M5A 0W4",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.6443873,
-        "longitude": -79.3667966
-      }
-    },
-    "description": "Coming to Canada for the first time ever! Join us in Toronto for a global moment of unity, innovation, and visibility for the vitiligo community. This year's summit is themed \"Innovation for Every Skin\", spotlighting the powerful intersection of AI, medtech, and patient advocacy.\n\nWhether you're living with vitiligo, working in dermatology, developing medical technology, or passionate about inclusive healthcare, this is your moment to connect and make an impact!",
-    "url": "https://worldvitiligoday.ca/",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/W8Qphp9o89OV_yPgbj-9vA_SvaavDCgiStKnuodL1cLUA.jpg",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Skinopathy",
-      "email": "jacqueline@skinopathy.com",
-      "telephone": "8332727546"
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Consumer Show/Convention",
-      "Talks",
-      "Virtual/Online Event"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "price": 31.59,
-      "priceCurrency": "CAD",
-      "url": "https://worldvitiligoday.ca/"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "The Sunset Social",
     "startDate": "2025-06-26T23:00:00.000Z",
     "endDate": "2025-06-27T01:00:00.000Z",
@@ -3512,6 +3252,43 @@
       "@type": "Offer",
       "url": "https://anc.ca.apm.activecommunities.com/toronto/activity/search?center_ids=567&activity_category_ids=82&viewMode=list"
     }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Flemingdon Park Streets Plan In-Person Public Drop-In Event",
+    "startDate": "2025-07-14T21:30:00.000Z",
+    "endDate": "2025-07-14T23:30:00.000Z",
+    "location": {
+      "@type": "Place",
+      "name": "Flemingdon Park Ministry",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "#140, 10 Gateway Blvd",
+        "addressLocality": "North York",
+        "addressRegion": "ON",
+        "postalCode": "M3C 3A1",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.7098813,
+        "longitude": -79.3326187
+      }
+    },
+    "description": "The City is developing a Neighbourhood Streets Plan for the Flemingdon Park area that will investigate road safety for vulnerable road users, excessive speeding, excessive motor vehicle traffic on neighbourhood streets, opportunities for active transportation (walking and cycling) and access to transit stops and stations. Attend the drop-in event to view information panels, provide comments, ask questions and speak with the project team.",
+    "url": "https://www.toronto.ca/community-people/get-involved/public-consultations/infrastructure-projects/flemingdon-park-streets-plan/",
+    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/9789-Flemingdon-Park-Webpage-Header-1024x338-20250625150248-8vfw_QwrqAiwmcoKZPf4fXKkMIA.jpg",
+    "organizer": {
+      "@type": "Organization",
+      "name": "City of Toronto",
+      "email": "jielan.xu@toronto.ca",
+      "telephone": "4163585874"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Seminars/Workshops"
+    ]
   },
   {
     "@context": "https://schema.org",
