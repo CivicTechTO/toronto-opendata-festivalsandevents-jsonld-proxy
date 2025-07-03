@@ -2,84 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "At Home in Toronto",
-    "startDate": "2025-07-02T15:00:00.000Z",
-    "endDate": "2025-07-02T21:00:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "The Market Gallery",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "95 Front St E",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M5E 1C2",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.6487202,
-        "longitude": -79.371608
-      }
-    },
-    "description": "What does home mean to you? Discover rarely seen artifacts from the City's collections and items from community members, the exhibition invites you to explore the many ways we define, create, and carry home with us. From a World War One soldier's return ticket home to a precious family object stewarded by multiple generations, you'll encounter belongings, voices, and stories of Toronto artists, makers, entrepreneurs, and community leaders as they share their unique perspectives on belonging, identity, and place. These powerful objects offer fresh, heartfelt perspectives on what it means to find, make, or remember home.  \n\nAt Home in Toronto includes the artworks of Rebecca Baird, Carl Beam, Fred Hagan, Robert Houle, Luis Jacob, Kit Li, Raoul Olou, Yasmine Louis, and Natalie Wood, as well as loaned works by Toronto artists Doug Brown and Frantz Brent-Harris.",
-    "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/museums/market-gallery/",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/Doll House_smaller_1wLlbaDu5wIVYgv8CzjZYA.jpg",
-    "organizer": {
-      "@type": "Organization",
-      "name": "City of Toronto Museums & Heritage Services",
-      "email": "jacquie.gardner@toronto.ca",
-      "telephone": "4167045915"
-    },
-    "isAccessibleForFree": true,
-    "keywords": [
-      "Arts/Exhibits",
-      "History",
-      "Indigenous",
-      "Museum"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Washed Up - Pop-Up Installation at Scarborough Museum",
-    "startDate": "2025-07-02T16:00:00.000Z",
-    "endDate": "2025-07-02T21:00:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "Scarborough Museum",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "1007 Brimley Rd",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M1P 3E8",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.75761117010184,
-        "longitude": -79.25482341995588
-      }
-    },
-    "description": "Beginning July 1st at Scarborough Museum, experience Washed Up by Hatecopy. The project captures the essence of liminal spaces that serve as cultural hubs for the South Asian immigrant communities, using the washing machine as a vessel to carry textiles that signify our roots and drawing visitors into an environment that intertwines the past, present, and future; acknowledging the dirty laundry of Canadian History and \"Truth,\" and reclaiming both seen and unseen spaces.\n\nMaria Qamar (b. 1991) is a Toronto-based pop artist whose work is focused in the South Asian diaspora and immigrant communities and their cultural experiences. The work specializes in themes regarding feminism, social change, humour, pop culture, politics and romance. The artist has been recognized both nationally and internationally with exhibits and features in the Museum of Contemporary Arts, the National Arts Centre, Sotheby's, Phillips Auction, and the AGO.",
-    "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/museums/scarborough-museum/",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/F&E Listings (29)_BZQdq95XDTIVuhuxCOT6yA.png",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Scarborough Museum",
-      "email": "shm@toronto.ca",
-      "telephone": "4163388807"
-    },
-    "isAccessibleForFree": true,
-    "keywords": [
-      "Arts/Exhibits",
-      "Museum"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Greektown on the Danforth Walking Tour",
     "startDate": "2025-07-03T22:30:00.000Z",
     "endDate": "2025-07-03T23:30:00.000Z",
@@ -2982,6 +2904,45 @@
     "isAccessibleForFree": true,
     "keywords": [
       "Environmental"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Echoes of Home: Pop-Up Exhibit at Fort York",
+    "startDate": "2025-07-30T14:00:00.000Z",
+    "endDate": "2025-07-30T21:00:00.000Z",
+    "location": {
+      "@type": "Place",
+      "name": "Fort York National Historic Site",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "250 Fort York Blvd",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5V 1A9",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6373107,
+        "longitude": -79.4070978
+      }
+    },
+    "description": "Visit Fort York this summer and check out the new pop-up exhibit \"Echoes of Home: Torontonians and their Struggles for Home\". This pop-up installation explores the compelling stories and experiences of Toronto's diverse communities who have fought for their sense of home, belonging and identity during periods of conflict and peace. \n\nThis installation is created in partnership with the Toronto Metropolitan University's Masters of Digital Media program.",
+    "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/museums/fort-york-national-historic-site/",
+    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/FY - Welcome Home Banner - Copy_dqmiS0r0_BVcovbei44edg.jpg",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fort York National Historic Site",
+      "email": "Colin.Sedgwick-Pinn@toronto.ca",
+      "telephone": "4163926954"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Arts/Exhibits",
+      "History",
+      "Museum"
     ]
   },
   {
