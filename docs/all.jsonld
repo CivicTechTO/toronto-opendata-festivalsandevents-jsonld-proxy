@@ -29671,6 +29671,43 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Survey on Installing a Cricket Pitch and Batting Cages in Milliken Park (Ward 23)",
+    "startDate": "2025-07-04T04:00:00.000Z",
+    "endDate": "2025-08-17T04:00:00.000Z",
+    "location": {
+      "@type": "Place",
+      "name": "Online",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Milliken Park",
+        "addressLocality": "Scarborough",
+        "addressRegion": "ON",
+        "postalCode": null,
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.82941810000001,
+        "longitude": -79.2718945
+      }
+    },
+    "description": "This survey is an opportunity for community members to share their preferences and feedback on the proposed new cricket pitch and cricket batting/practice cages in Milliken Park, including any concerns that should be considered or addressed in this proposal. The proposal aligns with the City's Cricket Strategy and the Parks and Recreation Facilities Plan.",
+    "url": "https://www.toronto.ca/city-government/planning-development/construction-new-facilities/parks-facility-plans-strategies/cricket-strategy/",
+    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/90a7-cricket-strategy-banner_0x38-gWfAlvAO2w7juhFsw.png",
+    "organizer": {
+      "@type": "Organization",
+      "name": "City of Toronto",
+      "email": "jielan.xu@toronto.ca",
+      "telephone": "4163585874"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Virtual/Online Event"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Salsa on St. Clair Street Festival",
     "startDate": "2025-07-05T16:00:00.000Z",
     "endDate": "2025-07-06T02:30:00.000Z",
