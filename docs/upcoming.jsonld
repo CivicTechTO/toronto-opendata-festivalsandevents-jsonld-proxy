@@ -2,93 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Downtown Movies in the Park Pre-event Party: Meet New Friends",
-    "startDate": "2025-07-09T22:00:00.000Z",
-    "endDate": "2025-07-10T03:00:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "The Pint Public House, Up the Stairs",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "277 Front St W",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M5V 2W6",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.6436911,
-        "longitude": -79.3883062
-      }
-    },
-    "description": "Meet fellow Torontoians then walk over to David Pecaut Square to watch a movie under the stars from approximately 9:00 pm onwards. \"Downtown Movies in the Park\" is presented by the Toronto Downtown West BIA in partnership with TIFF.\n\nWhat your ticket includes:\n- First 80 people to attend the event will receive a complimentary drink \n- TIFF themed trivia event hosted by Todotoronto \n- Magnetic Photo Booth - special photo booth/photo opps to capture the night\n- Glowsticks and icebreaker games\n\nTickets are non-exchangeable.\nDress Code: Casual Dress Code.\nPlease wear comfortable shoes.",
-    "url": "https://www.eventbrite.ca/e/downtown-movies-in-the-park-pre-event-party-meet-new-friends-tickets-1320666863139?aff=toronto",
-    "image": null,
-    "organizer": {
-      "@type": "Organization",
-      "name": "Todotoronto",
-      "email": "info@todotoronto.com",
-      "telephone": "6478294003"
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Film",
-      "Nightlife"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "price": 6.66,
-      "priceCurrency": "CAD",
-      "url": "https://www.eventbrite.ca/e/downtown-movies-in-the-park-pre-event-party-meet-new-friends-tickets-1320666863139?aff=toronto"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Trees Around the Branch at Leaside Library",
-    "startDate": "2025-07-09T14:00:00.000Z",
-    "endDate": "2025-07-09T15:30:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "Leaside Library",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "165 McRae Dr",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M4G 1S8",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.7062979,
-        "longitude": -79.3677821
-      }
-    },
-    "description": "The Leaside Branch and its neighbourhood is home to a variety of trees. Join City of Toronto Urban Forestry staff to explore the natural world on a local neighbourhood walk. Discover how to identify various species and learn fun facts about their cultural and ecological significance.\n\nChildren under 12 must be accompanied by a parent/caregiver.\n\nPlease note that the tour will start and end at the Leaside Branch and will be guided by the City of Toronto Urban Forestry staff. There may be uneven, unpaved surfaces along the route outside and around the neighbourhood. Please dress and prepare accordingly for this outdoor program (e.g. gloves/mittens, hats, sunscreen, water, comfortable shoes).",
-    "url": "https://www.torontopubliclibrary.ca/detail.jsp?Entt=RDMEVT545819&R=EVT545819",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/Leaside_9I3nf2UcZc4zelE2pgJM0g.png",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Urban Forestry, Natural Environment and Community Programs",
-      "email": "aliya.din@toronto.ca",
-      "telephone": "4164509306"
-    },
-    "isAccessibleForFree": true,
-    "keywords": [
-      "Environmental",
-      "Tour",
-      "Walking"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "url": "https://www.torontopubliclibrary.ca/detail.jsp?Entt=RDMEVT545819&R=EVT545819"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Family Fest",
     "startDate": "2025-07-10T22:30:00.000Z",
     "endDate": "2025-07-11T00:00:00.000Z",
@@ -155,45 +68,6 @@
     "description": "The ambassador group of youth and traditional marimba music, recognized for weaving a bridge between tradition and modernity in each of their performances. This powerful musical ensemble won first place at Colombia's Petronio Álvarez Pacific Music Festival in 2024. De Mar y Río, meaning \"of sea and river\" is made up of eleven young percussionists and singers, from different territories of the Pacific - Timbiquí, Cali, Guapi, Ladrilleros, El Charco, Iscuandé, and López de Micay. \n\nThe group formed in Cali, Colombia, through the guidance and direction of their early mentor, actor, lawyer, and cultural manager Felipe Amú. The group's name was chosen to reflect the diversity of their members' places of origin.",
     "url": "https://www.sunfest.on.ca/international-performers-25/de-mar-y-rio",
     "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/DE+MAR+Y+RIO_dCt65k1SAesM4rLBnB1r1Q.jpeg",
-    "organizer": {
-      "@type": "Organization",
-      "name": "DROM Taberna",
-      "email": "booking@dromtaberna.com",
-      "telephone": "6477482099"
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Food/Culinary",
-      "Live Performances",
-      "Music"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Scandinavian Folk Music with VÍÍÍK",
-    "startDate": "2025-07-10T00:00:00.000Z",
-    "endDate": "2025-07-10T02:00:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "DROM Taberna",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "458 Queen St W",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M5V 2A8",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.648213032332286,
-        "longitude": -79.39955775199168
-      }
-    },
-    "description": "Norwegian powerhouse Elisabeth Vik has established herself as an unrivaled live act on the contemporary Nordic music scene. Mythical figures emerge in flesh and  blood, and you can practically smell the primeval Norse landscapes as you are swept away in the music music. This is true folk music authenticity with a nerve and an  uncanny ability to breathe life into rich Nordic traditions with a devil-may-care  charisma.",
-    "url": "https://www.dromtaberna.com/events-9O8Cm/596t68fa3dls5mr-f59lm-tstxe-rfe8p-c3yj7-l239n-2n7wk-sftal-jdyrp-bp5ge-rprgf-dd63g-f9dz9",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/VIIK_optimized_2000_BlWRxKzHItaiWbeboHJcUQ.jpg",
     "organizer": {
       "@type": "Organization",
       "name": "DROM Taberna",
