@@ -2,48 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Digital Impressions: Urban Griots Summer Program",
-    "startDate": "2025-07-15T16:00:00.000Z",
-    "endDate": "2025-07-15T18:00:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "Jane Finch  Mall: JFM+ Space",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "1911 Finch Ave W",
-        "addressLocality": "North York",
-        "addressRegion": "ON",
-        "postalCode": "M3N 2V2",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.75671029999999,
-        "longitude": -79.51486249999999
-      }
-    },
-    "description": "A hybrid collage making workshop exploring multi-layered personal storytelling for the future.\nThis program offers a vibrant exploration of local children, ages 7 to 12, and youth, ages 13 to 16, conveying and preserving stories about the Jane and Finch community through art and technology.\n\nA City of Toronto Cultural Hotspot Signature Project",
-    "url": "https://docs.google.com/forms/d/e/1FAIpQLScDWjMAEOUKa-cOktSUjEvHLIzPjU_oMtuQi2sOr_b2UgjW2g/viewform",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/Picture17_NM6uAEb3VM0pXvcSqS3jzQ.jpg",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Arts Services",
-      "email": "miriah.bough@toronto.ca",
-      "telephone": "4163926833"
-    },
-    "isAccessibleForFree": true,
-    "keywords": [
-      "Arts/Exhibits",
-      "Seminars/Workshops"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLScDWjMAEOUKa-cOktSUjEvHLIzPjU_oMtuQi2sOr_b2UgjW2g/viewform"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "2025 Porch View Dances",
     "startDate": "2025-07-16T23:00:00.000Z",
     "endDate": "2025-07-17T00:30:00.000Z",
