@@ -2,50 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "George Li",
-    "startDate": "2025-07-17T23:30:00.000Z",
-    "endDate": null,
-    "location": {
-      "@type": "Place",
-      "name": "Koerner Hall",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "273 Bloor St W",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M5S 1W2",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.6677447,
-        "longitude": -79.3961672
-      }
-    },
-    "description": "Praised by The Washington Post for combining staggering technical prowess, a sense of command, and depth of expression, pianist George Li showcases his effortless grace and brilliant virtuosity in a recital featuring a selection of picturesque masterpieces. Including Beethoven - Piano Sonata No. 14 in C-sharp minor, Op. 27, No. 2, Moonlight, Piano Sonata No. 17 in D minor, Op. 31, No. 2, Tempest, Debussy - Images, série I and Mussorgsky - Pictures at an Exhibition.",
-    "url": "https://www.rcmusic.com/tickets/seats/382802",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/July 17 - George Li-min_5gHdz9SMyWFAmT-6EjpCGg.png",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Toronto Summer Music",
-      "email": "sarah@torontosummermusic.com",
-      "telephone": "6474305699"
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Live Performances",
-      "Music"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "price": 20,
-      "priceCurrency": "CAD",
-      "url": "https://www.rcmusic.com/tickets/seats/382802"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Trees Around the Branch Tour at Steeles Library",
     "startDate": "2025-07-18T18:00:00.000Z",
     "endDate": "2025-07-18T19:30:00.000Z",
@@ -167,45 +123,6 @@
       "price": 20,
       "priceCurrency": "CAD"
     }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Thursday Night Korean Jazz Dinner with Gonia",
-    "startDate": "2025-07-18T00:00:00.000Z",
-    "endDate": "2025-07-18T02:00:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "DROM Taberna",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "458 Queen St W",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M5V 2A8",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.64821694424498,
-        "longitude": -79.39955095392934
-      }
-    },
-    "description": "Seamlessly blending traditional Korean rhythms with sophisticated jazz elements, drawing attention both at home and internationally for their mastery. Gonia has created a new style of K-jazz based on traditional rhythms on the janggu, hourglass-shaped, double headed drum, with smooth and progressive guitar and bass licks with sophisticated melodies. Their music features different traditional rhythms - the breath of the gutgeori, the joy of jajinmori, and the dynamism that comes from whimori are all harmonized with improvisation and the beauty of jazz to create Gonia's unique sound!",
-    "url": "https://www.sunfest.on.ca/international-performers-25/gonia",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/gonia_6ugtjVAsGATp_jATe7RIVg.jpeg",
-    "organizer": {
-      "@type": "Organization",
-      "name": "DROM Taberna",
-      "email": "booking@dromtaberna.com",
-      "telephone": "6477482099"
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Food/Culinary",
-      "Live Performances",
-      "Music"
-    ]
   },
   {
     "@context": "https://schema.org",
