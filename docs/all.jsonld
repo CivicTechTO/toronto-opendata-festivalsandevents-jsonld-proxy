@@ -34259,6 +34259,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Celebrating the Art of the Ontario Society of Artists Life Members",
+    "startDate": "2025-09-29T14:00:00.000Z",
+    "endDate": "2025-09-30T00:00:00.000Z",
+    "location": {
+      "@type": "Place",
+      "name": "Cedar Ridge Creative Centre",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cedar Ridge Park, 225 Confederation Dr",
+        "addressLocality": "Scarborough",
+        "addressRegion": "ON",
+        "postalCode": "M1G 1B2",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.7574146,
+        "longitude": -79.2070437
+      }
+    },
+    "description": "Join the Ontario Society of Artists in honoring its Life Members, acknowledging their significant contributions to both the Society and the wider art community. These distinguished members actively teach, exhibit their work, sustain their artistic practices and generously volunteer their time. Representing diverse disciplines, including painting, sculpture, printmaking and photography, the Life Members embody the creative spirit and dedication that enrich the arts.",
+    "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/cultural-centres-galleries/cedar-ridge-creative-centre/",
+    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/Poetry of Imagination_ Eva Kolacz _HVGuXkoQ_C4kf33Kd7Io_A.jpg",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Cedar Ridge Creative Centre",
+      "email": "andrea.cnudde@toronto.ca",
+      "telephone": "4163964026"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Artisan",
+      "Arts/Exhibits"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Greek International Film Festival",
     "startDate": "2025-10-01T04:00:00.000Z",
     "endDate": "2025-10-27T04:00:00.000Z",
