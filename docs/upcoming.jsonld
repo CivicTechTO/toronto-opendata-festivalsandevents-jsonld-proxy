@@ -2,43 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "The Black Experience: Vol.1 - An Exhibition",
-    "startDate": "2025-08-04T13:00:00.000Z",
-    "endDate": "2025-08-04T20:00:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "Clark Centre for the Arts",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "191 Guildwood Pkwy",
-        "addressLocality": "Scarborough",
-        "addressRegion": "ON",
-        "postalCode": "M1E 1P5",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.7469037,
-        "longitude": -79.1937554
-      }
-    },
-    "description": "A visual meditation on identity, transformation and nostalgia—capturing the emotional and adaptive terrain of being Black under Western influences and systems. Free reception on August 9 from 1 to 3 p.m.",
-    "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/cultural-centres-galleries/clark-centre-for-the-arts/",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/Untitled design (3)_BdkC6r2iAenk49vkqU4Kxw.png",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Clark Centre for the Arts",
-      "email": "melissa.beynon@toronto.ca",
-      "telephone": "4163964800"
-    },
-    "isAccessibleForFree": true,
-    "keywords": [
-      "Arts/Exhibits"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "CampTO Plus at Spadina Museum",
     "startDate": "2025-08-05T13:00:00.000Z",
     "endDate": "2025-08-08T20:00:00.000Z",
