@@ -92,51 +92,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Thomas Anders of Modern Talking 2025",
-    "startDate": "2025-08-08T00:00:00.000Z",
-    "endDate": "2025-08-08T06:00:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "Rebel",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "11 Polson St First Floor",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M5A 1A4",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.64086229999999,
-        "longitude": -79.35456409999999
-      }
-    },
-    "description": "Celebrating 40 years of Modern Talking! An evening of Euro dance music entertainment featuring Thomas Anders from Modern Talking with his live band & featuring Precious Wilson (One Way ticket) accompanied by dancers! High energy music featuring The Gentleman Of Music - Thomas Anders (original magnetic voice of Modern Talking) accompanied by his Band! So put your dancing shoes on and come on over for this historic night!\n\nEvent is 19+ only.",
-    "url": "https://www.tix4us.com/tatoronto/tickets.html",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/Thomas Anders - Profile 2_ovemLjGIlstnr8JBCeGU-w.jpg",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Tix4Us",
-      "email": "info@tix4us.com",
-      "telephone": "4242446040"
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Live Performances",
-      "Music",
-      "Nightlife"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "price": 125,
-      "priceCurrency": "CAD",
-      "url": "https://www.tix4us.com/tatoronto/tickets.html"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Community Environment Day at Disco Drop-Off Depot",
     "startDate": "2025-08-10T14:00:00.000Z",
     "endDate": "2025-08-10T18:00:00.000Z",
