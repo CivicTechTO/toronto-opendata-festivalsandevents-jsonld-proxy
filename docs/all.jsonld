@@ -32729,6 +32729,36 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Maximum Indoor Temperature for Rental Units and Cooling Rooms Survey",
+    "startDate": "2025-08-11T04:00:00.000Z",
+    "endDate": "2025-09-08T04:00:00.000Z",
+    "location": {
+      "@type": "Place",
+      "name": "Online",
+      "address": {},
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.61205440908016,
+        "longitude": -79.37276722668966
+      }
+    },
+    "description": "In December 2024, City Council endorsed a maximum indoor temperature requirement for rental units and cooling rooms (2024.PH17.5). For tenants, this may mean that your home or a common room in your building can not be more than 26 degrees Celsius during the summer. To support this, the City is seeking input from residents, tenants and rental property owners to determine how to achieve a maximum indoor temperature requirement. Submit your feedback by September 8, 2025 using this online form.",
+    "url": "https://www.toronto.ca/community-people/housing-shelter/rental-housing-tenant-information/rental-housing-standards/indoor-temperatures-in-apartment-units/",
+    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/A-Horizontal-white-thermometer-and-hygrometer-on-wooden-surface-20250811193853-he7m1syywhli_FExt3cCcUeHRe0KXChiu5A.jpg",
+    "organizer": {
+      "@type": "Organization",
+      "name": "City of Toronto",
+      "email": "jielan.xu@toronto.ca",
+      "telephone": "4163585874"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Virtual/Online Event"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "GLOBL JAM 2025",
     "startDate": "2025-08-13T15:30:00.000Z",
     "endDate": "2025-08-14T00:00:00.000Z",
