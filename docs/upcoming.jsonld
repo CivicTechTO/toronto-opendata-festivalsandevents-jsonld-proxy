@@ -2,49 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "GLOBL JAM 2025",
-    "startDate": "2025-08-13T15:30:00.000Z",
-    "endDate": "2025-08-14T00:00:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "Mattamy Athletic Centre",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "50 Carlton St.",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M5B 1J2",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.6621838,
-        "longitude": -79.38033089999999
-      }
-    },
-    "description": "It takes more than talent-it's the unseen sacrifices, the sweat that never stops, the moments when walking away would be easier. But the ones who refuse to back down? They rise, and own the game.\n‍\nThis summer, the future of basketball takes center stage as GLOBL JAM returns to Canada. The best Under-23 men's and women's teams on the planet go head-to-head in a relentless 5-on-5 battle with every moment broadcast nationwide on Sportsnet.\n‍\nWatch Team Canada's next NBA and WNBA stars rise on home soil.\nThis is more than a tournament, it's a proving ground. The grind before the glory.",
-    "url": "https://www.globljam.ca/#s-tickets",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/5nvGaFjwDJxPbkbaKQ-ldw_12mJjF8RPTci6XXDb093Qw.jpg",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Canada Basketball",
-      "email": "events@basketball.ca",
-      "telephone": "6478673559"
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Sports"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "price": 16,
-      "priceCurrency": "CAD",
-      "url": "https://www.globljam.ca/#s-tickets"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Trees Around the Branch Tour at Malvern Library",
     "startDate": "2025-08-14T18:00:00.000Z",
     "endDate": "2025-08-14T19:30:00.000Z",
@@ -855,6 +812,43 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Street Vending Bylaw Review In-person Consultation Meeting",
+    "startDate": "2025-09-10T22:00:00.000Z",
+    "endDate": "2025-09-10T23:30:00.000Z",
+    "location": {
+      "@type": "Place",
+      "name": "Metro Hall",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Metro Hall, 55 John St",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5V 3C6",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6462045,
+        "longitude": -79.38894239999999
+      }
+    },
+    "description": "The City is conducting a review of the street vending bylaws to expand opportunities for street vendors. The review aims to create a licensing system that reflects the vibrancy of Toronto, with rules that are clearer and easier to follow. Public consultations will take place in September 2025, and a survey is currently open until September 30, 2025.",
+    "url": "https://www.toronto.ca/services-payments/permits-licences-bylaws/street-vending-non-food-hawkerpedlar-assistants/street-vending-bylaw-review/",
+    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/bigstock-Circus-Performers-Entertain_gilhVQqO3cVqI3c8OB26Tg.jpg",
+    "organizer": {
+      "@type": "Organization",
+      "name": "City of Toronto",
+      "email": "jielan.xu@toronto.ca",
+      "telephone": "4163585874"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Seminars/Workshops"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Roncesvalles Polish Festival",
     "startDate": "2025-09-13T15:00:00.000Z",
     "endDate": "2025-09-14T03:00:00.000Z",
@@ -1371,6 +1365,36 @@
     "isAccessibleForFree": true,
     "keywords": [
       "Environmental"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Street Vending Bylaw Review Online Consultation Meeting",
+    "startDate": "2025-09-22T14:00:00.000Z",
+    "endDate": "2025-09-22T15:30:00.000Z",
+    "location": {
+      "@type": "Place",
+      "name": "Online",
+      "address": {},
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.61121525317374,
+        "longitude": -79.37021255493164
+      }
+    },
+    "description": "The City is conducting a review of the street vending bylaws to expand opportunities for street vendors. The review aims to create a licensing system that reflects the vibrancy of Toronto, with rules that are clearer and easier to follow. Public consultations will take place in September 2025, and a survey is currently open until September 30, 2025.",
+    "url": "https://www.toronto.ca/services-payments/permits-licences-bylaws/street-vending-non-food-hawkerpedlar-assistants/street-vending-bylaw-review/",
+    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/bigstock-Circus-Performers-Entertain_QQUckZHGl5RZOC6qHzX4XA.jpg",
+    "organizer": {
+      "@type": "Organization",
+      "name": "City of Toronto",
+      "email": "jielan.xu@toronto.ca",
+      "telephone": "4163585874"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Virtual/Online Event"
     ]
   },
   {
