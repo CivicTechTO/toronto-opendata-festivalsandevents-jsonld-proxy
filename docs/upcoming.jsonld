@@ -2,49 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "CampTO Plus at Spadina Museum",
-    "startDate": "2025-08-18T13:00:00.000Z",
-    "endDate": "2025-08-22T20:00:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "Spadina Museum",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "285 Spadina Rd",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M5R 2V5",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.6789986,
-        "longitude": -79.40813039999999
-      }
-    },
-    "description": "Kids can enjoy arts and crafts like paper making, clay modeling and baking, inspired by the historic Spadina house and gardens. Explore a 100-year-old home, uncovering hidden secrets and learning about life in the 1920s. With outdoor games, garden visits and creative projects, this camp offers a fun, unique experience like no other",
-    "url": "https://anc.ca.apm.activecommunities.com/toronto/activity/search?center_ids=567&activity_category_ids=82&viewMode=list",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/spadina play on lawn3_LsxMDBUtOOJ1-B_kOAxL5w.JPG",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Spadina Museum",
-      "email": "Karen.Raittinen@toronto.ca",
-      "telephone": "4163383059"
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Camp",
-      "History",
-      "Museum"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "url": "https://anc.ca.apm.activecommunities.com/toronto/activity/search?center_ids=567&activity_category_ids=82&viewMode=list"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Community Environment Day at L'Amoreaux Community Recreation Centre",
     "startDate": "2025-08-23T14:00:00.000Z",
     "endDate": "2025-08-23T18:00:00.000Z",
