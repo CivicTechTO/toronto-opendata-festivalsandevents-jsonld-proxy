@@ -2,82 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Community Environment Day at L'Amoreaux Community Recreation Centre",
-    "startDate": "2025-08-23T14:00:00.000Z",
-    "endDate": "2025-08-23T18:00:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "L' Amoreaux Community Recreation Centre",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "2000 McNicoll Ave",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M1V 5E9",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.81266,
-        "longitude": -79.30489
-      }
-    },
-    "description": "Join Councillor Mantas (Ward 22) and the City of Toronto to help reduce the amount of waste going to landfill. Drop off household items for donation, electronics for reuse or recycling and household hazardous waste for proper disposal. \n\nPick up free bagged compost while supplies last and kitchen catchers for organics ($7 each – cash, debit and credit accepted).",
-    "url": "https://www.toronto.ca/services-payments/recycling-organics-garbage/community-environment-days/",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/CED Calendar Image 3_wuYrOjd_txFV-YrGbWAXww.jpg",
-    "organizer": {
-      "@type": "Organization",
-      "name": "City of Toronto",
-      "email": "erin.gardhouse@toronto.ca",
-      "telephone": "4372204091"
-    },
-    "isAccessibleForFree": true,
-    "keywords": [
-      "Environmental"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The 14th Annual Afro-Carib Fest",
-    "startDate": "2025-08-23T16:00:00.000Z",
-    "endDate": "2025-08-24T01:00:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "Thomson Memorial Park",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "1005 Brimley Rd",
-        "addressLocality": "Scarborough",
-        "addressRegion": "ON",
-        "postalCode": "M1P 3E9",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.7581018,
-        "longitude": -79.25679740000001
-      }
-    },
-    "description": "Join us for an award-winning two day outdoor festival that celebrates diversity by showcasing the arts, culture and heritage of the African and Caribbean communities and beyond to over 50,000 attendees. Audiences will be engaged through live performances from over 120 local artists, over 80 vendors, a cultural parade, a kid's zone, dance competitions with cash prizes, drum circles, raffle draws with prizes, and much more. \n\nAfro-Carib Fest invites people of all backgrounds to share in cultural presentations, artistic performances, learning, and networking opportunities.",
-    "url": "https://afrocaribfestival.com/",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/Screenshot 2025-03-26 092522_Ne0FdBZSZCDP5uJXzRO8ag.png",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Heritage Skills Development Centre",
-      "email": "info@afrocaribfestival.com",
-      "telephone": "4163451613"
-    },
-    "isAccessibleForFree": true,
-    "keywords": [
-      "Celebration",
-      "Family/Children",
-      "World Culture"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Summer Series at Trillium Park",
     "startDate": "2025-08-24T18:00:00.000Z",
     "endDate": "2025-08-25T02:00:00.000Z",
@@ -111,49 +35,6 @@
     "keywords": [
       "Music"
     ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Whimsy Woods Fantasy Ball",
-    "startDate": "2025-08-24T00:00:00.000Z",
-    "endDate": "2025-08-24T05:00:00.000Z",
-    "location": {
-      "@type": "Place",
-      "name": "The Great Hall",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "1087 Queen St W",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M6J 1H3",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.6432586,
-        "longitude": -79.4220689
-      }
-    },
-    "description": "Step into the magical world of your favourite books. Come dressed to impress and join in for an evening of revelry and dancing! \n\nThis event is for ages 19 and older.",
-    "url": "https://www.bookishballs.com/event-details/inaugural-bookish-ball-2025",
-    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/IMG_1502_AykMbavb3Mrrze7FdQjxfA.jpeg",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Bookish Balls",
-      "email": "info@bookishballs.com",
-      "telephone": "4166595477"
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Nightlife"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "price": 200,
-      "priceCurrency": "CAD",
-      "url": "https://www.bookishballs.com/event-details/inaugural-bookish-ball-2025"
-    }
   },
   {
     "@context": "https://schema.org",
