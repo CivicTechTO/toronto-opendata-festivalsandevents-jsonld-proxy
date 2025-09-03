@@ -33561,6 +33561,43 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Nature…Inspiration of Hope Reception",
+    "startDate": "2025-09-06T17:00:00.000Z",
+    "endDate": "2025-09-06T19:00:00.000Z",
+    "location": {
+      "@type": "Place",
+      "name": "Clark Centre for the Arts",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "191 Guildwood Pkwy",
+        "addressLocality": "Scarborough",
+        "addressRegion": "ON",
+        "postalCode": "M1E 1P5",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.7469037,
+        "longitude": -79.1937554
+      }
+    },
+    "description": "Through textured landscapes, abstract forms and mixed media, Dara Aram's works express hope, peace and the need for environmental preservation through an orchestra of colours.",
+    "url": "https://www.toronto/clark-centre-for-the-arts/",
+    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/September_Light and Hope_2 2024 acrylic on canvas_bbBEFrubcbysMjBNUVHJwA.JPG",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Clark for the Arts",
+      "email": "Karen.Harkins@toronto.ca",
+      "telephone": "4163967384"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Arts/Exhibits"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Community Environment Day at Bridgepoint Hospital",
     "startDate": "2025-09-07T14:00:00.000Z",
     "endDate": "2025-09-07T18:00:00.000Z",
@@ -33667,6 +33704,43 @@
     "isAccessibleForFree": true,
     "keywords": [
       "Arts/Exhibits"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Toronto EV Day",
+    "startDate": "2025-09-09T15:00:00.000Z",
+    "endDate": "2025-09-09T18:00:00.000Z",
+    "location": {
+      "@type": "Place",
+      "name": "Nathan Philips Square",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "100 Queen St W",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5H 2N3",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6527069,
+        "longitude": -79.38341369999999
+      }
+    },
+    "description": "This event, held at Nathan Philips Square, will showcase the City's diverse fleet of electric vehicle assets. Learn about the City's extensive EV charging network and see how electric vehicle adoption is moving Toronto towards achieving our climate and sustainability goals.",
+    "url": "https://www.toronto.ca/services-payments/water-environment/environmentally-friendly-city-initiatives/reports-plans-policies-research/electric-vehicles/",
+    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/97a0-EV-Charging-20250902141511-2m1zltlohlyk__P0QUgbyp_hlV0zRmTTVRQ.jpg",
+    "organizer": {
+      "@type": "Organization",
+      "name": "City of Toronto",
+      "email": "jielan.xu@toronto.ca",
+      "telephone": "4163585874"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Public Square"
     ]
   },
   {
