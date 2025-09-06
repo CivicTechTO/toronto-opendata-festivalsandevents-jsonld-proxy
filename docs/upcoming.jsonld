@@ -739,6 +739,36 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Tree Bylaw Review Virtual Meetings",
+    "startDate": "2025-09-16T22:30:00.000Z",
+    "endDate": "2025-09-17T00:00:00.000Z",
+    "location": {
+      "@type": "Place",
+      "name": "Online",
+      "address": {},
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.60476463270387,
+        "longitude": -79.37852099775893
+      }
+    },
+    "description": "Toronto's urban forest is a vital part of our city's health, resilience, and livability. As the City of Toronto works toward its goal of 40 per cent tree canopy cover by 2050, residents play a key role in protecting and enhancing our shared green spaces. The City is reviewing its Tree bylaws and related policies to better support tree planting, preservation, and maintenance across all neighbourhoods. This virtual meeting is an opportunity to share your thoughts on proposed changes, including new protections for mature trees, improved enforcement, and more equitable support for property owners. Your feedback will help shape the future of Toronto's urban forest.",
+    "url": "https://www.toronto.ca/services-payments/water-environment/trees/tree-bylaw-review/",
+    "image": "https://secure.toronto.ca/webapps/CC/fileAPI/edc_eventcal/Bermondsey-TPZ-20250829165321-cw97btn3sueg_GCQZIfacbM_gdgRdscTymQ.jpg",
+    "organizer": {
+      "@type": "Organization",
+      "name": "City of Toronto",
+      "email": "jielan.xu@toronto.ca",
+      "telephone": "4163585874"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Virtual/Online Event"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Polaris Music Prize",
     "startDate": "2025-09-17T00:00:00.000Z",
     "endDate": "2025-09-17T02:00:00.000Z",
