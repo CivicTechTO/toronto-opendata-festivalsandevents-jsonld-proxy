@@ -1,9 +1,9 @@
 name: Update JSON-LD Events
 
-on:
-  workflow_dispatch: # Allows manual run
-  schedule:
-    - cron: "0 6 * * *" # Runs daily at 6am UTC (~2am Toronto time)
+# on:
+#   workflow_dispatch: # Allows manual run
+#   schedule:
+#     - cron: "0 6 * * *" # Runs daily at 6am UTC (~2am Toronto time)
 
 jobs:
   build:
