@@ -1,7 +1,7 @@
-from urllib.parse import urljoin
 from html import unescape
 from ftfy import fix_text
 import re
+import json
 
 
 def normalize_text(s):
@@ -11,57 +11,76 @@ def normalize_text(s):
 
 # Used to prepend image URLs if they are relative
 TORONTO_IMAGE_BASE = "https://secure.toronto.ca"
+IMAGE_CDN_BASE = "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/"
 LOCALITIES = ["Toronto", "North York", "Scarborough", "Etobicoke", "East York", "York"]
 
 
-def transform_event(cal_event):
+def transform_event(evt):
     """
     Convert a single raw event record to schema.org/Event JSON-LD format.
+    Updated for the new Toronto Open Data API schema (2025).
     """
-    evt = cal_event["calEvent"]
-    location = evt.get("locations", [{}])[0]
-    address = location.get("address", "")
-    reservation = evt.get("reservation", {})
+    # Get first location if available
+    locations = evt.get("event_locations", [])
+    location = locations[0] if locations else {}
 
-    # Get first datetime range for the event
-    start_dt = evt.get("dates", [{}])[0].get("startDateTime")
-    end_dt = evt.get("dates", [{}])[0].get("endDateTime")
+    # Get address
+    address = location.get("location_address", "")
 
-    # Clean up relative image URLs
-    image_url = evt.get("image", {}).get("url")
-    if image_url and not image_url.startswith("http"):
-        image_url = urljoin(TORONTO_IMAGE_BASE, image_url)
+    # Get dates
+    start_dt = evt.get("event_startdate")
+    end_dt = evt.get("event_enddate")
 
-    # Choose the most relevant URL: reservation site preferred
-    primary_url = reservation.get("website") or evt.get("eventWebsite")
+    # Build image URL from new schema
+    image_url = None
+    images = evt.get("event_image", [])
+    if images and isinstance(images, list) and len(images) > 0:
+        img = images[0]
+        if isinstance(img, dict) and img.get("bin_id"):
+            image_url = f"{IMAGE_CDN_BASE}{img['bin_id']}"
 
-    # Convert category string to a list of keywords
-    raw_keywords = evt.get("categoryString", "")
-    keywords = [unescape(k.strip()) for k in raw_keywords.split(",") if k.strip()]
+    # Choose the most relevant URL
+    primary_url = evt.get("ticket_website") or evt.get("event_website")
+
+    # Convert category array to keywords
+    categories = evt.get("event_category", [])
+    if isinstance(categories, list):
+        keywords = [normalize_text(k) for k in categories if k]
+    else:
+        keywords = []
+
+    # Get organizer from partnerships or fallback
+    organizer_name = ""
+    partnerships = evt.get("partnerships", [])
+    if partnerships and isinstance(partnerships, list):
+        for p in partnerships:
+            if isinstance(p, dict) and p.get("text"):
+                organizer_name = p.get("text")
+                break
 
     # Build core schema.org Event structure
     event = {
         "@context": "https://schema.org",
         "@type": "Event",
-        "name": normalize_text(evt.get("eventName", "")),
+        "name": normalize_text(evt.get("event_name", "")),
         "startDate": start_dt,
         "endDate": end_dt,
         "location": {
             "@type": "Place",
-            "name": normalize_text(location.get("locationName", "Toronto")),
-            "address": parse_address(address),  # Use utility to parse addres
-            "geo": extract_geo(location),  # Optional but added if available
+            "name": normalize_text(location.get("location_name", "Toronto")),
+            "address": parse_address(address),
+            "geo": extract_geo(location),
         },
-        "description": normalize_text(evt.get("description", "")),
+        "description": normalize_text(evt.get("event_description", "")),
         "url": primary_url,
         "image": image_url,
         "organizer": {
             "@type": "Organization",
-            "name": normalize_text(evt.get("orgName", "")),
-            "email": evt.get("orgEmail"),
-            "telephone": evt.get("orgPhone"),
+            "name": normalize_text(organizer_name),
+            "email": evt.get("event_email"),
+            "telephone": evt.get("event_telephone"),
         },
-        "isAccessibleForFree": evt.get("freeEvent", "").strip().lower() == "yes",
+        "isAccessibleForFree": str(evt.get("free_event", "")).strip().lower() == "yes",
         "keywords": keywords,
     }
 
@@ -77,20 +96,20 @@ def build_offer(evt):
     """
     Optionally build an Offer block for pricing and ticketing.
     """
-    cost = evt.get("cost", {})
-    reservation_url = evt.get("reservation", {}).get("website")
     offer = {}
 
-    if isinstance(cost, dict):
-        # Handle different cost formats
-        if "from" in cost or "to" in cost:
-            offer["price"] = cost.get("from") or cost.get("to")
-        elif "ga" in cost:
-            offer["price"] = cost["ga"]
+    # Check various price fields
+    price = (
+        evt.get("event_price") or
+        evt.get("event_price_adult") or
+        evt.get("event_price_low")
+    )
 
-        if "price" in offer:
-            offer["priceCurrency"] = "CAD"
+    if price:
+        offer["price"] = price
+        offer["priceCurrency"] = "CAD"
 
+    reservation_url = evt.get("ticket_website")
     if reservation_url:
         offer["url"] = reservation_url
 
@@ -151,26 +170,34 @@ def parse_address(full_address):
 def extract_geo(location):
     """
     Extract latitude and longitude as a schema.org GeoCoordinates object.
-
-    Args:
-        location (dict): A location object from the raw event data.
-
-    Returns:
-        dict or None: A schema.org-compatible GeoCoordinates block, or None if missing.
+    The new schema stores GPS as a JSON string in location_gps field.
     """
-    coords = location.get("coords")
+    gps_str = location.get("location_gps")
 
-    # Handle if coords is a list of dicts
-    if isinstance(coords, list) and coords:
-        coords = coords[0]
+    if gps_str and isinstance(gps_str, str):
+        try:
+            gps_data = json.loads(gps_str)
+            if isinstance(gps_data, list) and gps_data:
+                coords = gps_data[0]
+                lat = coords.get("gps_lat")
+                lng = coords.get("gps_lng")
+                if lat and lng:
+                    return {
+                        "@type": "GeoCoordinates",
+                        "latitude": lat,
+                        "longitude": lng,
+                    }
+        except (json.JSONDecodeError, TypeError, KeyError):
+            pass
 
-    # Handle if coords is a single dict
-    if isinstance(coords, dict):
+    # Fallback to direct fields if available
+    lat = location.get("geo_lat")
+    lng = location.get("geo_long")
+    if lat and lng:
         return {
             "@type": "GeoCoordinates",
-            "latitude": coords.get("lat"),
-            "longitude": coords.get("lng"),
+            "latitude": lat,
+            "longitude": lng,
         }
 
-    # Fallback if coords is missing or unrecognized format
     return None

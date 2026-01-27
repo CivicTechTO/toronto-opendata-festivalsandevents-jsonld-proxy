@@ -19,7 +19,7 @@ def get_latest_resource_url():
     params = {"id": PACKAGE_NAME}
 
     print("🔍 Fetching CKAN package metadata...")
-    response = requests.get(package_url, params=params)
+    response = requests.get(package_url, params=params, timeout=60)
     response.raise_for_status()
     data = response.json()
 
@@ -49,40 +49,33 @@ def append_query_params(base_url, new_params):
     return urlunparse(parsed._replace(query=encoded))
 
 
-def stream_resource_data(resource_url, batch_size=500):
+def stream_resource_data(resource_url):
     """
-    Generator to stream paginated event data from the resource.
+    Generator to stream event data from the resource.
 
     Args:
-        resource_url (str): Base CKAN resource URL (with or without query params).
-        batch_size (int): Number of events per page (default: 500).
+        resource_url (str): CKAN resource URL to the JSON file.
 
     Yields:
         dict: Each event record.
     """
-    print(f"⬇️ Streaming event data from: {resource_url}")
+    print(f"⬇️ Fetching event data from: {resource_url}")
 
-    start = 1
-    total_yielded = 0
-    page = 1
+    response = requests.get(resource_url, timeout=60)
+    response.raise_for_status()
+    data = response.json()
 
-    while True:
-        paged_url = append_query_params(resource_url, {"start": start, "limit": batch_size})
-        print(f"🌐 Requesting: {paged_url}")
-        response = requests.get(paged_url)
-        response.raise_for_status()
-        batch = response.json()
+    # Handle wrapped response {"value": [...]} or plain array [...]
+    if isinstance(data, dict) and "value" in data:
+        events = data["value"]
+    elif isinstance(data, list):
+        events = data
+    else:
+        raise RuntimeError(f"Unexpected response format: {type(data)}")
 
-        if not batch:
-            break
+    print(f"📦 Received {len(events)} events")
 
-        print(f"📦 Page {page} | Start {start} | Events: {len(batch)}")
+    for item in events:
+        yield item
 
-        for item in batch:
-            yield item
-            total_yielded += 1
-
-        start += batch_size
-        page += 1
-
-    print(f"📊 Total events streamed: {total_yielded}")
+    print(f"📊 Total events streamed: {len(events)}")
