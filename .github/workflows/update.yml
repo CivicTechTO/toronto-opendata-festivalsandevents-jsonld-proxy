@@ -35,7 +35,11 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add docs/
-          git commit -m "🔄 Auto-update JSON-LD data $(date -u '+%Y-%m-%d %H:%M:%S')"
-          git push
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🔄 Auto-update JSON-LD data $(date -u '+%Y-%m-%d %H:%M:%S')"
+            git push
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
