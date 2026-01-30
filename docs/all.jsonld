@@ -16799,6 +16799,49 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Prepare The Ground",
+    "startDate": "2025-05-30T00:00:00-04:00",
+    "endDate": "2025-06-01T00:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Trinity St Pauls",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "427 Bloor St W",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5S 1X6",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.66602260000001,
+        "longitude": -79.40570559999999
+      }
+    },
+    "description": "A community-led arts & heavy music festival taking place across multiple venues - the first of its kind in the city",
+    "url": "https://link.dice.fm/H4b8424b68b2?dice_id=H4b8424b68b2",
+    "image": null,
+    "organizer": {
+      "@type": "Organization",
+      "name": "DICE",
+      "email": "denholm.e.whale@gmail.com",
+      "telephone": null
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Music"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "195",
+      "priceCurrency": "CAD",
+      "url": "https://link.dice.fm/H4b8424b68b2?dice_id=H4b8424b68b2"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Underground Night Market - UNDR GRND NGHT MRKT",
     "startDate": "2025-05-31T21:00:00.000Z",
     "endDate": "2025-06-01T03:00:00.000Z",
@@ -27827,6 +27870,51 @@
     "keywords": [
       "Arts/Exhibits"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Wednesday Night Dinner with Zoe Thiessen's Album Release",
+    "startDate": "2025-06-18T19:00:00-04:00",
+    "endDate": "2025-06-18T19:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Drom Taberna",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "458 Queen St W",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5V 2A8",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.648278137,
+        "longitude": -79.399590594
+      }
+    },
+    "description": "Zoe Thiessen is a singer/songwriter, guitarist and violinist now based in Toronto after years of living abroad. Her finely crafted indie folk songs always have a hint of the fairy tale about them, and she delivers them with a warm alto that has a timbre all its own. She released her first album 'The Lives of Saints and Sinners' in 2012, described by Penguin Eggs Magazine as 'a sparkling debut.' Now, back in Toronto, she is performing her own material alongside Toronto guitar veteran Jessica Stuart, with intricate arrangements reminiscent of Andrew Bird. This album release concert will feature songs from 'Sneak Back In', a collection of six songs, produced by Stuart, that range from heartbreakingly intimate to cathartically danceable. She will be joined by Stuart on electric guitar, Liam Fortunate Smith on bass and Lowell Whitty on drums.\n\nOpening is Charles Tilden, a multi-instrumentalist, singer and songwriter based in Toronto. Charles was the primary songwriter for indie rock bands P",
+    "url": "https://www.eventbrite.ca/e/zoe-thiessens-album-release-tickets-1348615006789?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl",
+    "image": null,
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": null,
+      "telephone": null
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Food/Culinary",
+      "Live Performances",
+      "Music"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "18.00",
+      "priceCurrency": "CAD",
+      "url": "https://www.eventbrite.ca/e/zoe-thiessens-album-release-tickets-1348615006789?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl"
+    }
   },
   {
     "@context": "https://schema.org",
@@ -54877,7 +54965,7 @@
     "@type": "Event",
     "name": "Youth Arts Mentorship at Gibson House",
     "startDate": "2025-12-13T11:00:00-05:00",
-    "endDate": "2026-02-01T11:00:00-05:00",
+    "endDate": "2026-03-01T11:00:00-05:00",
     "location": {
       "@type": "Place",
       "name": "Gibson House Museum",
