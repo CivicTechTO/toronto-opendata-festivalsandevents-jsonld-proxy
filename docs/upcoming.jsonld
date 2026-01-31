@@ -226,6 +226,50 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Up in Jokes Toronto Comedy Show",
+    "startDate": "2026-01-31T20:00:00-05:00",
+    "endDate": "2026-01-31T20:00:00-05:00",
+    "location": {
+      "@type": "Place",
+      "name": "The Boardroom Comedy Club",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1350 St Clair Ave W",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M6E 1C4",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.676841972,
+        "longitude": -79.449243868
+      }
+    },
+    "description": "Taking comedy to a higher level! \n\nFeaturing a lineup of hilarious comedians who know how to bring the laughs, this show promises non-stop fun, clever punchlines, and a night filled with joy. Whether you're flying high or keeping it chill, this comedy show has got you covered!",
+    "url": " https://www.theboardroomcomedyclub.com",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/0TqL-a69K2IZxrE8HVZr4w",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": "poonam3123@hotmail.com",
+      "telephone": "416-834-8654"
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Comedy",
+      "Live Performances"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "20.00",
+      "priceCurrency": "CAD",
+      "url": " https://www.theboardroomcomedyclub.com"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "SOLD OUT Víkingur Ólafsson on Piano",
     "startDate": "2026-02-01T15:00:00-05:00",
     "endDate": "2026-02-01T15:00:00-05:00",
@@ -646,6 +690,50 @@
       "Environmental",
       "Tour"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Glow-in-the-Dark Paint Night",
+    "startDate": "2026-02-03T20:00:00-05:00",
+    "endDate": "2026-02-28T18:00:00-05:00",
+    "location": {
+      "@type": "Place",
+      "name": "Artbox Studio Gallery",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1226 Kingston Rd",
+        "addressLocality": "Scarborough",
+        "addressRegion": "ON",
+        "postalCode": "M1N 1P3",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6826938189,
+        "longitude": -79.2787683084
+      }
+    },
+    "description": "Go outside the box and enjoy an unforgettable, sensory-filled creative experience.\n\nPaint in our luminescent studio as glowing colours come to life under black light. With guided instruction and a relaxed, welcoming atmosphere, you'll be supported every step of the way as you create a one-of-a-kind glowing masterpiece, no painting experience required.\n\nAll materials, including refreshments and snacks provided.",
+    "url": "https://www.artboxstudiogallery.com/event-details-registration/glow-in-the-dark-paint-night-2026-02-03-20-00",
+    "image": null,
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": "events@artboxtoronto.com ",
+      "telephone": "647-617-9550"
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Arts/Exhibits",
+      "Seminars/Workshops"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "45.00",
+      "priceCurrency": "CAD",
+      "url": "https://www.artboxstudiogallery.com/event-details-registration/glow-in-the-dark-paint-night-2026-02-03-20-00"
+    }
   },
   {
     "@context": "https://schema.org",
@@ -2287,6 +2375,51 @@
       "price": "65.00",
       "priceCurrency": "CAD",
       "url": "https://www.rcmusic.com/Tickets/Seats/379801"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Intrigue at the Museum: A Mystery Scavenger Hunt at ROM",
+    "startDate": "2026-03-07T14:00:00-05:00",
+    "endDate": "2026-05-30T14:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Royal Ontario Museum",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "100 Queen's Park",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5S 2C6",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.667795387,
+        "longitude": -79.394212289
+      }
+    },
+    "description": "Back by popular demand!\n\nThere has been a mysterious murder, and the museum's collections hold the key.  As you gather clues, you'll begin to piece together a tale of greed, lust, pride, and revenge. Working in teams, sleuths travel through the museum's galleries solving whodunnit, where, and with what. Will your team solve the mystery before the clock runs out?\n\nAt least one player per team must bring a phone with our scavenger hunt app downloaded for submitting answers and creative team photos and videos during the adventure, but the more the merrier!",
+    "url": "bookeo.com/urbancapers",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/9gkX10UFUhtnpdNgUfo-bg",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Urban Capers Scavenger Hunts",
+      "email": "info@urbancapers.com",
+      "telephone": "4168952378"
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "History",
+      "Museum",
+      "Trivia"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "47.50",
+      "priceCurrency": "CAD",
+      "url": "bookeo.com/urbancapers"
     }
   },
   {
