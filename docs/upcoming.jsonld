@@ -2,274 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "You, Always",
-    "startDate": "2026-01-31T19:30:00-05:00",
-    "endDate": "2026-02-15T19:30:00-05:00",
-    "location": {
-      "@type": "Place",
-      "name": "Bluma Appel Theatre",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "27 Front St E",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M5E 1B4",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.647413879,
-        "longitude": -79.3752174619
-      }
-    },
-    "description": "A portrait of sisterhood.\n\nIn the wake of shocking news, sisters Liz and Delia unravel a lifetime of memories, traveling across space and time to trace the push and pull of their relationship over their fifty-year shared history with humour, nuance, and candor. This is an ode to sisterhood, to the brutal honesty, raucous silliness, and unflinching support of an indispensable sibling.  \n\nThis new play by Governor General's Award-winning playwright Erin Shields was developed as part of Canadian Stage's New Work Development Program. Directed by Nightwood Theatre Artistic Director Andrea Donaldson, this stunning new play strikes a universal chord.",
-    "url": "https://my.canadianstage.com/overview/9360",
-    "image": null,
-    "organizer": {
-      "@type": "Organization",
-      "name": "",
-      "email": "boxoffice@canadianstage.com",
-      "telephone": null
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Live Performances",
-      "Theatre"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "price": "45.00",
-      "priceCurrency": "CAD",
-      "url": "https://my.canadianstage.com/overview/9360"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Soledad Barrio and Noche Flamenca: Searching for Goya",
-    "startDate": "2026-01-31T15:00:00-05:00",
-    "endDate": "2026-01-31T20:00:00-05:00",
-    "location": {
-      "@type": "Place",
-      "name": "Koerner Hall, Royal Conservatory of Music",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "273 Bloor St W",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M5S 1W2",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.667856304,
-        "longitude": -79.396058814
-      }
-    },
-    "description": "Choreographed by Bessie Award-winning principal dancer Soledad Barrio and artistic director Martín Santangelo, the extraordinary paintings of Francisco de Goya are brought to life through the language of flamenco dance, vocals, and guitar.\n\nUnder the direction and choreography of Santangelo, the award-winning Noche Flamenca is recognized as one the world's premier touring companies. \n\nFormed in 1993 by Santangelo and his wife and principal dancer, Soledad Barrio, the company has toured throughout the globe, including regular seasons in New York City, and performances in North and South America, Europe, and Australia. \n\nHailed by critics for its transcendent and deeply emotional performances, Noche Flamenca has successfully brought to the stage the essence, purity, and integrity of one of the world's most complex and mysterious art forms, through a diverse theatrical body of work that expresses a rigorous, spell-binding aesthetic that exceeds the highest artistic expectations.",
-    "url": "https://www.rcmusic.com/concerts?searchtext=Soledad&searchmode=anyword",
-    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/cK9-CRsgBYhQiCgv3b_brg",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Royal Conservatory of Music",
-      "email": null,
-      "telephone": null
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Arts/Exhibits",
-      "Live Performances",
-      "Music"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "price": "60.00",
-      "priceCurrency": "CAD",
-      "url": "https://www.rcmusic.com/concerts?searchtext=Soledad&searchmode=anyword"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Glenn Gould School Vocal Showcase",
-    "startDate": "2026-01-31T19:30:00-05:00",
-    "endDate": "2026-01-31T19:30:00-05:00",
-    "location": {
-      "@type": "Place",
-      "name": "Koerner Hall, Royal Conservatory of Music",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "273 Bloor St W",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M5S 1W2",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.667856304,
-        "longitude": -79.396058814
-      }
-    },
-    "description": "Come watch our talented voice students present an evening of art songs and opera excerpts.",
-    "url": "https://www.rcmusic.com/Tickets/Seats/393001",
-    "image": null,
-    "organizer": {
-      "@type": "Organization",
-      "name": "Royal Conservatory of Music",
-      "email": null,
-      "telephone": null
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Arts/Exhibits",
-      "Live Performances",
-      "Music"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "price": "20.00",
-      "priceCurrency": "CAD",
-      "url": "https://www.rcmusic.com/Tickets/Seats/393001"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Being and Becoming: Annual Public Philosophy Social",
-    "startDate": "2026-01-31T19:00:00-05:00",
-    "endDate": "2026-01-31T19:00:00-05:00",
-    "location": {
-      "@type": "Place",
-      "name": "Center for Social Innovation",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "192 Spadina Ave",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M5T 2C2",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.650003,
-        "longitude": -79.397315
-      }
-    },
-    "description": "An evening of meaningful conversations and community for those seeking connection with others through dialogue and shared exploration. \n\nFor the past two years, we've been organizing in-person conversations about love, morality, humour, AI, forgiveness, democracy, consciousness, and more. Once a year, we come together for a big social that welcomes anyone who enjoys exploring ideas, questions, and experiences with others in a more spontaneous (and perhaps also serendipitous) way than our usual programming. \n\nJoin us to meet friends, spark conversations about questions big and small, and celebrate two years of being and becoming curious together. Come solo or bring a friend!",
-    "url": "https://www.eventbrite.ca/e/being-and-becoming-annual-public-philosophy-social-tickets-1977724199319?aff=oddtdtcreator",
-    "image": null,
-    "organizer": {
-      "@type": "Organization",
-      "name": "",
-      "email": "info@beingnbecoming.org",
-      "telephone": null
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Public Square",
-      "Talks",
-      "Other"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "price": "28.00",
-      "priceCurrency": "CAD",
-      "url": "https://www.eventbrite.ca/e/being-and-becoming-annual-public-philosophy-social-tickets-1977724199319?aff=oddtdtcreator"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "WonderPhil the Magician",
-    "startDate": "2026-01-31T10:30:00-05:00",
-    "endDate": "2026-02-01T15:30:00-05:00",
-    "location": {
-      "@type": "Place",
-      "name": "Wychwood Theatre",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "76 Wychwood Ave",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M6G 2X7",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.679880505,
-        "longitude": -79.42292445
-      }
-    },
-    "description": "Watching as WonderPhil creates the perfect balance of amazement and laughs to keep everyone entertained from beginning to end. \n\nAfter the show, adults and kids alike will be scratching their heads with wonder! His pet parrot Ha-Ha may stop in for a surprise visit too!\n\nA1 Media has called him \"the best magician in Toronto\". Don't miss out!",
-    "url": "https://tickets.ticketwise.com/event/wonderphil-the-magician-2026",
-    "image": null,
-    "organizer": {
-      "@type": "Organization",
-      "name": "",
-      "email": "admin@tyttheatre.com",
-      "telephone": null
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Family/Children",
-      "Live Performances",
-      "Theatre"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "price": "30.49",
-      "priceCurrency": "CAD",
-      "url": "https://tickets.ticketwise.com/event/wonderphil-the-magician-2026"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Up in Jokes Toronto Comedy Show",
-    "startDate": "2026-01-31T20:00:00-05:00",
-    "endDate": "2026-01-31T20:00:00-05:00",
-    "location": {
-      "@type": "Place",
-      "name": "The Boardroom Comedy Club",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "1350 St Clair Ave W",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M6E 1C4",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.676841972,
-        "longitude": -79.449243868
-      }
-    },
-    "description": "Taking comedy to a higher level! \n\nFeaturing a lineup of hilarious comedians who know how to bring the laughs, this show promises non-stop fun, clever punchlines, and a night filled with joy. Whether you're flying high or keeping it chill, this comedy show has got you covered!",
-    "url": " https://www.theboardroomcomedyclub.com",
-    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/0TqL-a69K2IZxrE8HVZr4w",
-    "organizer": {
-      "@type": "Organization",
-      "name": "",
-      "email": "poonam3123@hotmail.com",
-      "telephone": "416-834-8654"
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Comedy",
-      "Live Performances"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "price": "20.00",
-      "priceCurrency": "CAD",
-      "url": " https://www.theboardroomcomedyclub.com"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "SOLD OUT Víkingur Ólafsson on Piano",
     "startDate": "2026-02-01T15:00:00-05:00",
     "endDate": "2026-02-01T15:00:00-05:00",
@@ -1539,6 +1271,49 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Frosty Flora Nature Walk in High Park",
+    "startDate": "2026-02-15T14:00:00-05:00",
+    "endDate": "2026-02-15T14:00:00-05:00",
+    "location": {
+      "@type": "Place",
+      "name": "High Park Forest School",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "375 Colborne Lodge Dr",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M6S 0A4",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.651248508,
+        "longitude": -79.463498027
+      }
+    },
+    "description": "Join us for a family-friendly winter walk as we explore how the plants respond to the many challenges of this season. \n\nWe'll learn about the incredible adaptations of cold-hardy plants, practice identifying plants in their wintery forms, and discuss how these plants help other wildlife survive the cold Canadian winter in Toronto.",
+    "url": "https://highparknaturecentre.com/event/wi26-frosty-flora-nature-walk/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/JAnv0dIoe7wIA3wjEZzFmw",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": "info@highparknaturecentre.com",
+      "telephone": "4163921748"
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Charity/Cause",
+      "Environmental",
+      "Family/Children"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "url": "https://highparknaturecentre.com/event/wi26-frosty-flora-nature-walk/"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Come Play Werewolf",
     "startDate": "2026-02-16T18:00:00-05:00",
     "endDate": "2026-03-07T18:00:00-05:00",
@@ -2629,6 +2404,49 @@
       "Music",
       "Parade"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "March Birding Walk in High Park",
+    "startDate": "2026-03-15T10:00:00-04:00",
+    "endDate": "2026-03-15T10:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "High Park Forest School",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "375 Colborne Lodge Dr",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M6S 0A4",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.651248508,
+        "longitude": -79.463498027
+      }
+    },
+    "description": "Step into High Park as winter gives way to the first signs of spring. \n\nJoin us for a casual beginner-friendly birding hike where we'll look for hardy winter residents and welcome the early migrants making their way back north to Toronto. All birding skill levels welcome.\n\nBest suited for participants ages 16 and up.",
+    "url": "https://highparknaturecentre.com/event/wi26-march-birding-walk/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/uF0uOhSoPjAo0y__M0IjJA",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": "info@highparknaturecentre.com",
+      "telephone": "4163921748"
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Charity/Cause",
+      "Environmental",
+      "Tour"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "url": "https://highparknaturecentre.com/event/wi26-march-birding-walk/"
+    }
   },
   {
     "@context": "https://schema.org",

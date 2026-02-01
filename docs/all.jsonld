@@ -923,6 +923,51 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Intrigue at the Museum: A Mystery Scavenger Hunt",
+    "startDate": "2025-03-01T14:00:00-05:00",
+    "endDate": "2025-06-21T14:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "ROM, Weston Queen's Park Entrance",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "100 Queens Park",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5S 2C6",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6677097,
+        "longitude": -79.3947771
+      }
+    },
+    "description": "Back by popular demand, our classic mystery scavenger hunt returns!\n\nThere has been a mysterious murder, and the museum's collections hold the key.  As you gather clues, you'll begin to piece together a tale of greed, lust, pride, and revenge. Working in teams, sleuths travel through the museum's galleries solving whodunnit, where, and with what. Will your team solve the mystery before the clock runs out?\n\nNote:  At least one player per team must bring a phone with our scavenger hunt app downloaded for submitting answers and creative team photos and videos during the adventure. Click on our link to book your tickets, and see more details about your upcoming hunt!",
+    "url": "https://bookeo.com/urbancapers",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/a5515lBBUIVgCSODDY4IOQ",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Urban Capers Scavenger Hunts",
+      "email": "info@urbancapers.com",
+      "telephone": "416-895-2378"
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "History",
+      "Museum",
+      "Trivia"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "47.50",
+      "priceCurrency": "CAD",
+      "url": "https://bookeo.com/urbancapers"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "ROM Immortal: Nature's Symphony",
     "startDate": "2025-03-04T15:00:00.000Z",
     "endDate": "2025-03-04T22:30:00.000Z",
@@ -1454,6 +1499,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "The Grand Hunt 2025",
+    "startDate": "2025-04-12T10:00:00-04:00",
+    "endDate": "2025-04-12T15:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "The Grand Order of Divine Sweets",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1162 Queen St W",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M6J 1J5",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6430683,
+        "longitude": -79.4252769
+      }
+    },
+    "description": "The epic Easter treasure hunt known for its $1000 cash-filled Grand Prize Chocolate Smash Egg is back! \n\nStarting at 10:00 am, ten miniature treasure chests, each holding a unique scroll revealing a special prize will be hidden throughout the city. All interested seekers, ages 18 and older are encouraged to follow and watch @thegoodsweetsto Instagram and Facebook stories leading up to and all day for clues to where the treasure chests are hidden. The stakes have increased this year with an additional $500 cash prize filled Smash Egg. Let's get hunting, Toronto…it's going to be Grand!",
+    "url": "https://thegoodsweets.com/grandhunt2025/",
+    "image": null,
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Grand Order of Divine Sweets",
+      "email": null,
+      "telephone": null
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Family/Children",
+      "Food/Culinary",
+      "Run/Walk"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "The Artist Series featuring Michael Bedford",
     "startDate": "2025-04-13T23:00:00.000Z",
     "endDate": "2025-04-14T01:00:00.000Z",
@@ -1488,6 +1572,47 @@
       "Arts/Exhibits",
       "Food/Culinary"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "HARKNESS",
+    "startDate": "2025-04-13T18:00:00-04:00",
+    "endDate": "2025-04-13T18:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "The Royal Theatre",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "608 College St",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M6G 1B4",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6552791,
+        "longitude": -79.41453159999999
+      }
+    },
+    "description": "Come for the music, stay for the story. HARKNESS is an electric deep dive into the elusive Toronto musician Harkness, capturing his raw, high-voltage journey. \n\nThe Toronto documentary premiere, directed, written, and edited by Maria Markina, and produced by Ed Barreveld of Storyline Entertainment. This high-voltage documentary promises to captivate as it delves into the journey of the musician known as Harkness. Following the screening will be a Q+A with Harkness along with director and producer.",
+    "url": "https://www.eventbrite.com/e/storyline-entertainment-presents-harkness-at-the-royal-tickets-1258506058499?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl",
+    "image": null,
+    "organizer": {
+      "@type": "Organization",
+      "name": "Storyline Entertainment",
+      "email": null,
+      "telephone": null
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Film"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.eventbrite.com/e/storyline-entertainment-presents-harkness-at-the-royal-tickets-1258506058499?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl"
+    }
   },
   {
     "@context": "https://schema.org",
@@ -1605,6 +1730,47 @@
     "offers": {
       "@type": "Offer",
       "url": "https://ago.ca/events/museum-skillz"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "BlackBerry",
+    "startDate": "2025-04-16T18:00:00-04:00",
+    "endDate": "2025-04-16T18:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Don Mills Library Branch - Toronto Public Library",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "888 Lawrence Ave E",
+        "addressLocality": "North York",
+        "addressRegion": "ON",
+        "postalCode": "M3B 1A2",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.736667,
+        "longitude": -79.3473805
+      }
+    },
+    "description": "In celebration of National Canadian Film Day, we are excited to present a special screening of BlackBerry.\n\nThe story of the meteoric rise and catastrophic demise of the world's first smartphone.",
+    "url": "https://canfilmday.ca/event/toronto-public-libraries-don-mills-branch-presents-blackberry/",
+    "image": null,
+    "organizer": {
+      "@type": "Organization",
+      "name": "Toronto Public Libraries - Don Mills Branch",
+      "email": null,
+      "telephone": null
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Film"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "url": "https://canfilmday.ca/event/toronto-public-libraries-don-mills-branch-presents-blackberry/"
     }
   },
   {
@@ -1736,6 +1902,49 @@
       "price": "104.18",
       "priceCurrency": "CAD",
       "url": "https://www.artboxstudiogallery.com/event-details-registration/canvas-connection-a-date-night-paint-night-2025-04-19-19-30"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Mask Off: A DIY Face Mask Making Workshop",
+    "startDate": "2025-04-20T13:00:00-04:00",
+    "endDate": "2025-04-20T14:30:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Bachata Sensual Toronto",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "802 Dundas St W",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M6J 1V3",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6519299,
+        "longitude": -79.40876759999999
+      }
+    },
+    "description": "Join us for an exclusive hands-on skincare experience! Hosted in collaboration with JheyNBeau, this unique event will allow you to create your very own natural face mask using only the finest ingredients, in celebration of Earth Day.\n\nThere are limited spots available, so be sure to grab your tickets early!\n\nWhat to Expect:\n- 30-minute Introduction & Skin Type Education\n- 45-minute DIY Face Mask Creation\n- 15-minute Q&A",
+    "url": "https://www.eventbrite.ca/e/mask-off-a-diy-face-mask-making-workshop-tickets-1304253901529",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/G_CgaTPWFNRfg6BIH-cs6Q",
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Selfish Market",
+      "email": "theselfishmarket@gmail.com",
+      "telephone": null
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Seminars/Workshops"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "65",
+      "priceCurrency": "CAD",
+      "url": "https://www.eventbrite.ca/e/mask-off-a-diy-face-mask-making-workshop-tickets-1304253901529"
     }
   },
   {
@@ -2276,6 +2485,43 @@
       "@type": "Offer",
       "url": "https://www.jamii.ca/event-details/saturday-mingling-thechakana"
     }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "L'Amoreaux North Park Tree Planting Event",
+    "startDate": "2025-04-26T10:00:00-04:00",
+    "endDate": "2025-04-26T12:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "L'Amoreaux North Park",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "McNicoll Ave at Silver Springs Blvd",
+        "addressLocality": "Scarborough",
+        "addressRegion": "ON",
+        "postalCode": "M1V 5M2",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.810861180080124,
+        "longitude": -79.30637438703307
+      }
+    },
+    "description": "Help expand the forested area near the pond at beautiful L'Amoreaux North Park by planting native trees and shrubs. \n\nEvent site conditions vary. Contact us for more information including accessibility. If you would like to request accessibility support, contact us as soon as possible.",
+    "url": "https://www.toronto.ca/community-people/get-involved/volunteer-with-the-city/tree-planting-stewardship/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/poqZbGrU5WtHJRtgXJc9eQ",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": "greentoronto@toronto.ca",
+      "telephone": null
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Environmental"
+    ]
   },
   {
     "@context": "https://schema.org",
@@ -8339,6 +8585,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Yoga Mornings at Soulpepper Theatre",
+    "startDate": "2025-05-16T09:00:00-04:00",
+    "endDate": "2025-06-20T09:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Young Centre for the Performing Arts",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "50 Tank House Lane",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5A 3C4",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6506333,
+        "longitude": -79.35785969999999
+      }
+    },
+    "description": "Start your day with some morning yoga to gently wake up your body, breath, and senses. Each class will explore some meditation, pranayama (breathwork), and other grounding techniques for the nervous system, as well as move through some movement and stretches to gently energise the body.\n\nSuitable for all levels including beginners. Seated, standing and lying down poses will be included with different options and students are encouraged to find and choose what works best for them.",
+    "url": "https://tickets.youngcentre.ca/15237/15258",
+    "image": null,
+    "organizer": {
+      "@type": "Organization",
+      "name": "Soulpepper Theatre Company",
+      "email": "publicdomain@soulpepper.ca",
+      "telephone": null
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Seminars/Workshops"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "url": "https://tickets.youngcentre.ca/15237/15258"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Friday Night Latin Jazz Dinner with Noah Abrahamse and The Mumbo Jumbo",
     "startDate": "2025-05-17T00:30:00.000Z",
     "endDate": "2025-05-17T02:30:00.000Z",
@@ -11786,6 +12073,49 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "The Oldest Profession",
+    "startDate": "2025-05-23T19:00:00-04:00",
+    "endDate": "2025-05-23T21:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Red Sandcastle Theatre",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "922 Queen St E",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M4M 1J5",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6607833,
+        "longitude": -79.34189549999999
+      }
+    },
+    "description": "This is a mad dash through 10,000 years of history from a sex worker's perspective. Kaytlin Bailey weaves history, stand up comedy, and lived experience in this fast paced and profoundly moving solo show.\n\nHosted by Kaytlin Bailey, Founder and Executive Director at Old Pros, a nonprofit that uses storytelling for advocating and host of The Oldest Profession Podcast, where every episode is a deep dive into a different sex worker from history.",
+    "url": "https://www.ticketscene.ca/events/52840/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/im8VsgKjwQC0i2b8crweWA",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Old Pros and Nutmeg Creative Studios",
+      "email": "info@oldprosonline.org",
+      "telephone": "416-859-0990"
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Theatre"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "10",
+      "priceCurrency": "CAD",
+      "url": "https://www.ticketscene.ca/events/52840/"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "\"Evening of Kirtan\" at The Yoga Lounge",
     "startDate": "2025-05-24T20:00:00.000Z",
     "endDate": "2025-05-24T22:30:00.000Z",
@@ -14756,6 +15086,43 @@
       "priceCurrency": "CAD",
       "url": "https://www.ledolci.com/products/delicious-doughnut-class?start=2025-05-01T00:00&select=2025-05-25T10:00"
     }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Community Environment Day at Donwoods Plaza",
+    "startDate": "2025-05-25T10:00:00-04:00",
+    "endDate": "2025-05-25T14:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Donwoods Plaza",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "55 Underhill Dr",
+        "addressLocality": "North York",
+        "addressRegion": "ON",
+        "postalCode": "M3A 2J7",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.7454286,
+        "longitude": -79.32507919999999
+      }
+    },
+    "description": "Join Councillor Burnside (Ward 16) and the City of Toronto to help reduce the amount of waste going to landfill. Drop off household items for donation, electronics for reuse or recycling and household hazardous waste for proper disposal. \n\nPick up free bagged compost while supplies last and kitchen catchers for organics ($7 each – cash, debit and credit accepted).",
+    "url": "https://www.toronto.ca/services-payments/recycling-organics-garbage/community-environment-days/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/kf-Y471mm_PyWKFMhrvYtA",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": null,
+      "telephone": null
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Environmental"
+    ]
   },
   {
     "@context": "https://schema.org",
@@ -20019,6 +20386,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Kiki Lounge Wednesdays",
+    "startDate": "2025-06-04T18:00:00-04:00",
+    "endDate": "2025-06-18T18:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "PEACH (Promoting Education and Community Health)",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "27 Eddystone Ave",
+        "addressLocality": "North York",
+        "addressRegion": "ON",
+        "postalCode": "M3N 1G6",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.7485024,
+        "longitude": -79.51684399999999
+      }
+    },
+    "description": "Join us for our first Kiki Lounge Nights - a space to celebrate creativity, community, and self-expression through vogue and ballroom culture! Come walk, dance, chill, and connect with your community. Curated by icon Twysted & legendary Kitana Siriano. All are welcome! This all leads up to the second annual Jane and Finch Kiki Ball - Sunday June 22, 2025.\n\nFree Entry | Safe Space | All Ages",
+    "url": "https://peachtoronto.com/calendar",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/tRr774xk5QKxPopeeTfMJA",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Toronto Kiki Ballroom Alliance and PEACH (Promoting Education and Community Health)",
+      "email": null,
+      "telephone": "416-740-9593"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Other",
+      "Dance",
+      "LGBTQ2S+"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "2025 Toronto Jewish Film Festival",
     "startDate": "2025-06-05T04:00:00.000Z",
     "endDate": "2025-06-15T04:00:00.000Z",
@@ -21122,6 +21528,80 @@
       "price": "25",
       "priceCurrency": "CAD"
     }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Harbourfront Farmers Market",
+    "startDate": "2025-06-06T14:29:51-04:00",
+    "endDate": "2025-06-06T14:29:51-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "The Commons at Harbourfront Centre",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "235 Queens Quay W",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5J 2G8",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6391759,
+        "longitude": -79.3820602
+      }
+    },
+    "description": "A celebration of local agriculture and fresh, homegrown produce. With a strong emphasis on \"Grown Here,\" this market connects visitors directly with farmers, showcasing the best in season, from farm-fresh eggs and locally-raised meats to artisanal baked goods, preserves and jams, sustainable seafood, handmade pastas and specialty coffee. Experience the freshest flavours while supporting Ontario's hardworking farmers and small-batch producers.",
+    "url": "https://harbourfrontcentre.com/event/harbourfront-farmers-market/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/c1eEmDSagL5Tvv149jjLiQ",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Harbourfront Centre",
+      "email": "media@harbourfrontcentre.com",
+      "telephone": "416-973-4000"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Farmers Market"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Toronto Sunday Market",
+    "startDate": "2025-06-06T14:13:00-04:00",
+    "endDate": "2025-12-28T11:00:00-05:00",
+    "location": {
+      "@type": "Place",
+      "name": "Parkdale Hall",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1605 Queen St W",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M6R 1A9",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6388487,
+        "longitude": -79.44410549999999
+      }
+    },
+    "description": "Your weekly destination for local shopping and community vibes inside the historic Parkdale Hall. The market features a curated mix of fresh produce, artisan goods, handmade crafts, and vintage finds from Toronto's most creative small businesses. With new vendors each week and seasonal surprises throughout the year, there's always something fresh to discover. Pet-friendly, and open year-round!",
+    "url": "https://theparkdalehall.com/new/toronto-sunday-market/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/1P4KowLE6UtZCcrA3Epnaw",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Parkdale Hall",
+      "email": "hello@torontosundaymarket.com",
+      "telephone": "437-241-7260"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Farmers' Market"
+    ]
   },
   {
     "@context": "https://schema.org",
@@ -22714,6 +23194,84 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "So What is Manga and Why Does It Matter? A Walkthrough with School Librarian Jillian Rudes",
+    "startDate": "2025-06-07T10:00:00-04:00",
+    "endDate": "2025-06-07T11:30:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "The Japan Foundation, Toronto",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2 Bloor St E #300",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M4W 1A8",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6709416,
+        "longitude": -79.3864215
+      }
+    },
+    "description": "Do you know the secret power of manga, also known as Japanese Comics? Not just fun to read!\n\nJoin us for an inspiring lecture with Jillian Rudes, award-winning librarian and author of \"Manga in Libraries\". Learn how manga can spark literacy, social-emotional learning, and confidence in readers at libraries, classrooms, and homes! \n\nGreat for educators and library workers, parents and children who love manga, manga fans who are curious how manga can change lives.",
+    "url": "https://tr.jpf.go.jp/event/manga-jillian-rudes-tcaf2025/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/PMSOKHM7lkzXOgP4STIUEA",
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Japan Foundation, Toronto and Toronto Comic Arts Festival",
+      "email": "info_jftoronto@jpf.go.jp",
+      "telephone": "416-966-1600"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Talks",
+      "World Culture"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "url": "https://tr.jpf.go.jp/event/manga-jillian-rudes-tcaf2025/"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Riverside Eats and Beats",
+    "startDate": "2025-06-07T12:00:00-04:00",
+    "endDate": "2025-06-07T18:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Riverside - Queen Street E between Davies Ave and Empire Ave",
+      "address": {},
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.65811727755255,
+        "longitude": -79.3534010195892
+      }
+    },
+    "description": "Taste the eats and feel the beats! Spanning 10 vibrant blocks along Queen Street East between Don Valley and the world-famous De Grassi Street. \n\nIn our eleventh year, we will feature over 50 local eateries and shops serving food tasters, sidewalk sales, and specials. Destination points at five local street closures along Queen East and two local parks including local markets, beer garden, culinary delights, family-friendly activities, and entertainment. Free activities include live music, magic shows, face-painting, food and drink specials, giveaways and more!",
+    "url": "https://riverside-to.com/events/riverside-eats-beats-streetfest/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/iPLkLPEOvO351_fkyBKsuA",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Riverside BIA",
+      "email": null,
+      "telephone": null
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Family/Children",
+      "Food/Culinary",
+      "Street Festival"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "url": "https://riverside-to.com/events/riverside-eats-beats-streetfest/"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Second Annual Balmoral Community Art and Garage Sale",
     "startDate": "2025-06-08T13:00:00.000Z",
     "endDate": "2025-06-08T17:00:00.000Z",
@@ -24092,6 +24650,50 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Glimmer - a Personal and Shared Exploration of Queerness",
+    "startDate": "2025-06-11T19:00:00-04:00",
+    "endDate": "2025-06-11T19:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Buddies in Bad Times Theatre",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "12 Alexander St",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M4Y 1B4",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6633185,
+        "longitude": -79.38306589999999
+      }
+    },
+    "description": "A new trans-disciplinary, concert-length work by award-winning composer Thierry Tidrow that explores the many layers and interpretations of queerness through classical music and narrative text. \n\nCommissioned by New Music Concerts, and presented at Buddies in Bad Times Theatre, this intimate, autobiographical piece brings together text, music, and staging created by an all-queer team of performers and musicians.",
+    "url": "https://www.showpass.com/glimmer-a-personal-and-shared-exploration-of-queerness/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/S8_M67EoUXzsngm_DYIrxg",
+    "organizer": {
+      "@type": "Organization",
+      "name": "New Music Concerts in partnership with OperaQ and the Canadian Music Centre",
+      "email": "info@newmusicconcerts.com",
+      "telephone": null
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Arts/Exhibits",
+      "Music"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "35.00",
+      "priceCurrency": "CAD",
+      "url": "https://www.showpass.com/glimmer-a-personal-and-shared-exploration-of-queerness/"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Journaling for Game Makers - Toronto Games Week",
     "startDate": "2025-06-12T21:00:00.000Z",
     "endDate": "2025-06-12T22:30:00.000Z",
@@ -24797,6 +25399,88 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Sand Flight",
+    "startDate": "2025-06-12T19:00:00-04:00",
+    "endDate": "2025-06-15T14:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "The Bentway",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "250 Fort York Blvd",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5V 1A9",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6373107,
+        "longitude": -79.4070978
+      }
+    },
+    "description": "Experience the world premiere from internationally renowned choreographer Ingri Fiksdal. Eight dancers and a 50-person choir descend on a massive sand dune under the Gardiner Expressway for a powerful performance that speculates on climates-to-come, where shade-worshipping is the new normal.\n\nPresented in partnership with Toronto Dance Theatre and featuring VIVA Singers Toronto, Sand Flight highlights an original composition and a cast of local and international performers. This bold new work of climate fiction is a call to closely consider the evolution of our local environments in the not-so-distant future, while creating new customs that will collectively be valued in a changing world.",
+    "url": "https://www.eventbrite.ca/e/sand-flight-tickets-1301952628359?aff=oddtdtcreator",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/6BGHhyxDcrGHy3nm-D7NAQ",
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Bentway and Fiksdal dans stiftelse",
+      "email": null,
+      "telephone": null
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Arts/Exhibits",
+      "Dance",
+      "Live Performances"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "10.00",
+      "priceCurrency": "CAD",
+      "url": "https://www.eventbrite.ca/e/sand-flight-tickets-1301952628359?aff=oddtdtcreator"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Giant Video Games - Toronto Games Week",
+    "startDate": "2025-06-12T20:00:00-04:00",
+    "endDate": "2025-06-12T20:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Canada Malting Silos",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "9 Eireann Quay",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5V 3N2",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.63536970000001,
+        "longitude": -79.3962447
+      }
+    },
+    "description": "Join us for an unforgettable opening night at Giant Video Games, where you can play massive, Toronto-made video games projected onto the Canada Malting Silos. This exciting event also features an arcade of local games to keep the energy high all evening. \n\nToronto Video Game Month is set to bring the world of gaming to life! From adrenaline-pumping esports tournaments to massive outdoor games played under the open sky, this event is designed for all—from hardcore gamers to the game-curious. Immerse yourself in interactive experiences, discover the talent of Toronto's local indie developers, and engage with major studio activations. Plus, tap into the industry at a prestigious video game conference, thought-provoking workshops, and expert talks on the future of gaming. It's a month to discover, play, and connect with Toronto's thriving gaming community!",
+    "url": "https://torontogamesweek.com/schedule.html",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/NMghaysRIzJaS4KognEbFw",
+    "organizer": {
+      "@type": "Organization",
+      "name": "City of Toronto in partnership with Toronto Games Week, OCADU and Interactive Ontario",
+      "email": null,
+      "telephone": null
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Other"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Candle Painting Workshop",
     "startDate": "2025-06-13T22:30:00.000Z",
     "endDate": "2025-06-14T00:30:00.000Z",
@@ -25073,6 +25757,50 @@
       "@type": "Offer",
       "price": "25.00",
       "priceCurrency": "CAD"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Candle Painting Workshop",
+    "startDate": "2025-06-13T18:30:00-04:00",
+    "endDate": "2025-06-13T18:30:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Artbox Studio and Gallery",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1226 Kingston Rd",
+        "addressLocality": "Scarborough",
+        "addressRegion": "ON",
+        "postalCode": "M1N 1P3",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6827551,
+        "longitude": -79.2785682
+      }
+    },
+    "description": "Paint your own elegant taper candles using melted coloured wax. Enjoy tea, snacks, and soft music as you relax into the rhythm of creating four beautiful, hand-decorated candles. No experience needed.",
+    "url": "https://www.artboxstudiogallery.com/event-details-registration/candle-painting-workshop-2025-06-13-19-30",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/8qGNhHdrQJmOXJDWY_9qUQ",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": "events@artboxtoronto.com",
+      "telephone": "416-690-9550"
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Arts/Exhibits",
+      "Seminars/Workshops"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "39.95",
+      "priceCurrency": "CAD",
+      "url": "https://www.artboxstudiogallery.com/event-details-registration/candle-painting-workshop-2025-06-13-19-30"
     }
   },
   {
@@ -27441,6 +28169,43 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Bonus Stage - Toronto Games Week",
+    "startDate": "2025-06-17T19:00:00-04:00",
+    "endDate": "2025-06-17T19:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "TacoTaco",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "319 Augusta Ave",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5T 1N9",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6569165,
+        "longitude": -79.402666
+      }
+    },
+    "description": "Centred around micro talks given by local community members which serve the dual purpose of being informative and a conversation starter. Bonus Stage is a long running monthly social that gives people a space to mingle and get to know new people. Are you a game developer? Voice actor? Streamer? Game dev adjacent? Come join us!\n\nToronto Video Game Month is set to bring the world of gaming to life! From adrenaline-pumping esports tournaments to massive outdoor games played under the open sky, this event is designed for all—from hardcore gamers to the game-curious. Immerse yourself in interactive experiences, discover the talent of Toronto's local indie developers, and engage with major studio activations. Plus, tap into the industry at a prestigious video game conference, thought-provoking workshops, and expert talks on the future of gaming. It's a month to discover, play, and connect with Toronto's thriving gaming community!",
+    "url": "https://torontogamesweek.com/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/xKPkzdoVu-5IYCbNQFmbuA",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Toronto Games Week",
+      "email": "marie@torontogamesweek.com",
+      "telephone": null
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Talks"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Bridging Minds - Improving the Primary Care System with Human and Machine Intelligence",
     "startDate": "2025-06-18T22:00:00.000Z",
     "endDate": "2025-06-18T23:00:00.000Z",
@@ -27919,6 +28684,82 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Colour is Art Exhibition",
+    "startDate": "2025-06-18T09:00:00-04:00",
+    "endDate": "2025-07-24T09:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Assembly Hall",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1 Colonel Samuel Smith Park Dr",
+        "addressLocality": "Etobicoke",
+        "addressRegion": "ON",
+        "postalCode": "M8V 4B6",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.59765460000001,
+        "longitude": -79.5158459
+      }
+    },
+    "description": "Get immersed in representational art and compositions reminiscing childhood surroundings and dreams in a visual language of shapes, forms and colour. Presented in an inspiring solo show by Victor de M.",
+    "url": "http://toronto.ca/assemblyhall",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/f6ju3wygpZPT9J1MmYTHeg",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Assembly Hall",
+      "email": "assembly@toronto.ca",
+      "telephone": "416-338-7255"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Arts/Exhibits"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Public Market Week at Montgomery's Inn",
+    "startDate": "2025-06-18T14:00:00-04:00",
+    "endDate": "2025-06-18T14:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Montgomery's Inn",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "4709 Dundas St W",
+        "addressLocality": "Etobicoke",
+        "addressRegion": "ON",
+        "postalCode": "M9A 1A8",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.651723,
+        "longitude": -79.52569609999999
+      }
+    },
+    "description": "Montgomery's Inn will be collaborating with Local MRKT to kick off the summer with a special extended Farmers Market on Wednesday June 18th. This exciting market week event will feature new artisanal vendors, a live musical performance, activities for all ages, and of course the Montgomery's Inn Farmers Market vendors. Special Musical Guest: Dario Dvon\nLocal MRKT hosts and curates vendor markets and events across Toronto with a variety of small businesses, sponsors, and community leaders.",
+    "url": null,
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/RHpBrFpZPZ8Yg9W1Hu6msA",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Local MRKT",
+      "email": "montinn@toronto.ca",
+      "telephone": null
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Artisan",
+      "Farmers Market",
+      "Museum"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Being Black on King Walking Tour",
     "startDate": "2025-06-19T22:30:00.000Z",
     "endDate": "2025-06-20T00:00:00.000Z",
@@ -28087,6 +28928,47 @@
       "price": 35,
       "priceCurrency": "CAD",
       "url": "https://citadelcie.tickit.ca/events/25428"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Give Me Liberty Street Party",
+    "startDate": "2025-06-19T16:00:00-04:00",
+    "endDate": "2025-06-19T16:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Lamport Stadium Parking Lot",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "75 Fraser Ave",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M6K 0H9",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6380558,
+        "longitude": -79.4242811
+      }
+    },
+    "description": "Liberty Village BIA's 19th annual street party is back!\n\nJoin us for one unforgettable evening as we celebrate everything that makes us one of Toronto's most vibrant and creative neighbourhoods. Inspired by classic neighbourhood block parties, we are transforming into a buzzing outdoor patio. There will be live music and a DJ, a Pop-up market featuring local businesses, local food and drink, a Beer Garden with local brewers, cocktails, and lawn games.  With activities for all ages, come together to eat, dance, shop, and celebrate Liberty Village in style!",
+    "url": "https://www.eventbrite.ca/e/give-me-liberty-2025-tickets-1233114782509?aff=oddtdtcreator",
+    "image": null,
+    "organizer": {
+      "@type": "Organization",
+      "name": "City of Toronto Cultural Festivals funding program",
+      "email": null,
+      "telephone": null
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Street Festival"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.eventbrite.ca/e/give-me-liberty-2025-tickets-1233114782509?aff=oddtdtcreator"
     }
   },
   {
@@ -29213,6 +30095,51 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "MY HOUSE Junction Jazz Fest",
+    "startDate": "2025-06-23T19:00:00-04:00",
+    "endDate": "2025-06-29T16:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "MY HOUSE",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2882 Dundas St W",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M6P 1Y8",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.665724087,
+        "longitude": -79.46561192
+      }
+    },
+    "description": "Toronto's MY HOUSE in the Junction is a live music venue and restaurant teaming up with Brooklyn, New York-based Browntasauras Records to bring you some of the best jazz in the country!\n\nFor the inaugural festival this year, we're featuring Artist-In-Residence Brownman Ali as the Artistic Director.  This ten-times Global Music Award winner, twelve-times JUNO Award nominee and GRAMMY long-lister will be on stage every night during the festival as either a sideman or a leader, and has hand-picked all the top-shelf musicians involved. Come for an unforgettable jazz experience!",
+    "url": "https://www.eventbrite.com/cc/4357823",
+    "image": null,
+    "organizer": {
+      "@type": "Organization",
+      "name": "My HOUSE",
+      "email": null,
+      "telephone": null
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Live Performances",
+      "Music",
+      "Nightlife"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "10.00",
+      "priceCurrency": "CAD",
+      "url": "https://www.eventbrite.com/cc/4357823"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "DanceAble 2025",
     "startDate": "2025-06-24T22:00:00.000Z",
     "endDate": "2025-06-25T01:00:00.000Z",
@@ -29672,6 +30599,51 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "World Vitiligo Day Innovation Summit 2025",
+    "startDate": "2025-06-25T08:30:00-04:00",
+    "endDate": "2025-06-25T17:30:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Lake Lounge at the MaRS Waterfront",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "155 Queens Quay E",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5A 0W4",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6443873,
+        "longitude": -79.3667966
+      }
+    },
+    "description": "Coming to Canada for the first time ever! Join us in Toronto for a global moment of unity, innovation, and visibility for the vitiligo community. This year's summit is themed \"Innovation for Every Skin\", spotlighting the powerful intersection of AI, medtech, and patient advocacy.\n\nWhether you're living with vitiligo, working in dermatology, developing medical technology, or passionate about inclusive healthcare, this is your moment to connect and make an impact!",
+    "url": "https://worldvitiligoday.ca/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/SvaavDCgiStKnuodL1cLUA",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Skinopathy and Vitiligo Research Foundation",
+      "email": "vitiligo@skinopathy.com",
+      "telephone": "833-272-7546"
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Consumer Show/Convention",
+      "Talks",
+      "Virtual/Online Event"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "31.59",
+      "priceCurrency": "CAD",
+      "url": "https://worldvitiligoday.ca/"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "The Sunset Social",
     "startDate": "2025-06-26T23:00:00.000Z",
     "endDate": "2025-06-27T01:00:00.000Z",
@@ -29886,6 +30858,49 @@
       "price": 35,
       "priceCurrency": "CAD",
       "url": "https://www.yukyuks.com/?action=club.showdetails&venueID=1&eventDate=2025/06/26&eventDateTimeID=541194"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Sunset Social",
+    "startDate": "2025-06-26T19:00:00-04:00",
+    "endDate": "2025-06-26T19:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Arta Gallery",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "14 Distillery Lane",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5A 3C4",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6498601,
+        "longitude": -79.36137889999999
+      }
+    },
+    "description": "Join us for an unforgettable evening of connections and conversations. This is your chance to mix and mingle with startups, entrepreneurs, and innovators from across industries in a relaxed, inspiring atmosphere. We are officially part of Toronto Tech Week 2025, a weeklong citywide collection of events to connect and celebrate the builders. June 23 to June 27, 2025.\n\nWhether you're looking to spark new collaborations, grow your network, or simply unwind with like-minded peers, this event offers the perfect setting to connect over good food, great wine, and meaningful conversation.",
+    "url": "https://www.eventbrite.ca/e/the-sunset-social-tickets-1353409998739?aff=oddtdtcreator",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/CuEY0u-2CtyNq__1RXnKmA",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": "info@yedi.ca",
+      "telephone": null
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Seminars/Workshops"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "50.00",
+      "priceCurrency": "CAD",
+      "url": "https://www.eventbrite.ca/e/the-sunset-social-tickets-1353409998739?aff=oddtdtcreator"
     }
   },
   {
@@ -30514,6 +31529,50 @@
       "price": "26.00",
       "priceCurrency": "CAD",
       "url": "https://www.rom.on.ca/whats-on/special-programs/jurassic-weekend?utm_source=cityoftoronto&utm_medium=listing&utm_campaign=tourism"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Honey",
+    "startDate": "2025-06-28T22:30:00-04:00",
+    "endDate": "2025-06-28T22:30:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Buddies In Bad Times Theatre",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "12 Alexander St",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M4Y 1B4",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6633185,
+        "longitude": -79.38306589999999
+      }
+    },
+    "description": "Our Chi has never been sweeter. Featuring pole dancers, DJ performances, Asian food vendors, photobooth, and sweet and sticky drink specials.",
+    "url": "https://www.showpass.com/honey-2/",
+    "image": null,
+    "organizer": {
+      "@type": "Organization",
+      "name": "New Ho Queen",
+      "email": null,
+      "telephone": null
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Arts/Exhibits",
+      "Dance",
+      "Live Performances"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "23.00",
+      "priceCurrency": "CAD"
     }
   },
   {
@@ -31281,6 +32340,45 @@
       "Celebrations",
       "Family/Children",
       "Live Performances"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Canada Day at Thomson Memorial Park",
+    "startDate": "2025-07-01T10:00:00-04:00",
+    "endDate": "2025-07-01T10:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Thomson Memorial Park",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1005 Brimley Rd",
+        "addressLocality": "Scarborough",
+        "addressRegion": "ON",
+        "postalCode": "M1P 3E8",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.756959,
+        "longitude": -79.255912
+      }
+    },
+    "description": "Celebrate Canada Day at one of Toronto's largest and most vibrant events. The annual Scarborough Canada Celebration is a full day of free family fun and festivities.\n\nEnjoy a wide range of activities from a free pancake breakfast (first come, first serve), an opening ceremony where you can sing along to the national anthem, free children's crafts, bouncy castles, train rides, live music and entertainment, local craft vendors and much more.\n\nScarborough Museum is located in the park and open from 11 a.m. to 5 p.m.\n\nBring your family and friends for a memorable day of community celebration!",
+    "url": "https://www.toronto.ca/explore-enjoy/parks-recreation/places-spaces/parks-and-recreation-facilities/location/?id=543",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/hqOUfrdytx7sn1p_ib7n8g",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Tim Hortons",
+      "email": null,
+      "telephone": null
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Celebrations",
+      "Cultural",
+      "Family/Children"
     ]
   },
   {
@@ -32443,6 +33541,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Concerts on Connolly Presents Yasser Tejeda",
+    "startDate": "2025-07-06T17:00:00-04:00",
+    "endDate": "2025-07-06T17:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Wadsworth Park",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "120 Connolly St",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": null,
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.671986,
+        "longitude": -79.457487
+      }
+    },
+    "description": "The award-winning Dominican composer, guitarist, and vocalist will be performing live in the park.",
+    "url": "https://sites.google.com/view/concertsonconnolly/home?authuser=0",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/_wHFVeaZl68gW9ixIfcaNA",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": null,
+      "telephone": null
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Family/Children",
+      "Live Performances",
+      "Music"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Butterfruit - An Exhibition",
     "startDate": "2025-07-07T13:00:00.000Z",
     "endDate": "2025-07-07T20:00:00.000Z",
@@ -33453,6 +34590,51 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Rivers, Cabbages, and Doctors Walking Tour",
+    "startDate": "2025-07-12T15:00:00-04:00",
+    "endDate": "2025-07-12T15:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Start and End Point - Riverdale Park West",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Winchester St. and Sumach St.",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": null,
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "43.668386",
+        "longitude": "-79.363461"
+      }
+    },
+    "description": "Explore Cabbagetown through a new lens to discover key markers of Toronto's history and development. From stories of immigration to early public health institutions, from the legacy of the Riverdale Zoo (now Riverdale Farm) to the Women's Medical College, unpack how this area has contributed to the growth of the city.\n\nThis tour is approximately 2.0 kilometers in distance and takes place predominantly on paved city sidewalks and streets. There are some unpaved portions of the route that take place in a city park, and there is a steep slope going down inside Riverdale Farm, as well as a set of stairs going up along the route. Please be aware that Riverdale Farm does not allow dogs.\n\nThis tour was developed and will be led by Gilles Huot. Gilles has lived in Cabbagetown since 2005. He started his long civil service career in communications – writing, editing, and translating, before transitioning to policy work.",
+    "url": "https://www.eventbrite.ca/e/rivers-cabbages-and-doctors-walking-tour-tickets-1367572198259",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/i4bDRofBKyRTyEx45fQJdw",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Heritage Toronto",
+      "email": "heritagetorontotours@gmail.com",
+      "telephone": "647-542-3450"
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "History",
+      "Tour",
+      "Run/Walk"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "9.85",
+      "priceCurrency": "CAD",
+      "url": "https://www.eventbrite.ca/e/rivers-cabbages-and-doctors-walking-tour-tickets-1367572198259"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Community Environment Day at Ted Reeve Arena",
     "startDate": "2025-07-13T14:00:00.000Z",
     "endDate": "2025-07-13T18:00:00.000Z",
@@ -33609,6 +34791,49 @@
     "keywords": [
       "Seminars/Workshops"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "CampTO Plus at Spadina Museum",
+    "startDate": "2025-07-14T09:00:00-04:00",
+    "endDate": "2025-07-14T09:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Spadina Museum",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "285 Spadina Rd",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5R 2V5",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.679180187348464,
+        "longitude": -79.4081711769104
+      }
+    },
+    "description": "Kids can enjoy arts and crafts like paper making, clay modeling and baking, inspired by the historic Spadina house and gardens. Explore a 100-year-old home, uncovering hidden secrets and learning about life in the 1920s. With outdoor games, garden visits and creative projects, this camp offers a fun, unique experience like no other",
+    "url": "https://anc.ca.apm.activecommunities.com/toronto/activity/search?center_ids=567&activity_category_ids=82&viewMode=list",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/BUj_fcDVKz2p5usjCQ6xOg",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": null,
+      "telephone": null
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Camp",
+      "History",
+      "Museum"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "url": "https://anc.ca.apm.activecommunities.com/toronto/activity/search?center_ids=567&activity_category_ids=82&viewMode=list"
+    }
   },
   {
     "@context": "https://schema.org",
@@ -34038,6 +35263,45 @@
       "telephone": "6477482099"
     },
     "isAccessibleForFree": false,
+    "keywords": [
+      "Food/Culinary",
+      "Live Performances",
+      "Music"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Panamerican Food & Music Festival",
+    "startDate": "2025-07-18T18:00:00-04:00",
+    "endDate": "2025-07-20T12:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Nathan Phillips Square",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "100 Queen St W",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5G 1P5",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6524924,
+        "longitude": -79.38471489999999
+      }
+    },
+    "description": "Join us for Canada's largest festival celebrating the best food and culture of the Western Hemisphere – returning for its 13th year.\n\nNamed one of Ontario's Top 100 Festivals and Events, and Canada's Best Latin Festival, Panamfest presents colourful live music and dance performances, the Panamerican Parade, food demonstrations and competitions by international chefs, a youth talent showcase, and a Panamerican vendors' market. It celebrates the excellence and diversity of the 41 countries of North, Central and South America and the Caribbean. Panamfest delivers food, flavour and fun – Panamerican style – for the entire family.",
+    "url": "https://2025.panamfest.com/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/YGO3iFejPLFIl2g0hCADCw",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Artsxplosion Cultural Society",
+      "email": "info@panamfest.com",
+      "telephone": "416-995-8737"
+    },
+    "isAccessibleForFree": true,
     "keywords": [
       "Food/Culinary",
       "Live Performances",
@@ -34827,6 +36091,84 @@
       "@type": "Offer",
       "url": "https://www.eventbrite.ca/e/hiroshima-appeals-a-poster-exhibition-of-global-messages-tickets-1431847577649?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp"
     }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "AlohaFest Toronto 2025",
+    "startDate": "2025-07-26T11:00:00-04:00",
+    "endDate": "2025-07-26T11:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Mel Lastman Square",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "5100 Yonge St",
+        "addressLocality": "North York",
+        "addressRegion": "ON",
+        "postalCode": "M2N 5V7",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.7674279,
+        "longitude": -79.4141525
+      }
+    },
+    "description": "Get swept away by the rhythms, flavours, and traditions of Polynesia at the city's original and only festival uniting the vibrant cultures of the Pacific Islands. Presented by Hālau Hula I Ka Lā,  join us for a full day of exhilarating Polynesian dance performances, explore a curated selection of island-inspired vendors, and treat your taste buds to flavours of Pacific cuisine. Whether you're returning or joining us for the first time, you'll experience the true meaning of Aloha - warmth, unity, and joy. E komo mai, \"Welcome\"!",
+    "url": "https://www.alohafesttoronto.com",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/c78E-phCguLJ1pFchHTNFw",
+    "organizer": {
+      "@type": "Organization",
+      "name": "AlohaFest Toronto",
+      "email": "alohafest.toronto@gmail.com",
+      "telephone": null
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Family/Children",
+      "Food/Culinary",
+      "Live Performances"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Summer Live Music Festival 2025",
+    "startDate": "2025-07-26T16:00:00-04:00",
+    "endDate": "2025-07-26T16:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Trillium Park at Ontario Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "955 Lake Shore Blvd W",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M6K 3B9",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.630281,
+        "longitude": -79.409616
+      }
+    },
+    "description": "Experience the sounds of summer, featuring award-winning jazz bands, world music artists, and top a cappella groups. From soulful jazz to global rhythms and vocal harmony, we offer a vibrant mix of genres for all music lovers. Bring a blanket, soak in the waterfront views, and enjoy world-class performances in a relaxed, open-air setting.",
+    "url": "https://www.tujazz.com/slmf2025",
+    "image": null,
+    "organizer": {
+      "@type": "Organization",
+      "name": "SING! The International Vocal Arts Festival",
+      "email": "info@tujazz.com",
+      "telephone": null
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Live Performances",
+      "Music",
+      "Street Festival"
+    ]
   },
   {
     "@context": "https://schema.org",
@@ -37443,6 +38785,43 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "then, there's this... by David McClyment",
+    "startDate": "2025-09-10T12:00:00-04:00",
+    "endDate": "2025-10-04T12:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Red Head Gallery",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "401 Richmond St W",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5V 3A8",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6477554326,
+        "longitude": -79.3947484327
+      }
+    },
+    "description": "An adventure into the Age of Uncertanity. \n\nThese images definitely pose more questions than providing answers. Join in on a journey that neurotically pokes at the stresses of climate change. Feel the relentless pressure of time ticking away.\nMight be fun? Or not!\n\nFour parts to this adventure. First, \"Invasive Species\" - creatures that are motivated by a human-altered climate to move. Followed by \"My Resilient Garden\" - hope, maybe not for humans, but for the rest of the world to carry on. Next up, \"The Human Factor\" - we started this upheaval and we are now the victims. Can we do anything but squirm? Let's hope. Ending with \"It's About Time\" a playful reminder that time is running out.",
+    "url": "https://www.redheadgallery.org/david-mcclyment-current",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/abhKZiFDWlDLe1UTTU05Ng",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": null,
+      "telephone": null
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Arts/Exhibits"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Francophonie en Fête, 20th Anniversary Edition",
     "startDate": "2025-09-12T17:00:00-04:00",
     "endDate": "2025-09-27T20:00:00-04:00",
@@ -38749,6 +40128,50 @@
       "Family/Children",
       "Food/Culinary"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Slave Play - Canadian Theatrical Premiere",
+    "startDate": "2025-09-27T19:30:00-04:00",
+    "endDate": "2025-10-19T19:30:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Berkeley Street Theatre",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "26 Berkeley St",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5A 2W3",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.65057724,
+        "longitude": -79.36426063
+      }
+    },
+    "description": "The most talked about play of the decade.\n\nSharp, provocative, and wildly entertaining theatrical sensation that has sparked conversations from Broadway to London. Now making its Canadian premiere, this electrifying play by Jeremy O. Harris turns up the heat on love, race, and relationships in ways that are bold, unexpected, and impossible to forget.  \n\nA daring, seductive, and razor-sharp satire, audiences will be on a journey where pleasure and history meet, flipping assumptions and igniting sparks along the way. It's a show that's as playfully cheeky as it is thought-provoking, designed to make you feel, think, and maybe even blush.",
+    "url": "https://my.canadianstage.com/overview/9305",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/L2yDEhUIdsEjYG3wBmL3mg",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Canadian Stage",
+      "email": null,
+      "telephone": null
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Live Performances",
+      "Theatre"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "60.00",
+      "priceCurrency": "CAD",
+      "url": "https://my.canadianstage.com/overview/9305"
+    }
   },
   {
     "@context": "https://schema.org",
@@ -49131,6 +50554,122 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Washed Up: Pop-Up Installation at Scarborough Museum",
+    "startDate": "2025-11-30T11:00:00-05:00",
+    "endDate": "2026-03-29T11:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Scarborough Museum",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1007 Brimley Rd",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M1P 3E8",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.75761117010184,
+        "longitude": -79.25482341995588
+      }
+    },
+    "description": "Beginning July 1st at Scarborough Museum, experience Washed Up by Hatecopy. The project captures the essence of liminal spaces that serve as cultural hubs for the South Asian immigrant communities, using the washing machine as a vessel to carry textiles that signify our roots and drawing visitors into an environment that intertwines the past, present, and future; acknowledging the dirty laundry of Canadian History and \"Truth,\" and reclaiming both seen and unseen spaces.\n\nMaria Qamar (b. 1991) is a Toronto-based pop artist whose work is focused in the South Asian diaspora and immigrant communities and their cultural experiences. The work specializes in themes regarding feminism, social change, humour, pop culture, politics and romance. The artist has been recognized both nationally and internationally with exhibits and features in the Museum of Contemporary Arts, the National Arts Centre, Sotheby's, Phillips Auction, and the AGO.",
+    "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/museums/scarborough-museum/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/-80ektrvL0b3PVNCi8uCuA",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Toronto History Museums & Hatecopy",
+      "email": "shm@toronto.ca",
+      "telephone": "416-338-8807"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Arts/Exhibits",
+      "Museum"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "I am Scarborough - Installation at Scarborough Museum",
+    "startDate": "2025-11-30T11:00:00-05:00",
+    "endDate": "2026-03-22T11:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Scarborough Museum",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1007 Brimley Rd",
+        "addressLocality": "Scarborough",
+        "addressRegion": "ON",
+        "postalCode": "M1P 3E8",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.757624474,
+        "longitude": -79.254809969
+      }
+    },
+    "description": "\"I Am Scarborough\" is a community-engaged installation at Scarborough Museum, created by artist Kseniya Tsoy during her Toronto Arts Council Animating Historic Sites residency.\n\nOver the course of several months, Scarborough residents and museum visitors came together to fold hundreds of origami butterflies and share their stories—their journeys, the lands their families come from, and their hopes and dreams.\n\nNow gathered and suspended in flight, these butterflies embody the vibrant diversity of Scarborough—soaring high and envisioning a bright, shared future.\n\nExperience their collective flight at Scarborough Museum through February 26th, 2026.",
+    "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/museums/scarborough-museum/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/-JQtu191tp5Rwdbla9weFQ",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Scarborough Museum and Kseniya Tsoy",
+      "email": "shm@toronto.ca",
+      "telephone": "4163388807"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Arts/Exhibits",
+      "Family/Children",
+      "Museum"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Pop-Up Exhibit: Making Home in Scarborough at Scarborough Museum",
+    "startDate": "2025-11-30T11:00:00-05:00",
+    "endDate": "2026-03-29T11:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Scarborough Museum",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1007 Brimley Rd",
+        "addressLocality": "Scarborough",
+        "addressRegion": "ON",
+        "postalCode": "M1P 3E8",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.75750866187515,
+        "longitude": -79.25482216963748
+      }
+    },
+    "description": "Making Home in Scarborough is a vibrant pop-up installation celebrating memory, identity, and belonging through cultural traditions and objects we hold dear to our hearts in generations past, present and future. \n \n\nCo-created through conversation and care, community members were invited to share a meaningful object, rooted in a heartfelt story. All speak to how home is made not only in buildings or borders, but in the places, people, and practices that give life meaning. \n \nAs you explore the exhibition, we invite you to reflect: \"What does home mean to you?\" If you live in Scarborough, \"What does Making Home in Scarborough Mean to you?\" \n \nWe are grateful for our community collaborators: Native Child and Family Services / Scarborough Child & Family Life Centre, Malvern Family Resource Centre, TDSB Newcomer Services (Malvern), Toby's Place, Scarborough Museum Youth Collective and Change Made.",
+    "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/museums/scarborough-museum/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/6kfDJXrc8OBizba2-_2Zqg",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": "shm@toronto.ca",
+      "telephone": "416-338-8807"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Arts/Exhibits",
+      "Family/Children",
+      "Museum"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "World Play: Reading Toronto's Many Languages, Chapter 3",
     "startDate": "2025-12-01T19:00:00-05:00",
     "endDate": "2025-12-01T19:00:00-05:00",
@@ -55132,7 +56671,7 @@
     "@type": "Event",
     "name": "Youth Arts Mentorship at Scarborough Museum",
     "startDate": "2025-12-13T11:00:00-05:00",
-    "endDate": "2026-03-15T11:00:00-04:00",
+    "endDate": "2026-03-22T11:00:00-04:00",
     "location": {
       "@type": "Place",
       "name": "Scarborough Museum",
@@ -59915,6 +61454,41 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Yonge North York Self-Guided Foodie Tours",
+    "startDate": "2026-01-12T11:00:00-05:00",
+    "endDate": "2026-02-15T11:00:00-05:00",
+    "location": {
+      "@type": "Place",
+      "name": "Yonge North York BIA",
+      "address": {},
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.760727,
+        "longitude": -79.413436
+      }
+    },
+    "description": "Explore four unique, walkable experiences that showcase our neighbourhood's local gems, and vibrant restaurant venue, at your own pace. Whether you're a first-time visitor or a familiar local, our  curated tours are the perfect way to savour and enjoy our  district, one serving at a time.\n\nEach tour includes four participating restaurants, offering exclusive tasting items. Complete a tour, collect our unique pins featuring local art, and upload pics of them for a chance to win prizes! Visit our website link to view each tour.\n\nFunded by the City of Toronto's Transit Construction Mitigation Fund and the Federal Economic Development Agency for Southern Ontario",
+    "url": "https://destinationyny.com/foodie-tours/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/NC_Ntj-3agtr0jHHhrJn7Q",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": null,
+      "telephone": null
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Food/Culinary",
+      "Tour"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "url": "https://destinationyny.com/foodie-tours/"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Pu Songling: Strange Tales",
     "startDate": "2026-01-13T20:00:00-05:00",
     "endDate": "2026-02-01T20:00:00-05:00",
@@ -60815,6 +62389,93 @@
     "offers": {
       "@type": "Offer",
       "url": "https://www.zeffy.com/en-CA/ticketing/klezmer-and-yiddish-dance-workshop-series"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Something Strange Circus Show",
+    "startDate": "2026-01-17T19:30:00-05:00",
+    "endDate": "2026-01-17T19:30:00-05:00",
+    "location": {
+      "@type": "Place",
+      "name": "Lee's Palace",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "529 Bloor St W",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5S 1Y5",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.70609,
+        "longitude": -79.378499
+      }
+    },
+    "description": "Pop into Canada's largest live sideshow congress, hosted by Toronto's own Mysterion the Mind Reader. \n\nLee's Palace, the venue that once introduced Nirvana to the city and shaped a generation of live music counterculture now becomes the stage for an unforgettable night of mind-bending feats, pain-proof wonders, dark humor, and the delightfully impossible.\n\nAudiences should prepare to witness, a pain-proof woman who consumes shards of glass before your eyes, a man with tattooed eyeballs who lifts weights with his nose and a sword-swallowing clown risking life in real time for your entertainment.",
+    "url": "https://www.ticketweb.ca/event/the-something-strange-oddities-the-dance-cave-tickets/13966644",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/u51QoCesuAL78gxHWtXCYw",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": "kojenwa@zebrapublicrelations.com",
+      "telephone": "3477841980"
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Arts/Exhibits",
+      "Live Performances"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "8.40",
+      "priceCurrency": "CAD",
+      "url": "https://www.ticketweb.ca/event/the-something-strange-oddities-the-dance-cave-tickets/13966644"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Ceilidh Fundraiser for Boys and Girls St. Albans Club",
+    "startDate": "2026-01-17T14:00:00-05:00",
+    "endDate": "2026-01-17T14:00:00-05:00",
+    "location": {
+      "@type": "Place",
+      "name": "BGC St. Albans Club",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "843 Palmerston Ave",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M6G 2R8",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.671409987,
+        "longitude": -79.415679242
+      }
+    },
+    "description": "Beat the January blues! \n\nCeilidh dancing is fun for all ages, and no partner or previous dance experience is required. Please bring indoor shoes for the gym and a reusable water bottle. We hope to see you on the dance floor!",
+    "url": "https://dancescottish.ca/events-list/?ordr=msort_event&event_locations=near1;not-too-far2",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/afghY8DWC5pVFJKia7YrRg",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": "erica.degannes@gmail.com",
+      "telephone": "416-937-5638"
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Charity/Cause",
+      "Dance"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "10.00",
+      "priceCurrency": "CAD"
     }
   },
   {
@@ -61852,6 +63513,92 @@
       "price": "24.80",
       "priceCurrency": "CAD",
       "url": "https://am.ticketmaster.com/tiff/cinemakabuki"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Winter Weather Nature Walk in High Park",
+    "startDate": "2026-01-25T10:00:00-05:00",
+    "endDate": "2026-01-25T10:00:00-05:00",
+    "location": {
+      "@type": "Place",
+      "name": "High Park Nature Centre",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "440 Parkside Dr",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M6R 2Z3",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.651030196,
+        "longitude": -79.459060037
+      }
+    },
+    "description": "Have you ever wondered why winters get so cold, why snowflakes have such intricate patterns, or how pond animals survive once the water freezes? \n\nBundle up and join us for a family-friendly nature walk to explore the fascinating science behind the chilliest season of the year! We'll learn about the causes of winter weather, the secretive subnivean layer, and how plants and animals adapt to the cold Canadian winter.",
+    "url": "https://highparknaturecentre.com/event/wi26-winter-weather-nature-walk/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/QjnBRdF99zW5-5OoukLV6g",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": "info@highparknaturecentre.com",
+      "telephone": "4163921748"
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Charity/Cause",
+      "Environmental",
+      "Family/Children"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "url": "https://highparknaturecentre.com/event/wi26-winter-weather-nature-walk/"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Nature Through a Lens: A Deep Dive Into High Park's Wildlife",
+    "startDate": "2026-01-25T15:30:00-05:00",
+    "endDate": "2026-01-25T15:30:00-05:00",
+    "location": {
+      "@type": "Place",
+      "name": "High Park Nature Centre Cottage",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "440 Parkside Dr",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M6R 2Z3",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.651030196,
+        "longitude": -79.459060037
+      }
+    },
+    "description": "You are invited to the third annual wildlife photography presentation of High Park!\n\nThrough the lenses of local photographers, revisit familiar wild animals and meet new neighbours, with each image offering a glimpse into their lives, habits, and challenges. We will also learn about how our actions shape their future in the urban ecosystems of High Park and Toronto.",
+    "url": "https://highparknaturecentre.com/event/wi26-nature-through-a-lens/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/esPfwhkytc3GFfGzyRx8Qg",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": "info@highparknaturecentre.com",
+      "telephone": "4163921748"
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Environmental",
+      "Family/Children",
+      "Talks"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "url": "https://highparknaturecentre.com/event/wi26-nature-through-a-lens/"
     }
   },
   {
@@ -63631,6 +65378,49 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Frosty Flora Nature Walk in High Park",
+    "startDate": "2026-02-15T14:00:00-05:00",
+    "endDate": "2026-02-15T14:00:00-05:00",
+    "location": {
+      "@type": "Place",
+      "name": "High Park Forest School",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "375 Colborne Lodge Dr",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M6S 0A4",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.651248508,
+        "longitude": -79.463498027
+      }
+    },
+    "description": "Join us for a family-friendly winter walk as we explore how the plants respond to the many challenges of this season. \n\nWe'll learn about the incredible adaptations of cold-hardy plants, practice identifying plants in their wintery forms, and discuss how these plants help other wildlife survive the cold Canadian winter in Toronto.",
+    "url": "https://highparknaturecentre.com/event/wi26-frosty-flora-nature-walk/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/JAnv0dIoe7wIA3wjEZzFmw",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": "info@highparknaturecentre.com",
+      "telephone": "4163921748"
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Charity/Cause",
+      "Environmental",
+      "Family/Children"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "url": "https://highparknaturecentre.com/event/wi26-frosty-flora-nature-walk/"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Come Play Werewolf",
     "startDate": "2026-02-16T18:00:00-05:00",
     "endDate": "2026-03-07T18:00:00-05:00",
@@ -64721,6 +66511,49 @@
       "Music",
       "Parade"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "March Birding Walk in High Park",
+    "startDate": "2026-03-15T10:00:00-04:00",
+    "endDate": "2026-03-15T10:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "High Park Forest School",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "375 Colborne Lodge Dr",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M6S 0A4",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.651248508,
+        "longitude": -79.463498027
+      }
+    },
+    "description": "Step into High Park as winter gives way to the first signs of spring. \n\nJoin us for a casual beginner-friendly birding hike where we'll look for hardy winter residents and welcome the early migrants making their way back north to Toronto. All birding skill levels welcome.\n\nBest suited for participants ages 16 and up.",
+    "url": "https://highparknaturecentre.com/event/wi26-march-birding-walk/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/uF0uOhSoPjAo0y__M0IjJA",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": "info@highparknaturecentre.com",
+      "telephone": "4163921748"
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Charity/Cause",
+      "Environmental",
+      "Tour"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "url": "https://highparknaturecentre.com/event/wi26-march-birding-walk/"
+    }
   },
   {
     "@context": "https://schema.org",
