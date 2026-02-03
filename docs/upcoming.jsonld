@@ -2,49 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "WORLD PLAY: Reading Toronto's Many Languages",
-    "startDate": "2026-02-02T19:00:00-05:00",
-    "endDate": "2026-02-02T19:00:00-05:00",
-    "location": {
-      "@type": "Place",
-      "name": "Koffler301",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "180 Shaw St",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M6J 2W5",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.646893284,
-        "longitude": -79.417471674
-      }
-    },
-    "description": "You are invited to the fourth chapter of WORLD PLAY, an ongoing series curated by Alon Nashman, that celebrates Toronto's extraordinary linguistic and cultural diversity.\n\nEach edition brings together participants with diverse mother tongues who read excerpts of poetry, theatre, fiction, philosophy, and song lyrics in both their original language and in English translation. This chapter's theme is \"Trees.\"\n\nJoin us as a reader or listener for an immersive journey into phonaesthetics.",
-    "url": "https://www.kofflerarts.org/more/public-programs/program/world-play-chapter-4",
-    "image": null,
-    "organizer": {
-      "@type": "Organization",
-      "name": "",
-      "email": "worldplay@kofflerarts.org",
-      "telephone": "6479250643"
-    },
-    "isAccessibleForFree": true,
-    "keywords": [
-      "Cultural",
-      "Literary",
-      "Live Performances"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "url": "https://www.kofflerarts.org/more/public-programs/program/world-play-chapter-4"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Summer and Smoke",
     "startDate": "2026-02-03T19:30:00-05:00",
     "endDate": "2026-03-01T19:30:00-05:00",
@@ -2113,6 +2070,51 @@
     "offers": {
       "@type": "Offer",
       "url": "https://www.rcmusic.com/Tickets/Seats/395401"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Gather for Cookie Decorating at the Historic Montgomery's Inn",
+    "startDate": "2026-03-14T12:00:00-04:00",
+    "endDate": "2026-03-21T13:30:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Montgomery's Inn",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "4709 Dundas St W",
+        "addressLocality": "Etobicoke",
+        "addressRegion": "ON",
+        "postalCode": "M9A 1A8",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.651678917,
+        "longitude": -79.525658746
+      }
+    },
+    "description": "This March Break, enjoy a fun, family-friendly cookie decorating class where history meets creativity. Decorate cookies made from a historic recipe and bring your imagination and your sweet tooth. All ages are welcome. Cookies contain gluten, dairy and eggs. Ticket-holding adult must accompany children 16 years of age and younger.",
+    "url": "https://anc.ca.apm.activecommunities.com/toronto/activity/search?date_after=2026-02-02&activity_keyword=Cookie%20Decorating%20at%20the%20Historic%20Montgomery%27s%20Inn&viewMode=list",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/rk0u7CfMPUzh_65_M0xy1w",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": "montinn@toronto.ca",
+      "telephone": "416-394-8113"
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Family/Children",
+      "Food/Culinary",
+      "Museum"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "8.85",
+      "priceCurrency": "CAD",
+      "url": "https://anc.ca.apm.activecommunities.com/toronto/activity/search?date_after=2026-02-02&activity_keyword=Cookie%20Decorating%20at%20the%20Historic%20Montgomery%27s%20Inn&viewMode=list"
     }
   },
   {

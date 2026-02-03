@@ -50612,7 +50612,7 @@
         "longitude": -79.254809969
       }
     },
-    "description": "\"I Am Scarborough\" is a community-engaged installation at Scarborough Museum, created by artist Kseniya Tsoy during her Toronto Arts Council Animating Historic Sites residency.\n\nOver the course of several months, Scarborough residents and museum visitors came together to fold hundreds of origami butterflies and share their stories—their journeys, the lands their families come from, and their hopes and dreams.\n\nNow gathered and suspended in flight, these butterflies embody the vibrant diversity of Scarborough—soaring high and envisioning a bright, shared future.\n\nExperience their collective flight at Scarborough Museum through February 26th, 2026.",
+    "description": "\"I Am Scarborough\" is a community-engaged installation at Scarborough Museum, created by artist Kseniya Tsoy during her Toronto Arts Council Animating Historic Sites residency.\n\nOver the course of several months, Scarborough residents and museum visitors came together to fold hundreds of origami butterflies and share their stories—their journeys, the lands their families come from, and their hopes and dreams.\n\nNow gathered and suspended in flight, these butterflies embody the vibrant diversity of Scarborough—soaring high and envisioning a bright, shared future.\n\nExperience their collective flight at Scarborough Museum through March 22nd, 2026.",
     "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/museums/scarborough-museum/",
     "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/-JQtu191tp5Rwdbla9weFQ",
     "organizer": {
@@ -64109,6 +64109,43 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "You Do You",
+    "startDate": "2026-01-31T12:00:00-05:00",
+    "endDate": "2026-03-01T12:00:00-05:00",
+    "location": {
+      "@type": "Place",
+      "name": "Leslie Grove Gallery",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1158 Queen Street East",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M4M 1L2",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.662783,
+        "longitude": -79.33352
+      }
+    },
+    "description": "Join us in welcoming our newest Artists' Network Members. \n\nGet ready to meet fresh and new perspectives, and discover a new favourite artist.",
+    "url": "https://www.artistsnetwork.ca/patrons-calendar",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/96l4Nea71Udg1yIu9eOuFw",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": null,
+      "telephone": null
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Arts/Exhibits"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "SOLD OUT Víkingur Ólafsson on Piano",
     "startDate": "2026-02-01T15:00:00-05:00",
     "endDate": "2026-02-01T15:00:00-05:00",
@@ -64317,6 +64354,92 @@
       "@type": "Offer",
       "price": "15.00",
       "priceCurrency": "CAD"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Building Black AMORPHIA: Spiritual Starships",
+    "startDate": "2026-02-01T10:00:00-05:00",
+    "endDate": "2026-05-28T10:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Harbourfront Centre",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "235 Queens Quay W",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5J 2G8",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.63923186,
+        "longitude": -79.383105327
+      }
+    },
+    "description": "The latest series from Ghanaian-Canadian multidisciplinary artist and LEGO® sculptor, Ekow Nimako.\n\nComprising of 16 different artworks, that thread together elements of West African mask-making traditions, science fiction, geometric figures and interstellar vessels to create an amorphous futuristic tapestry. The interlacing of natural elements and the primary geometric forms often associated with LEGO® evoke an aesthetic that is at times haunting, futuristic and simultaneously traditional.",
+    "url": "https://harbourfrontcentre.com/event/building-black-amorphia-spiritual-starships-kuumba-2026/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/AHVeveYUHjSGzYwe8nVXtQ",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TD Bank Group through the TD Ready Commitment",
+      "email": "audienceservice@harbourfrontcentre.com",
+      "telephone": "(416) 973-4000"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Arts/Exhibits"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "url": "https://harbourfrontcentre.com/event/building-black-amorphia-spiritual-starships-kuumba-2026/"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "KUUMBA Festival 2026",
+    "startDate": "2026-02-01T00:00:00-05:00",
+    "endDate": "2026-02-28T00:00:00-05:00",
+    "location": {
+      "@type": "Place",
+      "name": "Harbourfront Centre",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "235 Queens Quay W",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5J 2G8",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.63923186,
+        "longitude": -79.383105327
+      }
+    },
+    "description": "Toronto's largest and longest-running Black Futures Month festival, celebrating the rich histories, achievements and creative brilliance of Black communities across North America, framed within a dynamic global perspective. \n\nGuided by the unifying theme Sounds of Blackness, we are proud to present a vibrant program spanning music, literature, dance, theatre, wellness, family-friendly events and masterclasses, amplifying Afro-Caribbean and Canadian artists and thought leaders to create a powerful platform for reflection, celebration and future-focused dialogue.",
+    "url": "https://harbourfrontcentre.com/series/kuumba/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/cqd4FKkcB3raz709hx6hWQ",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TD Bank Group through the TD Ready Commitment",
+      "email": "audienceservice@harbourfrontcentre.com",
+      "telephone": "(416) 973-4000"
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Arts/Exhibits",
+      "Family/Children",
+      "Live Performances"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "CAD",
+      "url": "https://harbourfrontcentre.com/series/kuumba/"
     }
   },
   {
@@ -66433,6 +66556,51 @@
     "offers": {
       "@type": "Offer",
       "url": "https://www.rcmusic.com/Tickets/Seats/395401"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Gather for Cookie Decorating at the Historic Montgomery's Inn",
+    "startDate": "2026-03-14T12:00:00-04:00",
+    "endDate": "2026-03-21T13:30:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Montgomery's Inn",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "4709 Dundas St W",
+        "addressLocality": "Etobicoke",
+        "addressRegion": "ON",
+        "postalCode": "M9A 1A8",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.651678917,
+        "longitude": -79.525658746
+      }
+    },
+    "description": "This March Break, enjoy a fun, family-friendly cookie decorating class where history meets creativity. Decorate cookies made from a historic recipe and bring your imagination and your sweet tooth. All ages are welcome. Cookies contain gluten, dairy and eggs. Ticket-holding adult must accompany children 16 years of age and younger.",
+    "url": "https://anc.ca.apm.activecommunities.com/toronto/activity/search?date_after=2026-02-02&activity_keyword=Cookie%20Decorating%20at%20the%20Historic%20Montgomery%27s%20Inn&viewMode=list",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/rk0u7CfMPUzh_65_M0xy1w",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": "montinn@toronto.ca",
+      "telephone": "416-394-8113"
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Family/Children",
+      "Food/Culinary",
+      "Museum"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "8.85",
+      "priceCurrency": "CAD",
+      "url": "https://anc.ca.apm.activecommunities.com/toronto/activity/search?date_after=2026-02-02&activity_keyword=Cookie%20Decorating%20at%20the%20Historic%20Montgomery%27s%20Inn&viewMode=list"
     }
   },
   {
