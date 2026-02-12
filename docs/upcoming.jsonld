@@ -1278,6 +1278,51 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Gather for March Break at Fort York: Children's Baking Workshop",
+    "startDate": "2026-03-14T12:00:00-04:00",
+    "endDate": "2026-03-22T14:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Fort York National Historic Site",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "100 Garrison Rd",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5V 3K9",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.638492748,
+        "longitude": -79.406281389
+      }
+    },
+    "description": "Roll up your sleeves in the 1826 Officers' Mess Kitchen to make Jumbles from an 1831 Canadian cookbook.  Pound sugar in a mortar and pestle, grate spices, cream butter and beat eggs to make these buttery sugar and spice coated biscuits. Workshop is for children six to 12 years old.",
+    "url": "https://secure.toronto.ca/webapps/feps_edc-ticketing/#events/5e8e834f-1d97-44a8-b3d8-172b23e2223c",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/Y5Ls2c5Z0iW4nY4gpTJ_LQ",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": "fortyork@toronto.ca",
+      "telephone": "416-392-6907"
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Food/Culinary",
+      "History",
+      "Museum"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "5.00",
+      "priceCurrency": "CAD",
+      "url": "https://secure.toronto.ca/webapps/feps_edc-ticketing/#events/5e8e834f-1d97-44a8-b3d8-172b23e2223c"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "An Afternoon of Bach",
     "startDate": "2026-03-15T14:00:00-04:00",
     "endDate": "2026-03-15T14:00:00-04:00",
