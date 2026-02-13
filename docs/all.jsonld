@@ -61112,7 +61112,7 @@
     "@type": "Event",
     "name": "New Views of the Landscape Exhibition",
     "startDate": "2026-01-08T10:00:00-05:00",
-    "endDate": "2026-02-13T10:00:00-05:00",
+    "endDate": "2026-02-12T10:00:00-05:00",
     "location": {
       "@type": "Place",
       "name": "Assembly Hall Gallery",
@@ -64191,7 +64191,7 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Black History Month: Print a copy of Mary Ann Shadd Cary's newspaper at Mackenzie House!",
+    "name": "Black History Month: Print Mary Ann Shadd Cary's Newspaper",
     "startDate": "2026-02-01T11:00:00-05:00",
     "endDate": "2026-02-28T11:00:00-05:00",
     "location": {
@@ -64211,7 +64211,7 @@
         "longitude": -79.37831
       }
     },
-    "description": "The Mackenzie House Museum printshop marks Black History Month with a hands-on printing experience, inviting visitors to produce their own copy of The Provincial Freeman on an original 1840s printing press! The paper was the first newspaper in Canada edited by a Black woman, Mary Ann Shadd Cary, who operated a printing office on King Street West in 1854.\n\n(Note: the historic house is currently undergoing restoration and may not be open. The printshop and gallery will be open.)",
+    "description": "Bring history to life at the Mackenzie House Museum printshop during Black History Month. Print a copy of The Provincial Freeman, the newspaper edited by Mary Ann Shadd Cary, the first Black woman publisher in Canada, using an original 1840s printing press. Take home a printed keepsake while exploring how print media supported 19th century activism, civic engagement, and community organizing through one of the most significant Black newspapers in Canadian history.\n\nPlease note: due to ongoing restoration, the historic house is closed to the public. The printshop and gallery remain open.",
     "url": null,
     "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/dEZJzqEsFD624BRmj35dgg",
     "organizer": {
@@ -65489,6 +65489,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Rebirth: The Quiet Becoming Installation at Fort York",
+    "startDate": "2026-02-12T11:00:00-05:00",
+    "endDate": "2026-07-01T11:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Fort York National Historic Site",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "250 Fort York Blvd",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5V 3K9",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.63739,
+        "longitude": -79.406547
+      }
+    },
+    "description": "Experience \"Rebirth: The Quiet Becoming\", a bold new outdoor installation on the Gardiner Expressway beside Fort York Visitor Centre. Created by artists Delali Cofie and Yuma Dean Hester, it reimagines the site's layered histories through contemporary art. An accompanying exhibition inside the Visitor Centre deepens the experience, inviting visitors to encounter the Fort as a living cultural landscape shaped by reflection, dialogue, and collaboration.",
+    "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/museums/fort-york-national-historic-site/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/dO5xZO4x23GV0q6-g7eRZA",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": "fortyork@toronto.ca",
+      "telephone": "416-392-6907"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Arts/Exhibits",
+      "History",
+      "Museum"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Guardians of the Gods",
     "startDate": "2026-02-13T11:00:00-05:00",
     "endDate": "2026-02-16T14:00:00-05:00",
@@ -65573,6 +65612,44 @@
       "@type": "Offer",
       "url": "https://highparknaturecentre.com/event/wi26-great-backyard-bird-count-1/"
     }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Community Skate Day",
+    "startDate": "2026-02-13T14:00:00-05:00",
+    "endDate": "2026-02-13T14:00:00-05:00",
+    "location": {
+      "@type": "Place",
+      "name": "Sherbourne Common",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "61 Dockside Dr",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": null,
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.644846864,
+        "longitude": -79.365229962
+      }
+    },
+    "description": "Spend a class winter afternoon by the water! Glide across the ice to fun music with Lake Ontario as your backdrop. Sip on some hot chocolate and warm up for more fun.\n\nIt's the perfect way to spend the PA Day, whether you're a pro or putting on skates for the very first time.",
+    "url": "https://www.waterfrontbia.com/events/free-skate-rentals-sherbourne-common-february-13?fbclid=IwY2xjawP5l81leHRuA2FlbQIxMABicmlkETFlaXZVM3JjOWNWUXRBd01Dc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlnepoqynXLMK9Qp3PZV5hZS0g78b1-190ZKVpgRHm6fIVw1_wbx7c0LsUan_aem_beQQyyYgMUsGUiKSq6Iyig",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/N9f4SSwuUxOtsip6fd_NSg",
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Waterfront BIA",
+      "email": "info@waterfrontbia.com",
+      "telephone": null
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Family/Children",
+      "Other"
+    ]
   },
   {
     "@context": "https://schema.org",
@@ -66371,6 +66448,51 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Toronto Sketch Comedy Festival",
+    "startDate": "2026-03-04T18:00:00-05:00",
+    "endDate": "2026-03-15T18:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "The Theatre Centre",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1115 Queen St W",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M6J 1J1",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.643099,
+        "longitude": -79.423282
+      }
+    },
+    "description": "Returning for its 21st edition, featuring over 70 shows and over 75 comedy troupes!\n\nWe're showcasing the best contemporary sketch comedy, musical comedy, drag, storytelling, and clown from across North America, plus the ninth annual Film Festival presented by New Metric Media.\n\nHighlights include headliner performances by Sex T-Rex, Jon Blair, BDB Comedy, and Tita Collective, plus a full day of International Women's Day programming, featuring all female and non-binary performers.",
+    "url": "https://torontosketchfest.com/2026-festival/#/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/0Q325iXEIhq9ids7AWKQZQ",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": "info@torontosketchfest.com",
+      "telephone": null
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Comedy",
+      "Film",
+      "Live Performances"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "25.00",
+      "priceCurrency": "CAD",
+      "url": "https://torontosketchfest.com/2026-festival/#/"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Leonkoro Quartet",
     "startDate": "2026-03-05T19:30:00-05:00",
     "endDate": "2026-03-05T19:30:00-05:00",
@@ -66637,6 +66759,50 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Pinocchio",
+    "startDate": "2026-03-13T19:30:00-04:00",
+    "endDate": "2026-03-22T14:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Four Seasons Centre for the Performing Arts",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "145 Queen St W",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5H 4G1",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.65061879,
+        "longitude": -79.385806563
+      }
+    },
+    "description": "Olivier Award-winning director and choreographer Will Tuckett created Pinocchio for The National Ballet of Canada in 2017, based on the 19th-century tale about a wooden puppet who longs to be real. \n\nThe heart of that story is love, as the fatherly Geppetto guides Pinocchio's understanding of what it means to be human. Tuckett balances the moral aspects of the original story with heartwarming characters, magical stage effects and playful Canadiana, making Pinocchio a delightful experience for audiences of all ages.",
+    "url": "https://national.ballet.ca/productions/2526/pinocchio/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/mTYnwm9put9p7XDnL5ZEpw",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": null,
+      "telephone": null
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Dance",
+      "Live Performances"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "56.00",
+      "priceCurrency": "CAD",
+      "url": "https://national.ballet.ca/productions/2526/pinocchio/"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Gather for Cookie Decorating at the Historic Montgomery's Inn",
     "startDate": "2026-03-14T12:00:00-04:00",
     "endDate": "2026-03-21T13:30:00-04:00",
@@ -66722,6 +66888,88 @@
       "price": "5.00",
       "priceCurrency": "CAD",
       "url": "https://secure.toronto.ca/webapps/feps_edc-ticketing/#events/5e8e834f-1d97-44a8-b3d8-172b23e2223c"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Gather for March Break: Print a Postcard at Mackenzie House",
+    "startDate": "2026-03-14T11:00:00-04:00",
+    "endDate": "2026-03-22T11:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Mackenzie House Museum 82 Bond Street",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "82 Bond St",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5B 1X2",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.655694,
+        "longitude": -79.37831
+      }
+    },
+    "description": "Print a customized postcard on the historic press, then explore hands-on activities in the gallery. Decorate a model paper house and discover surprise objects in the mystery boxes through touch-based play. This family-friendly activation connects creativity, printing, and downtown history during March Break.\n\nNote: The historic house is closed for tours due to ongoing restoration. The printshop and gallery remain open.",
+    "url": null,
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/AiBIOihsGGjJEK3McjgAZA",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": "machouse@toronto.ca",
+      "telephone": "416-392-6915"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Family/Children",
+      "History",
+      "Museum"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Gather for March Break at Fort York",
+    "startDate": "2026-03-14T11:00:00-04:00",
+    "endDate": "2026-03-22T11:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Fort York National Historic Site",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "250 Fort York Blvd",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5V 3K9",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.638488,
+        "longitude": -79.405277
+      }
+    },
+    "description": "Enjoy a free, full day of discovery at Fort York. Catch a flintlock musket demonstration and join a discussion about how weapon technology shaped past conflicts. Hourly guided tours reveal Fort York's rich history and the stories of the people who once lived within its walls. Visit the garrison schoolroom to practice slate writing and learn how soldiers' children were taught. \n\nFor an additional fee of $5 +HST, children (aged six to 12 years old) can participate in a Jumbles baking workshop in the Officers' Mess Kitchen. Learn more and purchase tickets below.",
+    "url": "https://www.toronto.ca/explore-enjoy/festivals-events/festivals-events-calendar/?event_id=71ce396b-5da4-4998-9e33-a90b6023769d&event_name=Gather%20for%20March%20Break%20at%20Fort%20York%20-%20Children%27s%20Baking%20Work&calendar_date=2026-03-14T12:00:00-04:00",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/CFfaauNTnfepuCbyx_UZlg",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": "fortyork@toronto.ca",
+      "telephone": "416-392-6907"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Family/Children",
+      "History",
+      "Museum"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.toronto.ca/explore-enjoy/festivals-events/festivals-events-calendar/?event_id=71ce396b-5da4-4998-9e33-a90b6023769d&event_name=Gather%20for%20March%20Break%20at%20Fort%20York%20-%20Children%27s%20Baking%20Work&calendar_date=2026-03-14T12:00:00-04:00"
     }
   },
   {
@@ -67054,6 +67302,44 @@
       "@type": "Offer",
       "url": "https://toronto.webex.com/webappng/sites/toronto/webinar/webinarSeries/register/cee2b157aad54ef6a36e8a38e5ad515b"
     }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Etobicoke Youth Art Crawl Exhibition",
+    "startDate": "2026-03-26T10:00:00-04:00",
+    "endDate": "2026-04-23T10:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Assembly Hall Gallery",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1 Colonel Samuel Smith Park Dr",
+        "addressLocality": "Etobicoke",
+        "addressRegion": "ON",
+        "postalCode": "M8V 4B6",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.59766044,
+        "longitude": -79.515824559
+      }
+    },
+    "description": "Celebrate youth talent in this exhibition showcasing works in visual arts inspired by personal expression, communal engagement and creative exploration. A collaborative project by City of Toronto Parks & Recreation (Youth Spaces), Museums & Heritage Services (Montgomery's Inn), and Arts Services (Assembly Hall Gallery).",
+    "url": null,
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/vwFlop5RMXB-H1l_ZSfJ6A",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Museums & Heritage Services, Montgomery's Inn",
+      "email": null,
+      "telephone": "416-338-7255"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Arts/Exhibits",
+      "Artisan"
+    ]
   },
   {
     "@context": "https://schema.org",
@@ -67967,6 +68253,45 @@
       "priceCurrency": "CAD",
       "url": "https://www.rcmusic.com/Tickets/Seats/377201"
     }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Battle of York Day at Fort York",
+    "startDate": "2026-04-26T10:00:00-04:00",
+    "endDate": "2026-04-26T10:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Fort York National Historic Site",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "100 Garrison Rd",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5V 3K9",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.638492748,
+        "longitude": -79.406281389
+      }
+    },
+    "description": "Experience the commemoration of the 213th Anniversary of the Battle of York with special tours and demonstrations. Discover the battle's impacts on the city, this land and its peoples. Join the special Anishinaabeg Defenders of York battlefield tour and learn the stories of Toronto's Indigenous defenders. Excite your imagination with musket and music demonstrations, historic kitchen animations, special presentations and more.\n\nSpecial battlefield tours take place at noon & 2 p.m.",
+    "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/museums/fort-york-national-historic-site/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/TT6RHJVIBoygsDTU7dtdog",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": "fortyork@toronto.ca",
+      "telephone": "416-392-6907"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "History",
+      "Museum",
+      "Tour"
+    ]
   },
   {
     "@context": "https://schema.org",
