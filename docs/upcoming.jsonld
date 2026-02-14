@@ -2,128 +2,46 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Guardians of the Gods",
-    "startDate": "2026-02-13T11:00:00-05:00",
-    "endDate": "2026-02-16T14:00:00-05:00",
+    "name": "Voodoo Shango live at DROM Taberna",
+    "startDate": "2026-02-14T23:30:00-05:00",
+    "endDate": "2026-02-15T23:30:00-05:00",
     "location": {
       "@type": "Place",
-      "name": "Oakwood Village Library and Arts Centre",
+      "name": "Drom Taberna",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "341 Oakwood Ave",
-        "addressLocality": "York",
-        "addressRegion": "ON",
-        "postalCode": "M6E 2W1",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.6865837941,
-        "longitude": -79.4381553633
-      }
-    },
-    "description": "A play about adults, for children. Performed in 11 countries, across five continents in 2025.\n\n\nSometimes adults seem like gods, powerful, protective, and kind. But they can also be unpredictable and dangerous. What adults often overlook is children's unique power, their ability to see right through them. \n\nThis is a play about what unites children across the globe: living in a world ruled by adults. \n\nWritten by Erik Uddenberg and directed by Gustav Deinoff, the play has been developed based on interviews with children and adults from all over the world.",
-    "url": "https://www.zeffy.com/en-CA/ticketing/guardians-of-the-gods",
-    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/gHBqHgOzTJZjSh9cLN5W0g",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Theatre Direct",
-      "email": "info@theatredirect.ca",
-      "telephone": null
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Family/Children",
-      "Live Performances",
-      "Theatre"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "price": "10.00",
-      "priceCurrency": "CAD",
-      "url": "https://www.zeffy.com/en-CA/ticketing/guardians-of-the-gods"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Great Backyard Bird Count in High Park",
-    "startDate": "2026-02-13T10:00:00-05:00",
-    "endDate": "2026-02-16T10:00:00-05:00",
-    "location": {
-      "@type": "Place",
-      "name": "High Park Forest School",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "375 Colborne Lodge Dr",
+        "streetAddress": "458 Queen St W",
         "addressLocality": "Toronto",
         "addressRegion": "ON",
-        "postalCode": "M6S 0A4",
+        "postalCode": "M5V 2A8",
         "addressCountry": "CA"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": 43.651248508,
-        "longitude": -79.463498027
+        "latitude": 43.648278137,
+        "longitude": -79.399590594
       }
     },
-    "description": "Join us with your friends and family for our Great Backyard Bird Count community science birding event! \n\nWe'll walk through High Park identifying, learning about and counting the birds we spot. The data we collect will be submitted to eBird. \n\nThis is a beginner and family-friendly birding event, suitable for children ages 8 and up.",
-    "url": "https://highparknaturecentre.com/event/wi26-great-backyard-bird-count-1/",
-    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/KL25cljGadupZcwwu4r6LQ",
+    "description": "Led by the electrifying Johnny \"Papa\" Shango — master composer, singer, guitarist, and trombonist — Voodoo Shango Experience is a full-throttle tribute to the raw power of '70s and '80s funk culture, with a cinematic and literary twist. Their references are bold, their vibe is contagious, and their one true mission is to spread pure, unfiltered groove. Heads will bob. Hips will shake. Souls will ignite.\n\nSurrounded by heavy-hitters from Quebec's indie scene (Colectivo, Grimskunk, Funkafones), Johnny Shango cranks out a sound that channels the explosive energy of James Brown, the swagger of Lenny Kravitz, and the spirit of an endless funk party.",
+    "url": "https://www.dromtaberna.com",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/woQrexW6FOPbyMLIygTCXw",
     "organizer": {
       "@type": "Organization",
       "name": "",
-      "email": "info@highparknaturecentre.com",
-      "telephone": "4163921748"
+      "email": null,
+      "telephone": null
     },
     "isAccessibleForFree": false,
     "keywords": [
-      "Charity/Cause",
-      "Environmental",
-      "Family/Children"
+      "Live Performances",
+      "Music",
+      "Nightlife"
     ],
     "offers": {
       "@type": "Offer",
-      "url": "https://highparknaturecentre.com/event/wi26-great-backyard-bird-count-1/"
+      "price": "15.00",
+      "priceCurrency": "CAD"
     }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Community Skate Day",
-    "startDate": "2026-02-13T14:00:00-05:00",
-    "endDate": "2026-02-13T14:00:00-05:00",
-    "location": {
-      "@type": "Place",
-      "name": "Sherbourne Common",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "61 Dockside Dr",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": null,
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.644846864,
-        "longitude": -79.365229962
-      }
-    },
-    "description": "Spend a class winter afternoon by the water! Glide across the ice to fun music with Lake Ontario as your backdrop. Sip on some hot chocolate and warm up for more fun.\n\nIt's the perfect way to spend the PA Day, whether you're a pro or putting on skates for the very first time.",
-    "url": "https://www.waterfrontbia.com/events/free-skate-rentals-sherbourne-common-february-13?fbclid=IwY2xjawP5l81leHRuA2FlbQIxMABicmlkETFlaXZVM3JjOWNWUXRBd01Dc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlnepoqynXLMK9Qp3PZV5hZS0g78b1-190ZKVpgRHm6fIVw1_wbx7c0LsUan_aem_beQQyyYgMUsGUiKSq6Iyig",
-    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/N9f4SSwuUxOtsip6fd_NSg",
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Waterfront BIA",
-      "email": "info@waterfrontbia.com",
-      "telephone": null
-    },
-    "isAccessibleForFree": true,
-    "keywords": [
-      "Family/Children",
-      "Other"
-    ]
   },
   {
     "@context": "https://schema.org",
