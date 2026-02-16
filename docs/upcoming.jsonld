@@ -2,49 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Frosty Flora Nature Walk in High Park",
-    "startDate": "2026-02-15T14:00:00-05:00",
-    "endDate": "2026-02-15T14:00:00-05:00",
-    "location": {
-      "@type": "Place",
-      "name": "High Park Forest School",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "375 Colborne Lodge Dr",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M6S 0A4",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.651248508,
-        "longitude": -79.463498027
-      }
-    },
-    "description": "Join us for a family-friendly winter walk as we explore how the plants respond to the many challenges of this season. \n\nWe'll learn about the incredible adaptations of cold-hardy plants, practice identifying plants in their wintery forms, and discuss how these plants help other wildlife survive the cold Canadian winter in Toronto.",
-    "url": "https://highparknaturecentre.com/event/wi26-frosty-flora-nature-walk/",
-    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/JAnv0dIoe7wIA3wjEZzFmw",
-    "organizer": {
-      "@type": "Organization",
-      "name": "",
-      "email": "info@highparknaturecentre.com",
-      "telephone": "4163921748"
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Charity/Cause",
-      "Environmental",
-      "Family/Children"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "url": "https://highparknaturecentre.com/event/wi26-frosty-flora-nature-walk/"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Come Play Werewolf",
     "startDate": "2026-02-16T18:00:00-05:00",
     "endDate": "2026-03-07T18:00:00-05:00",
