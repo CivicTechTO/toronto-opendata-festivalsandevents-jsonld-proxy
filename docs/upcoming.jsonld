@@ -2,48 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Come Play Werewolf",
-    "startDate": "2026-02-16T18:00:00-05:00",
-    "endDate": "2026-03-07T18:00:00-05:00",
-    "location": {
-      "@type": "Place",
-      "name": "Granite Brewery",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "245 Eglinton Ave E",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M4P 3B7",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.708252048,
-        "longitude": -79.389544639
-      }
-    },
-    "description": "When someone tells you who they are, don't believe them....\n\nJoin us for a fun-filled evening where we will be playing the social deduction game Werewolf. Whether you're a seasoned player or a newbie, this event is perfect for anyone looking to be social while sharpening their strategic thinking skills. \n\nPlease remember kindness, respect, and safety for all.",
-    "url": "https://www.eventbrite.com/e/come-play-werewolf-the-granite-brew-4-tickets-1974984195895?aff=oddtdtcreator",
-    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/TlA2249_BHuLefUM8EJIBQ",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Werewolf Toronto",
-      "email": "werewoof.toronto@gmail.com",
-      "telephone": null
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Comedy",
-      "Seminars/Workshops"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "url": "https://www.eventbrite.com/e/come-play-werewolf-the-granite-brew-4-tickets-1974984195895?aff=oddtdtcreator"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Active Winter Tree Tour in High Park",
     "startDate": "2026-02-17T10:00:00-05:00",
     "endDate": "2026-02-17T10:00:00-05:00",
