@@ -2,44 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Active Winter Tree Tour in High Park",
-    "startDate": "2026-02-17T10:00:00-05:00",
-    "endDate": "2026-02-17T10:00:00-05:00",
-    "location": {
-      "@type": "Place",
-      "name": "High Park",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "375 Colborne Lodge Dr",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M6S 0A4",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.651248508,
-        "longitude": -79.463498027
-      }
-    },
-    "description": "Join us for an active tour at High Park. For those looking to primarily walk, but to stop occasionally to learn neat facts about the park and its ecology.\n\nNote that active tours are outdoors for the entire tour duration. Please dress according to the weather to stay warm and prepare for uneven and slippery terrain. Tour distances will range from 1 – 5 km. \n\nSpace is limited. Please register in advance at nrm@toronto.ca to secure a spot to attend. Include the name of the park tour you would like to attend and number of attendees. Contact nrm@toronto.ca for information on site conditions, including accessibility. If you would like to request accessibility support, contact us as soon as possible.",
-    "url": null,
-    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/azQZIDFEMh0b24Jx2Tgu7g",
-    "organizer": {
-      "@type": "Organization",
-      "name": "",
-      "email": "nrm@toronto.ca ",
-      "telephone": null
-    },
-    "isAccessibleForFree": true,
-    "keywords": [
-      "Environmental",
-      "Tour"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Third Voice Exhibition",
     "startDate": "2026-02-19T10:00:00-05:00",
     "endDate": "2026-03-26T10:00:00-04:00",
