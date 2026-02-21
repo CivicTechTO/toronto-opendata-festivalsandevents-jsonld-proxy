@@ -2,51 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Luka Coetzee on Cello with Jon Kimura Parker on Piano",
-    "startDate": "2026-02-20T20:00:00-05:00",
-    "endDate": "2026-02-20T20:00:00-05:00",
-    "location": {
-      "@type": "Place",
-      "name": "Koerner Hall, Royal Conservatory of Music",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "273 Bloor St W",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M5S 1W2",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.667856304,
-        "longitude": -79.396058814
-      }
-    },
-    "description": "Witness the exceptional talents of RCM alumni Luka Coetzee and Jon Kimura Parker as they perform a delightful program including Omar Daniel: Duo for Violoncello and Piano, Johannes Brahms: Cello Sonata No. 2 in F Major, op. 99, George Gershwin: Three Preludes, and Sergei Rachmaninov: Cello Sonata in G Minor, op. 19.\n\nPlease join us! This concert is preceded by a short performance by talented students of The Royal Conservatory.",
-    "url": "https://www.rcmusic.com/Tickets/Seats/377801",
-    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/CsGaA6EMO99GzybkUOsQvw",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Royal Conservatory of Music",
-      "email": null,
-      "telephone": null
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Arts/Exhibits",
-      "Live Performances",
-      "Music"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "price": "45.00",
-      "priceCurrency": "CAD",
-      "url": "https://www.rcmusic.com/Tickets/Seats/377801"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "The Roundhouse Winter Craft Beer Fest 2026",
     "startDate": "2026-02-21T12:00:00-05:00",
     "endDate": "2026-02-21T12:00:00-05:00",
