@@ -66314,6 +66314,49 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Flamenco Saturday",
+    "startDate": "2026-02-28T20:30:00-05:00",
+    "endDate": "2026-02-28T20:30:00-05:00",
+    "location": {
+      "@type": "Place",
+      "name": "DROM Taberna",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "458 Queen St W",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5V 2A8",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.648278137,
+        "longitude": -79.399590594
+      }
+    },
+    "description": "Flamenco has been a staple for the last seven years! Come enjoy the promise of an evening of intense, emotional vocals, guitar and percussion with mesmerizing dance and intricate percussive footwork.",
+    "url": "https://www.dromtaberna.com/reservations",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/f55Khx1cYMgRdus7T-lh7Q",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": null,
+      "telephone": null
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Live Performances",
+      "Music",
+      "Nightlife"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.dromtaberna.com/reservations"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "From Mozart to Mamma Mia",
     "startDate": "2026-03-01T15:00:00-05:00",
     "endDate": "2026-03-01T15:00:00-05:00",
@@ -67014,6 +67057,51 @@
     "offers": {
       "@type": "Offer",
       "url": "https://www.toronto.ca/explore-enjoy/festivals-events/festivals-events-calendar/?event_id=71ce396b-5da4-4998-9e33-a90b6023769d&event_name=Gather%20for%20March%20Break%20at%20Fort%20York%20-%20Children%27s%20Baking%20Work&calendar_date=2026-03-14T12:00:00-04:00"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "AGO March Break 2026",
+    "startDate": "2026-03-14T10:30:00-04:00",
+    "endDate": "2026-03-22T10:30:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Art Gallery of Ontario",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "317 Dundas St W",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5T 1G4",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.653511557,
+        "longitude": -79.392569777
+      }
+    },
+    "description": "Make your March Break magical!\n\nFor nine days this March, watch the space become a a vibrant hub of creativity and discovery for families of all ages. Dive into hands-on artmaking, sing along to classic rock hits performed by Lego Money, pick up your AGO PLAY activity booklet, and explore gallery adventures that transform every visit into a playful experience.",
+    "url": "https://visit.ago.ca/?_ga=2.250807618.598114334.1768831088-454920034.1768575201",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/5DgL4g0NKWTSpr2MV445Ng",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Art Gallery of Ontario",
+      "email": "contactus@ago.ca",
+      "telephone": "416-979-6648"
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Family/Children",
+      "Live Performances",
+      "Museum"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "30.00",
+      "priceCurrency": "CAD",
+      "url": "https://visit.ago.ca/?_ga=2.250807618.598114334.1768831088-454920034.1768575201"
     }
   },
   {
