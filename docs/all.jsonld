@@ -68685,6 +68685,43 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Inscape: Scarborough's Shoreline Parks Exhibition",
+    "startDate": "2026-05-02T09:00:00-04:00",
+    "endDate": "2026-05-31T09:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Clark Centre for the Arts",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "191 Guildwood Pkwy",
+        "addressLocality": "Scarborough",
+        "addressRegion": "ON",
+        "postalCode": "M1E 1P5",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.746893127,
+        "longitude": -79.193688812
+      }
+    },
+    "description": "Examine the visual and material tension between wilderness and human control along Scarborough's shoreline park system. Using traditional photographic techniques, the work moves from representational landscape toward abstraction, tracing how natural forces and urban intervention shape one another over time. The project draws from repeated visits to shoreline parks, beaches, and wooded areas along the bluffs. \n\nAbout the Artist\nChris is a Toronto-based photographer. Contemplative observation with a strong graphic sensibility for image making, have come to represent his photographic style. His personal work can be found in corporate and private collections throughout North America and Europe.",
+    "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/cultural-centres-galleries/clark-centre-for-the-arts/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/4UXtdEzjO76Xa4NwGkpFXw",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": "cca@toronto.ca",
+      "telephone": "416-396-4800"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Arts/Exhibits"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Kerson Leong, violin",
     "startDate": "2026-05-03T15:15:00-04:00",
     "endDate": "2026-05-03T15:15:00-04:00",
@@ -68724,6 +68761,43 @@
       "price": "70.00",
       "priceCurrency": "CAD"
     }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Community Environment Day at Woodside Square",
+    "startDate": "2026-05-03T10:00:00-04:00",
+    "endDate": "2026-05-03T10:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Woodside Square",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1571 Sandhurst Crcl",
+        "addressLocality": "Scarborough",
+        "addressRegion": "ON",
+        "postalCode": "M1V 1V2",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.809229,
+        "longitude": -79.269315
+      }
+    },
+    "description": "Join Councillor Myers (Scarborough North) and the City of Toronto to help reduce the amount of waste going to landfill. Drop off household items for donation, electronics for reuse or recycling and household hazardous waste for proper disposal. \n\nPick up free bagged compost while supplies last and kitchen catchers for organics ($7 each – cash only).",
+    "url": "https://www.toronto.ca/services-payments/recycling-organics-garbage/community-environment-days/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/z5hOQs-KwxbyQc4vxLfC_w",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": null,
+      "telephone": null
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Environmental"
+    ]
   },
   {
     "@context": "https://schema.org",
