@@ -2,43 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Shared Horizons: Paintings by Petra Eperjesi and David Lidbetter",
-    "startDate": "2026-02-26T11:00:00-05:00",
-    "endDate": "2026-03-14T11:00:00-04:00",
-    "location": {
-      "@type": "Place",
-      "name": "Muse Gallery",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "1230 Yonge St",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M4T 1W3",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.682446974,
-        "longitude": -79.39204912
-      }
-    },
-    "description": "In this duo show, both painters present their perspective on Canadian landscape painting. \n\nPetra Eperjesi distils familiar rural landscapes into their simplest shapes. Using hard edges her acrylic painting are rendered in vibrant colours with a playful/wonky perspective. The colours are unconventional and her perspective is often isometric, resulting in a contemporary, surreal landscape. \n\nDavid Lidbetter's approach which is softer, observationally traditional, a modern interpretation of the Group of Seven.  Lidbetter's paintings have an emotional content. The feeling of isolation, solitude and quiet pervade his works. \n\nWhile the two styles are radically different, the common denominator is still a vast unmistakable, unyielding Canadian landscape. We invite the viewer to delve into the contrasting interpretations of landscape painting presented by these two amazing artists.",
-    "url": "https://www.musegallery.ca/exhibitions",
-    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/8IboAxtksgXGYNnc1iPLFQ",
-    "organizer": {
-      "@type": "Organization",
-      "name": "",
-      "email": "musegallery@bellnet.ca",
-      "telephone": "4169749986"
-    },
-    "isAccessibleForFree": true,
-    "keywords": [
-      "Arts/Exhibits"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Little Willy",
     "startDate": "2026-02-27T19:30:00-05:00",
     "endDate": "2026-04-05T14:00:00-04:00",

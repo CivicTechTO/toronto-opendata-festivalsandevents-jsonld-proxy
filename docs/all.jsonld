@@ -65238,6 +65238,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "A Retrospective of Chinkok Tan Exhibition at Todmorden Mills",
+    "startDate": "2026-02-07T11:00:00-05:00",
+    "endDate": "2026-03-15T11:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Todmorden Mills Heritage Site",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "67 Pottery Rd",
+        "addressLocality": "East York",
+        "addressRegion": "ON",
+        "postalCode": "M4K 2B9",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.686361228,
+        "longitude": -79.36033401
+      }
+    },
+    "description": "Explore the life and legacy of Chinkok Tan (1941-2025) through paintings, works on paper and early artist books that reflect his evolving relationship with Toronto. See how Tan captures the city's landscapes, communities and quiet moments from the perspective of a new immigrant in the 1970s. Trace his growth as an artist and educator while discovering rarely exhibited pieces that highlight his influence on Toronto's creative community.",
+    "url": "chinkoktan.com",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/RGay2w93gidtZZbKi_goFA",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": "todmorden@toronto.ca",
+      "telephone": "416-396-2819"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Arts/Exhibits",
+      "Cultural",
+      "Museum"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "What Makes It Great® with Rob Kapilow and Gryphon Trio",
     "startDate": "2026-02-08T15:00:00-05:00",
     "endDate": "2026-02-08T15:00:00-05:00",
