@@ -18997,6 +18997,50 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Sounds of the Ocean at Arcadia Earth",
+    "startDate": "2025-06-01T12:00:00-04:00",
+    "endDate": "2025-06-29T12:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Arcadia Earth",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "486 Front St W building c",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5V 0V2",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6424602,
+        "longitude": -79.3967584
+      }
+    },
+    "description": "Embark on an extraordinary journey beneath the waves in celebration of World Ocean Month. \n\nThis award-winning, 10-minute immersive experience will transport guests into the mesmerizing world of the deep blue. Lounge on soft seating as the ethereal songs and sounds create a meditative ocean odyssey. Act Locally, think globally as Arcadia Earth Toronto works in collaboration with the Canadian Ocean Literacy Coalition (COLC) to share actionable steps to protect our oceans. Showcased in 26 countries, enjoy this experience in Toronto!",
+    "url": "https://www.showclix.com/tickets/arcadia-earth-toronto#",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/jWaasKSa4C7SCeykd85uZw",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Touchwood PR",
+      "email": "info@arcadiaearth.ca",
+      "telephone": null
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Arts/Exhibits",
+      "Family/Children"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "43.00",
+      "priceCurrency": "CAD",
+      "url": "https://www.showclix.com/tickets/arcadia-earth-toronto#"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Art On The Brain",
     "startDate": "2025-06-02T13:00:00.000Z",
     "endDate": "2025-06-03T01:00:00.000Z",
@@ -56504,7 +56548,7 @@
     "@type": "Event",
     "name": "Youth Arts Mentorship at Gibson House",
     "startDate": "2025-12-13T11:00:00-05:00",
-    "endDate": "2026-03-01T11:00:00-05:00",
+    "endDate": "2026-04-01T11:00:00-04:00",
     "location": {
       "@type": "Place",
       "name": "Gibson House Museum",
@@ -58386,7 +58430,7 @@
     "@type": "Event",
     "name": "Youth Arts Mentorship at Colborne Lodge",
     "startDate": "2025-12-18T11:00:00-05:00",
-    "endDate": "2026-03-01T11:00:00-05:00",
+    "endDate": "2026-03-29T11:00:00-04:00",
     "location": {
       "@type": "Place",
       "name": "Colborne Lodge Museum",
