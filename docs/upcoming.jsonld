@@ -175,6 +175,51 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Seussical: The Musical",
+    "startDate": "2026-03-06T19:00:00-05:00",
+    "endDate": "2026-03-14T19:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "St. Matthew's United Church",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "729 St Clair Ave W",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M6C 1B2",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.681133,
+        "longitude": -79.427475
+      }
+    },
+    "description": "A vibrant stage adaptation that weaves together iconic characters and stories from the world of Dr. Seuss.\n\nHorton the Elephant stumbles upon a tiny speck of dust containing an entire community, the Whos of Who-ville. When he alone hears their call for help, Horton makes a bold promise to protect them, even as doubt spreads and he faces mounting danger. Along the way, Gertrude McFuzz struggles to find her confidence, Jojo searches for belonging, and The Cat in the Hat leads us through a world where imagination challenges reality and compassion changes everything.\n\nAt its heart, Seussical is a story about loyalty, self-discovery, and standing up for others, even when you're the only one who believes.\n\nThis is Hillcrest Village Community Players' milestone fifth season show featuring local talent from across the city. You don't want to miss this!",
+    "url": "https://www.hillcrestvillageplayers.ca/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/ZcpVvVGOWXdmDkeaEGHKIw",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Hillcrest Village Community Players",
+      "email": null,
+      "telephone": null
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Family/Children",
+      "Live Performances",
+      "Theatre"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "41.00",
+      "priceCurrency": "CAD",
+      "url": "https://www.hillcrestvillageplayers.ca/"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Arturo O'Farrill Afro-Latin Jazz Ensemble",
     "startDate": "2026-03-07T20:00:00-05:00",
     "endDate": "2026-03-07T20:00:00-05:00",
