@@ -66663,6 +66663,43 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Emotional Preceptions of Everyday Scenes by Anna Shestova",
+    "startDate": "2026-03-04T12:00:00-05:00",
+    "endDate": "2026-03-22T12:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Leslie Grove Gallery",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1158 Queen St E",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M4M 1L2",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.662683087,
+        "longitude": -79.33369142
+      }
+    },
+    "description": "Anna Shestova's solo exhibition brings together watercolour, oil, and mixed media works inspired by travel and quiet observation. \n\nEach piece reflects light, colour, and form as emotional memory.",
+    "url": "https://www.lesliegrovegallery.ca",
+    "image": null,
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": null,
+      "telephone": null
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Arts/Exhibits"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Leonkoro Quartet",
     "startDate": "2026-03-05T19:30:00-05:00",
     "endDate": "2026-03-05T19:30:00-05:00",
@@ -68033,6 +68070,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Learning Through Art: An Introduction to Indigenous Cultural Practices",
+    "startDate": "2026-04-04T13:00:00-04:00",
+    "endDate": "2026-06-27T13:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Riverdale Hub",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1326 Gerrard St E",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M4L 1Z1",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.671781866,
+        "longitude": -79.32550473
+      }
+    },
+    "description": "Join us for a hands-on workshop series led by four Indigenous professional artists. \n\nThrough shared learning and art-making, we'll explore themes of land, resilience, and community while engaging with living Indigenous knowledge and culture. \n\nNo prior artistic experience is required, only openness, curiosity, and a willingness to learn. All are welcome.",
+    "url": "https://riverdalehub.ca/",
+    "image": null,
+    "organizer": {
+      "@type": "Organization",
+      "name": "Canada Council for the Arts",
+      "email": "hubinfo@riverdalehub.ca",
+      "telephone": null
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Artisan",
+      "Indigenous",
+      "Seminars/Workshops"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Serenade - Romance Rules",
     "startDate": "2026-04-10T19:30:00-04:00",
     "endDate": "2026-04-10T19:30:00-04:00",
@@ -68099,7 +68175,7 @@
     },
     "description": "In this kitchen, redemption is always on the menu\n\nClyde runs a truck stop sandwich shop, staffed by ex-convicts looking for a shot at redemption. Despite her callous management style, the cooks learn to reclaim their lives, find purpose, and become inspired to dream by their shared quest to create the perfect sandwich. A buoyant play full of witty dialogue, Clyde's is a transcendent story about second chances, rising above past mistakes, and reconnecting with the world.  \n\nFull of sizzling wit, big heart, and mouthwatering ambition, Clyde's serves up a thrilling, high-energy ride—think The Bear meets Broadway. Helmed by returning director Philip Akin (The Lehman Trilogy, Fat Ham), an all-star Canadian cast takes on this deliciously funny and deeply moving play.",
     "url": "https://my.canadianstage.com/overview/9459",
-    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/rdQQ2Pue2t77BA8vbhqUqQ",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/qFFZSS0li6zLX0uyo-u02A",
     "organizer": {
       "@type": "Organization",
       "name": "",
