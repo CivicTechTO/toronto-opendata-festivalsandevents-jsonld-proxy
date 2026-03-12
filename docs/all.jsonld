@@ -68283,6 +68283,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Smoke Signals x Reflections",
+    "startDate": "2026-04-16T18:00:00-04:00",
+    "endDate": "2026-06-13T12:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "401 Richmond Ltd",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "401 Richmond Street West, Suite 128",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": null,
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.647892,
+        "longitude": -79.394923
+      }
+    },
+    "description": "Visit Smoke Signals x Reflections presented by TD Bank Group and Toronto History Museums, an exhibition where photography, beadwork, sculpture and digital media serve as a guiding signal, broadcasting stories of identity, memory and reconnection. \n\nCurated by Jesse King, the exhibit shares pieces from Toronto's Fine Art and Artifact Collection, including the photographic series The Emergence of Legend by Kent Monkman as well as contemporary art by Alexis Nanibush-Pamajewong, Jake Kimble, Kay Nadjiwon, Kiki Guerard, Megan Feheley and Melissa Johns. Expect bold visuals, self-discovery, and personal storytelling.\n \nSmoke Signals x Reflections aims to create a safe and affirming space for two-spirit, Indigi-queer, and gender nonconforming artists.",
+    "url": "http://toronto.ca/marketgallery",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/5Nrj3x-IZLGxAWs8Ylc-Wg",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TD Bank Group",
+      "email": "marketgallery@toronto.ca",
+      "telephone": "4163927604"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Arts/Exhibits",
+      "Museum"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "TO Food and Drink Fest",
     "startDate": "2026-04-17T17:00:00-04:00",
     "endDate": "2026-04-19T12:00:00-04:00",
