@@ -2,6 +2,84 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Curtain Up: In Creation Lab",
+    "startDate": "2026-03-24T17:00:00-04:00",
+    "endDate": "2026-04-28T17:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Soulpepper Theatre",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "50 Tank House Lane",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5A 3C4",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.650850928,
+        "longitude": -79.357458674
+      }
+    },
+    "description": "Inspired by Christina Anderson's How to Catch Creation, youth in grades 10 to 12 are invited to join this drop-in program to explore storytelling through theatre, spoken word, performance and collective collage.\n\nTogether, participants will experiment with creative expression, share ideas and bring their stories to life in a collaborative and community-driven space.",
+    "url": "https://tickets.youngcentre.ca/15985",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/0KXjE4Qc27hPebRmyugebw",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": "maricris.rivera@soulpepper.ca",
+      "telephone": null
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Theatre"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "url": "https://tickets.youngcentre.ca/15985"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Tree Conversations by Felicity Somerset",
+    "startDate": "2026-03-25T12:00:00-04:00",
+    "endDate": "2026-04-12T12:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Leslie Grove Gallery",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1158 Queen St E",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M4M 1L2",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.662683087,
+        "longitude": -79.33369142
+      }
+    },
+    "description": "Reflecting on the artist's passion for trees and how that has led her to make this creative, expressionist collection of photographic images.",
+    "url": "https://www.artistsnetwork.ca/patrons-calendar",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/zclCjiyqDpPfY3rQe_Vv_w",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": "barb@artistsnetwork.ca",
+      "telephone": "4164650302"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Arts/Exhibits"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Getting to Know Grasses Webinar",
     "startDate": "2026-03-26T12:00:00-04:00",
     "endDate": "2026-03-26T12:00:00-04:00",
@@ -378,6 +456,50 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Little Canada Mini Mission: Easter Egg Search",
+    "startDate": "2026-04-03T10:00:00-04:00",
+    "endDate": "2026-04-06T10:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "LIttle Canada",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "10 Dundas Street East, B1 level",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": null,
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.65669,
+        "longitude": -79.380456
+      }
+    },
+    "description": "Take on our playful seek‑and‑find with 35 colourful mini eggs and one golden bunny hidden throughout the miniature worlds. It's an indoor, all‑ages experience full of delightful details, moving scenes, and wonder-filled Canadian moments. \n\nThis hunt is less about chocolate overload and more about adventure and discovery, giving kids a fun mission while offering parents a sugar‑free activity everyone can enjoy.\n\nPlease remember the mini eggs are to be discovered with your eyes, not your hands, so others can enjoy the fun.",
+    "url": "https://little-canada.ca/whatshappening/#whats-on-now",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/UvbBfQU1yNLQDCgXe4VzCg",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": null,
+      "telephone": null
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Family/Children",
+      "Other"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "36.00",
+      "priceCurrency": "CAD",
+      "url": "https://little-canada.ca/whatshappening/#whats-on-now"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Beneva Spring Run-Off",
     "startDate": "2026-04-04T10:00:00-04:00",
     "endDate": "2026-04-04T10:00:00-04:00",
@@ -458,6 +580,49 @@
       "Indigenous",
       "Seminars/Workshops"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Earth Month at Evergreen Brick Works",
+    "startDate": "2026-04-05T10:00:00-04:00",
+    "endDate": "2026-04-26T10:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Evergreen Brick Works",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "550 Bayview Ave",
+        "addressLocality": "East York",
+        "addressRegion": "ON",
+        "postalCode": "M4W 3X8",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.683783348,
+        "longitude": -79.365627973
+      }
+    },
+    "description": "Join us for a celebration of practical ways to live more sustainably. \n\nWe're bringing together Toronto's sustainability community together in one of the city's most unique spaces. \n\nFrom hands-on workshops and expert presentations to community walks, eco-arts installations, and curated marketplaces, this is where environmental curiosity meets real-world action.",
+    "url": "https://www.evergreen.ca/evergreen-brick-work/events/earth-month-2026/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/DBM4JMdZOXxD-1g1pAKRqw",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Who Gives A Crap",
+      "email": null,
+      "telephone": null
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Celebrations",
+      "Environmental",
+      "Family/Children"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.evergreen.ca/evergreen-brick-work/events/earth-month-2026/"
+    }
   },
   {
     "@context": "https://schema.org",
@@ -721,6 +886,51 @@
     "offers": {
       "@type": "Offer",
       "url": "https://www.rcmusic.com/Tickets/Seats/395602"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Pelléas et Mélisande",
+    "startDate": "2026-04-15T19:30:00-04:00",
+    "endDate": "2026-04-20T14:30:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "TELUS Centre for Performance and Learning at Koerner Hall",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "273 Bloor St W",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5S 1W2",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.667856304,
+        "longitude": -79.396058814
+      }
+    },
+    "description": "Rich with symbolism and dream imagery, Pelléas et Mélisande is Debussy's sole opera, and this uniquely imagined production has long been a dream of Co-Artistic Directors Marshall Pynkoski and Jeannette Lajeunesse Zingg. \n\nBased on the symbolist play by Maurice Maeterlinck, Pelléas et Mélisande follows a prince lost in a forest who discovers a beautiful woman weeping beside a pool of water which brings him in contact with a supernatural world from which there is no escape. \n\nAssociate Music Director Dr. Christopher Bagan enthusiastically embraced the opportunity to realize a unique score of Debussy's massive opera in a new arrangement for Opera Atelier and 14 elite soloists from Tafelmusik Baroque Orchestra. \n\nPelléas et Mélisande will feature David Fallis conducting and will be directed by Marshall Pynko.",
+    "url": "https://www.operaatelier.com/shows/pelleas-et-melisande/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/3Vr4RNSgJqCP80s_VzYitg",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Opera Atelier",
+      "email": null,
+      "telephone": null
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Dance",
+      "Live Performances",
+      "Music"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "85.00",
+      "priceCurrency": "CAD",
+      "url": "https://www.operaatelier.com/shows/pelleas-et-melisande/"
     }
   },
   {
