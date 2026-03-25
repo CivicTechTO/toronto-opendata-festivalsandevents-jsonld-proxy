@@ -2,47 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Curtain Up: In Creation Lab",
-    "startDate": "2026-03-24T17:00:00-04:00",
-    "endDate": "2026-04-28T17:00:00-04:00",
-    "location": {
-      "@type": "Place",
-      "name": "Soulpepper Theatre",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "50 Tank House Lane",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M5A 3C4",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.650850928,
-        "longitude": -79.357458674
-      }
-    },
-    "description": "Inspired by Christina Anderson's How to Catch Creation, youth in grades 10 to 12 are invited to join this drop-in program to explore storytelling through theatre, spoken word, performance and collective collage.\n\nTogether, participants will experiment with creative expression, share ideas and bring their stories to life in a collaborative and community-driven space.",
-    "url": "https://tickets.youngcentre.ca/15985",
-    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/0KXjE4Qc27hPebRmyugebw",
-    "organizer": {
-      "@type": "Organization",
-      "name": "",
-      "email": "maricris.rivera@soulpepper.ca",
-      "telephone": null
-    },
-    "isAccessibleForFree": true,
-    "keywords": [
-      "Theatre"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "url": "https://tickets.youngcentre.ca/15985"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Tree Conversations by Felicity Somerset",
     "startDate": "2026-03-25T12:00:00-04:00",
     "endDate": "2026-04-12T12:00:00-04:00",
@@ -956,7 +915,7 @@
         "longitude": -79.394923
       }
     },
-    "description": "Visit Smoke Signals x Reflections presented by TD Bank Group and Toronto History Museums, an exhibition where photography, beadwork, sculpture and digital media serve as a guiding signal, broadcasting stories of identity, memory and reconnection. \n\nCurated by Jesse King, the exhibit shares pieces from Toronto's Fine Art and Artifact Collection, including the photographic series The Emergence of Legend by Kent Monkman as well as contemporary art by Alexis Nanibush-Pamajewong, Jake Kimble, Kay Nadjiwon, Kiki Guerard, Megan Feheley and Melissa Johns. Expect bold visuals, self-discovery, and personal storytelling.\n \nSmoke Signals x Reflections aims to create a safe and affirming space for two-spirit, Indigi-queer, and gender nonconforming artists.",
+    "description": "Visit Smoke Signals x Reflections presented by TD Bank Group and Toronto History Museums, an exhibition where photography, beadwork, sculpture and digital media serve as a guiding signal, broadcasting stories of identity, memory and reconnection. \n\nCurated by Jesse King, the exhibit shares pieces from Toronto's Fine Art and Artifact Collection, including the photographic series The Emergence of Legend by Kent Monkman as well as contemporary art by Alexis Nanibush-Pamajewong, Jake Kimble, Kay Nadjiwon, Kiki Guerard, Megan Feheley and Melissa Johns. Expect bold visuals, self-discovery, and personal storytelling.\n \nSmoke Signals x Reflections is a safe and affirming space for two-spirit, Indigi-queer, and gender nonconforming artists.",
     "url": "http://toronto.ca/marketgallery",
     "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/5Nrj3x-IZLGxAWs8Ylc-Wg",
     "organizer": {
