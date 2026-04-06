@@ -2,49 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Earth Month at Evergreen Brick Works",
-    "startDate": "2026-04-05T10:00:00-04:00",
-    "endDate": "2026-04-26T10:00:00-04:00",
-    "location": {
-      "@type": "Place",
-      "name": "Evergreen Brick Works",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "550 Bayview Ave",
-        "addressLocality": "East York",
-        "addressRegion": "ON",
-        "postalCode": "M4W 3X8",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.683783348,
-        "longitude": -79.365627973
-      }
-    },
-    "description": "Join us for a celebration of practical ways to live more sustainably. \n\nWe're bringing together Toronto's sustainability community together in one of the city's most unique spaces. \n\nFrom hands-on workshops and expert presentations to community walks, eco-arts installations, and curated marketplaces, this is where environmental curiosity meets real-world action.",
-    "url": "https://www.evergreen.ca/evergreen-brick-work/events/earth-month-2026/",
-    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/DBM4JMdZOXxD-1g1pAKRqw",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Who Gives A Crap",
-      "email": null,
-      "telephone": null
-    },
-    "isAccessibleForFree": true,
-    "keywords": [
-      "Celebrations",
-      "Environmental",
-      "Family/Children"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "url": "https://www.evergreen.ca/evergreen-brick-work/events/earth-month-2026/"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Look Again: A Meditative Museum Experience",
     "startDate": "2026-04-09T14:00:00-04:00",
     "endDate": "2026-04-25T14:00:00-04:00",
