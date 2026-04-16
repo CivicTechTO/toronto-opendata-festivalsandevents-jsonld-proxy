@@ -2,51 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Pelléas et Mélisande",
-    "startDate": "2026-04-15T19:30:00-04:00",
-    "endDate": "2026-04-20T14:30:00-04:00",
-    "location": {
-      "@type": "Place",
-      "name": "TELUS Centre for Performance and Learning at Koerner Hall",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "273 Bloor St W",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M5S 1W2",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.667856304,
-        "longitude": -79.396058814
-      }
-    },
-    "description": "Rich with symbolism and dream imagery, Pelléas et Mélisande is Debussy's sole opera, and this uniquely imagined production has long been a dream of Co-Artistic Directors Marshall Pynkoski and Jeannette Lajeunesse Zingg. \n\nBased on the symbolist play by Maurice Maeterlinck, Pelléas et Mélisande follows a prince lost in a forest who discovers a beautiful woman weeping beside a pool of water which brings him in contact with a supernatural world from which there is no escape. \n\nAssociate Music Director Dr. Christopher Bagan enthusiastically embraced the opportunity to realize a unique score of Debussy's massive opera in a new arrangement for Opera Atelier and 14 elite soloists from Tafelmusik Baroque Orchestra. \n\nPelléas et Mélisande will feature David Fallis conducting and will be directed by Marshall Pynko.",
-    "url": "https://www.operaatelier.com/shows/pelleas-et-melisande/",
-    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/3Vr4RNSgJqCP80s_VzYitg",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Opera Atelier",
-      "email": null,
-      "telephone": null
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Dance",
-      "Live Performances",
-      "Music"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "price": "85.00",
-      "priceCurrency": "CAD",
-      "url": "https://www.operaatelier.com/shows/pelleas-et-melisande/"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Smoke Signals x Reflections",
     "startDate": "2026-04-16T18:00:00-04:00",
     "endDate": "2026-06-13T12:00:00-04:00",
@@ -597,6 +552,42 @@
       "price": "25.00",
       "priceCurrency": "CAD",
       "url": "https://www.torontotattooshow.com/event-details/the-toronto-tattoo-show-nix-2025-25th-edition-1"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Footsteps Around the Fort - Fort York Neighbourhood Tours",
+    "startDate": "2026-05-01T11:00:00-04:00",
+    "endDate": "2026-06-07T11:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Tours run at 11 a.m. and 2 p.m. from Canoe Landing Park, Bobber Plaza",
+      "address": {},
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.639274,
+        "longitude": -79.397192
+      }
+    },
+    "description": "Discover the hidden gems and iconic landmarks of the CityPlace Fort York neighbourhood. This guided tour gives you a new perspective on the evolving landscape of this community. Discover how historic landscapes continue to shape Toronto today as stories come to life through storytelling and conversation along the route. Come dressed for the weather. Perfect for families and dog-friendly, all ages are welcome to learn, explore and experience the neighbourhood together. \n\nThe tour route covers about 2 km over paved pathways and includes major intersections.",
+    "url": "https://secure.toronto.ca/webapps/feps_edc-ticketing/#events/27e98ff0-5b8d-47ae-8835-d6d496fe6393",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/FVXOIV5AycFNfTHegrtSZQ",
+    "organizer": {
+      "@type": "Organization",
+      "name": "CityPlace and Fort York BIA",
+      "email": "fortyork@toronto.ca",
+      "telephone": "416-392-6907"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Family/Children",
+      "History",
+      "Museum"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "url": "https://secure.toronto.ca/webapps/feps_edc-ticketing/#events/27e98ff0-5b8d-47ae-8835-d6d496fe6393"
     }
   },
   {
@@ -1304,6 +1295,45 @@
       "@type": "Offer",
       "url": "https://climatepulse.ca/register"
     }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Gather for Doors Open at Spadina Museum",
+    "startDate": "2026-05-23T10:00:00-04:00",
+    "endDate": "2026-05-24T10:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Spadina Museum",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "285 Spadina Rd",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5R 2V5",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.679047,
+        "longitude": -79.408181
+      }
+    },
+    "description": "Spadina Museum tells the stories of the affluent Austin family, those who worked in their service, and of the transformational changes in Toronto in the 1920s. At Spadina Museum  visitors are invited to engage with the site at their own pace and to bring their questions and curiosity. This year's theme for Doors Open is The World in a City and at Spadina Museum visitors will find elements of gathering, sports and play throughout, exploring the sports, games and leisure activities enjoyed in the 1920s. Visitors are invited to enjoy the 6 acres of lush gardens surrounding the home.",
+    "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/museums/spadina-museum/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/EDLvHqb0OAcgFJHMm6yMAg",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": "spadina@toronto.ca",
+      "telephone": "416-392-6910"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Cultural",
+      "History",
+      "Museum"
+    ]
   },
   {
     "@context": "https://schema.org",
