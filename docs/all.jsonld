@@ -2696,6 +2696,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "TD Music Celebrates Asian Heritage Month",
+    "startDate": "2025-05-01T16:00:00-04:00",
+    "endDate": "2025-05-01T18:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Union Station (West Wing)",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "65 Front St W",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5J 1E6",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.64501726395003,
+        "longitude": -79.38135298849944
+      }
+    },
+    "description": "Join us for special performances honouring Pan-Asian cultures. \n\nHosted by: Rebecca Tandon",
+    "url": "https://torontounion.ca/event/td-music-celebrates-asian-heritage-month-2/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/8TMv5j_PnARU5AUlKyep2w",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Canada's Music Incubator",
+      "email": null,
+      "telephone": null
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Live Performances",
+      "Music"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "The Roof is Leaking ਛੱਤ ਚੋਂਦੀ ਹੈ",
     "startDate": "2025-05-02T00:00:00.000Z",
     "endDate": null,
@@ -28250,6 +28288,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "SUNCHASER - Toronto Games Week",
+    "startDate": "2025-06-17T11:00:00-04:00",
+    "endDate": "2025-06-17T11:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "InterAccess",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "32 Lisgar St",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M6J 0C7",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.6415948,
+        "longitude": -79.42309399999999
+      }
+    },
+    "description": "People take turns flying MS Flight Simulator where you chase the sun as it sets. They will have to make constant speed adjustments to keep the top edge of the sun just above the horizon. Everything is projected on the walls around you so you get to bask in a sunset that lasts hours instead of minutes. A Closing Sunsetter Gathering will be hosted by artist Sherwin Tjia between 4-6pm.\n\nToronto Video Game Month is set to bring the world of gaming to life! From adrenaline-pumping esports tournaments to massive outdoor games played under the open sky, this event is designed for all—from hardcore gamers to the game-curious. Immerse yourself in interactive experiences, discover the talent of Toronto's local indie developers, and engage with major studio activations. Plus, tap into the industry at a prestigious video game conference, thought-provoking workshops, and expert talks on the future of gaming. It's a month to discover, play, and connect with Toronto's thriving gaming community!",
+    "url": "https://torontogamesweek.com",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/iRIymEiGgn1KMLqa3lW_4g",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Toronto Games Week",
+      "email": "marie@torontogamesweek.com",
+      "telephone": null
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Other",
+      "Live Performances"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Bridging Minds - Improving the Primary Care System with Human and Machine Intelligence",
     "startDate": "2025-06-18T22:00:00.000Z",
     "endDate": "2025-06-18T23:00:00.000Z",
@@ -35351,6 +35427,49 @@
       "Live Performances",
       "Music"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Trees Around the Branch Tour at Steeles Library",
+    "startDate": "2025-07-18T14:00:00-04:00",
+    "endDate": "2025-07-18T14:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Steeles Library",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "355 Bamburgh Cir",
+        "addressLocality": "Scarborough",
+        "addressRegion": "ON",
+        "postalCode": "M1W 3Y1",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.8151758,
+        "longitude": -79.3232613
+      }
+    },
+    "description": "Did you know Steeles Library and its neighbourhood are home to a variety of trees? Join the knowledgeable City of Toronto Urban Forestry staff to explore the natural world on a local neighbourhood walk. Learn to recognize different species and fun facts about their cultural and ecological importance. Don't worry if you participated last year, this year features a new selection of trees!\nChildren under 12 must be accompanied by a parent/caregiver. The tour will start and end at the Steeles Library, Multipurpose Room, and will be guided by the City of Toronto Urban Forestry staff.",
+    "url": "https://www.torontopubliclibrary.ca/detail.jsp?Entt=RDMEVT550314&R=EVT550314",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/btp1Vm5E6qJfqk3Rl_FUog",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": null,
+      "telephone": "416-396-8975"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Environmental",
+      "Tour",
+      "Run/Walk"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.torontopubliclibrary.ca/detail.jsp?Entt=RDMEVT550314&R=EVT550314"
+    }
   },
   {
     "@context": "https://schema.org",
