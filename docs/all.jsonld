@@ -68702,6 +68702,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Taste of Downtown Yonge: Spring Bites Food Tour",
+    "startDate": "2026-04-13T17:30:00-04:00",
+    "endDate": "2026-06-22T17:30:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Downtown Yonge Area",
+      "address": {},
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.658155,
+        "longitude": -79.382838
+      }
+    },
+    "description": "Connect with the diverse flavours and ever-evolving stories of Toronto's downtown core.\n\nExplore the area through international foods and hidden local landmarks! Each tour includes visits to 4 local restaurants, paired with engaging storytelling that connects Downtown Yonge's past, present, and future.",
+    "url": "https://downtownyonge.com/foodtours/",
+    "image": null,
+    "organizer": {
+      "@type": "Organization",
+      "name": "Downtown Yonge BIA",
+      "email": null,
+      "telephone": null
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Food/Culinary",
+      "History",
+      "Tour"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "20.00",
+      "priceCurrency": "CAD",
+      "url": "https://downtownyonge.com/foodtours/"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "A Daughter's Place by Martha Batiz - By the Lake Book Club",
     "startDate": "2026-04-14T19:00:00-04:00",
     "endDate": "2026-04-14T19:00:00-04:00",
@@ -69293,6 +69331,88 @@
       "History",
       "Museum",
       "Tour"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Public Guided Tours at ROM",
+    "startDate": "2026-04-29T11:00:00-04:00",
+    "endDate": "2026-08-22T11:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Royal Ontario Museum",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "100 Queen's Park",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5S 2C6",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.667795388,
+        "longitude": -79.394212289
+      }
+    },
+    "description": "From towering dinosaur skeletons to awe-inspiring contemporary paintings, we are home to more than 13.5 million artworks, artifacts, and specimens from around the world and across the ages. \n\nExplore the wonders in our tour that brings iconic objects to life. Enjoy highlights of arts, culture and nature throughout the world and throughout time.",
+    "url": "https://www.rom.on.ca/whats-on/special-programs/museum-tours?utm_source=cityoftoronto&utm_medium=listing&utm_campaign=tourism&utm_content=tourism",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/7YwLEoUPSlMfjC6t7IIxww",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Royal Ontario Museum",
+      "email": "info@rom.on.ca",
+      "telephone": "4165868000"
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Arts/Exhibits",
+      "Museum",
+      "Tour"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "26.00",
+      "priceCurrency": "CAD",
+      "url": "https://www.rom.on.ca/whats-on/special-programs/museum-tours?utm_source=cityoftoronto&utm_medium=listing&utm_campaign=tourism&utm_content=tourism"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Visible Labour: Group Show Featuring Five Women Artists",
+    "startDate": "2026-04-29T12:00:00-04:00",
+    "endDate": "2026-05-10T12:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Leslie Grove Gallery",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1158 Queen St E",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M4M 1L2",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.662683,
+        "longitude": -79.333691
+      }
+    },
+    "description": "Presenting the work of 5 women artists who meet monthly to share their work. \n\nThe isolation of individual art practice is counter-balanced by their association with each other. Working in different media, the sensibility and leanings of each artist inform and enrich, while each remain very particular in their vision. Each artist moves individually between representation and abstraction, between internal and external, offering consistently thoughtful observation, detailed wonder and worry, and determination to question the work, its context in art, in the social and cultural realm, and in the spheres larger and smaller.",
+    "url": "https://www.artistsnetwork.ca/patrons-calendar",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/w17JLDGXh_Tk7eXEZeb99Q",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": "info@artistsnetwork.ca",
+      "telephone": "416-465-0302"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Arts/Exhibits"
     ]
   },
   {
@@ -70214,6 +70334,50 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "MOTIVE Crime and Mystery Festival 2026",
+    "startDate": "2026-06-05T13:30:00-04:00",
+    "endDate": "2026-06-07T11:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Victoria University at the University of Toronto",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "91 Charles St W",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5S 1K5",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.666951086,
+        "longitude": -79.392112675
+      }
+    },
+    "description": "We're turning up the suspense!\n\nCelebrating a milestone year, as MOTIVE 2026 unveils its most expansive and riveting programme to date, featuring more than 55 events, author talks, masterclasses and immersive workshops designed to captivate crime and mystery lovers of all kinds.\n\nFeaturing Shari Lapena, Clare Mackintosh, Nita Prose, Nicholas Shakespeare, Don Gillmor and Doug Johnstone.",
+    "url": "https://festivalofauthors.ca/motive-2026-box-office/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/Wk42Akic0gyuRLu0UboQ9g",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Toronto International Festival of Authors",
+      "email": null,
+      "telephone": null
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Literary",
+      "Talks"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "15.00",
+      "priceCurrency": "CAD",
+      "url": "https://festivalofauthors.ca/motive-2026-box-office/"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Penn and Teller: 50 Years of Magic",
     "startDate": "2026-06-06T20:00:00-04:00",
     "endDate": "2026-06-06T20:00:00-04:00",
@@ -70253,6 +70417,44 @@
       "price": "69.00",
       "priceCurrency": "CAD",
       "url": "https://www.luminatofestival.com/PennTeller"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Food Halls and Football Food Tour",
+    "startDate": "2026-06-11T11:00:00-04:00",
+    "endDate": "2026-07-05T11:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "King St W and Entertainment Districts",
+      "address": {},
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.647111,
+        "longitude": -79.403778
+      }
+    },
+    "description": "Limited-time, high-energy, flavour-packed, this is Toronto's most delicious ticket of the summer.  For one electric month, Toronto becomes a stadium without walls. \n\nShowcasing the flavours of football's most passionate nations: Italy, Argentina, Mexico, Venezuela, Canada and USA.\n\nEach stop is timed to the rhythm of the tournament. Matches flicker across giant screens. Scarves hang from shoulders. Strangers become instant friends over shared allegiances and second helpings. You won't just taste the food. You'll taste the pride behind it.\n\nEnjoy tasty food including Artisan Sodas and Pretzels, Crispy Fish Tacos, Tequeños, Biscotti and Amaretti, Steak Sandwich with Chimichurri, Banana Pudding and more!",
+    "url": "https://culinaryadventureco.com/tour/food-halls-football-food-tour",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/uQmFsWeUINmi9v968krKng",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": "info@culinaryadventureco.com",
+      "telephone": "(416) 720-2600"
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+      "Food/Culinary",
+      "Sports",
+      "Tour"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "99.00",
+      "priceCurrency": "CAD",
+      "url": "https://culinaryadventureco.com/tour/food-halls-football-food-tour"
     }
   },
   {
