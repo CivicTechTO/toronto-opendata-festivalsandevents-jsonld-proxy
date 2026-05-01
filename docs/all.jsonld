@@ -69840,6 +69840,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Plots & Patches",
+    "startDate": "2026-05-12T10:00:00-04:00",
+    "endDate": "2026-05-27T10:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Cedar Ridge Creative Centre",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "225 Confederation Dr",
+        "addressLocality": "Scarborough",
+        "addressRegion": "ON",
+        "postalCode": "M1G 1B2",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.75743,
+        "longitude": -79.207132
+      }
+    },
+    "description": "Plant a story in your own fabric Victory Garden plot as part of the Community Arts Guild Story Garden project and explore how stories can be grown, stitched and shared through textile art. Discover recent work from the Community Arts Guild alongside vibrant, community-engaged pieces created with Jumblies, Scarborough Arts and Thinking Rock Community Arts. Together, these works celebrate creativity rooted in collaboration, memory and place.",
+    "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/cultural-centres-galleries/cedar-ridge-creative-centre/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/VtdZ7SCSdGr8Fj-pJ2iKRw",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Community Arts Guild, Jumblies, and Thinking Rock",
+      "email": "crcc@toronto.ca",
+      "telephone": "4163964026"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Arts/Exhibits",
+      "Cultural",
+      "Family/Children"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Dragonette with Tiny Sun",
     "startDate": "2026-05-14T19:00:00-04:00",
     "endDate": "2026-05-14T19:00:00-04:00",
@@ -70422,7 +70461,7 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Food Halls and Football Food Tour",
+    "name": "Food Halls + Football Food Tour",
     "startDate": "2026-06-11T11:00:00-04:00",
     "endDate": "2026-07-05T11:00:00-04:00",
     "location": {
