@@ -2,132 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Royal Conservatory Orchestra with Conductor Earl Lee",
-    "startDate": "2026-05-01T20:00:00-04:00",
-    "endDate": "2026-05-01T20:00:00-04:00",
-    "location": {
-      "@type": "Place",
-      "name": "Koerner Hall, Royal Conservatory of Music",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "273 Bloor St W",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M5S 1W2",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.667856304,
-        "longitude": -79.396058814
-      }
-    },
-    "description": "A renowned Korean-Canadian cellist and conductor, currently Music Director of the Ann Arbor Symphony. He also served as assistant conductor of the Boston Symphony, resident conductor of the Toronto Symphony Orchestra, and associate conductor of the Pittsburgh Symphony. He is the 2022 recipient of The Sir Georg Solti Conducting Award.\n\nThe Temerty Orchestral Program at The Glenn Gould School, the Royal Conservatory Orchestra is widely regarded as an outstanding ensemble and one of the best training orchestras in North America, with graduates having joined the ranks of the greatest orchestras in the world.\n\nPlease join us! This concert is preceded by a short performance by talented students of The Royal Conservatory.",
-    "url": "https://www.rcmusic.com/Tickets/Seats/378401",
-    "image": null,
-    "organizer": {
-      "@type": "Organization",
-      "name": "Royal Conservatory of Music",
-      "email": null,
-      "telephone": null
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Arts/Exhibits",
-      "Live Performances",
-      "Music"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "price": "25.00",
-      "priceCurrency": "CAD",
-      "url": "https://www.rcmusic.com/Tickets/Seats/378401"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Toronto Tattoo Show/NIX 2026",
-    "startDate": "2026-05-01T15:00:00-04:00",
-    "endDate": "2026-05-01T15:00:00-04:00",
-    "location": {
-      "@type": "Place",
-      "name": "Metro Toronto Convention Centre",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "255 Front St W",
-        "addressLocality": "Toronto",
-        "addressRegion": "ON",
-        "postalCode": "M5V 2W6",
-        "addressCountry": "CA"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.64405,
-        "longitude": -79.386721
-      }
-    },
-    "description": "Celebrate 26 years of ink at Canada's longest-running and most iconic tattoo convention!\n\nWhether you're looking to get tattooed by a top artist, discover the latest in tattoo culture, or just immerse yourself in the inked lifestyle, this is the place to be.\n\nEnjoy live tattooing, vendors, art, entertainment, contests and much more all weekend long. Bookings and walk-up appointments available.\n\nDon't miss this legendary 3-day celebration of art, expression, and community.",
-    "url": "https://www.torontotattooshow.com/event-details/the-toronto-tattoo-show-nix-2025-25th-edition-1",
-    "image": null,
-    "organizer": {
-      "@type": "Organization",
-      "name": "",
-      "email": "nixtattooshow@gmail.com",
-      "telephone": null
-    },
-    "isAccessibleForFree": false,
-    "keywords": [
-      "Arts/Exhibits",
-      "Consumer Show/Convention",
-      "Cultural"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "price": "25.00",
-      "priceCurrency": "CAD",
-      "url": "https://www.torontotattooshow.com/event-details/the-toronto-tattoo-show-nix-2025-25th-edition-1"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Footsteps Around the Fort - Fort York Neighbourhood Tours",
-    "startDate": "2026-05-01T11:00:00-04:00",
-    "endDate": "2026-06-07T11:00:00-04:00",
-    "location": {
-      "@type": "Place",
-      "name": "Tours run at 11 a.m. and 2 p.m. from Canoe Landing Park, Bobber Plaza",
-      "address": {},
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 43.639274,
-        "longitude": -79.397192
-      }
-    },
-    "description": "Discover the hidden gems and iconic landmarks of the CityPlace Fort York neighbourhood. This guided tour gives you a new perspective on the evolving landscape of this community. Discover how historic landscapes continue to shape Toronto today as stories come to life through storytelling and conversation along the route. Come dressed for the weather. Perfect for families and dog-friendly, all ages are welcome to learn, explore and experience the neighbourhood together. \n\nThe tour route covers about 2 km over paved pathways and includes major intersections.",
-    "url": "https://secure.toronto.ca/webapps/feps_edc-ticketing/#events/27e98ff0-5b8d-47ae-8835-d6d496fe6393",
-    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/FVXOIV5AycFNfTHegrtSZQ",
-    "organizer": {
-      "@type": "Organization",
-      "name": "CityPlace and Fort York BIA",
-      "email": "fortyork@toronto.ca",
-      "telephone": "416-392-6907"
-    },
-    "isAccessibleForFree": true,
-    "keywords": [
-      "Family/Children",
-      "History",
-      "Museum"
-    ],
-    "offers": {
-      "@type": "Offer",
-      "url": "https://secure.toronto.ca/webapps/feps_edc-ticketing/#events/27e98ff0-5b8d-47ae-8835-d6d496fe6393"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "The Emperor - Beethoven, Shostakovich, Bach",
     "startDate": "2026-05-02T19:30:00-04:00",
     "endDate": "2026-05-02T19:30:00-04:00",
@@ -330,6 +204,47 @@
     "keywords": [
       "Environmental"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Yonge Perspective II",
+    "startDate": "2026-05-03T10:00:00-04:00",
+    "endDate": "2026-05-31T10:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "College Park",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "420 Yonge St",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": null,
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.659913517,
+        "longitude": -79.383825156
+      }
+    },
+    "description": "See Downtown Yonge through a different lens!\n⁠\nAs part of the CONTACT Photography Festival, Yonge Perspective II returns to College Park, featuring a curated outdoor photography exhibit.\n⁠\nTake a moment to wander through the Yonge Street entrance and discover unique perspectives of our neighbourhood captured by local photographers.⁠\n⁠\nStay tuned and come explore with us!",
+    "url": "https://yongeperspective.eventbrite.ca",
+    "image": null,
+    "organizer": {
+      "@type": "Organization",
+      "name": "CONTACT Photography Festival",
+      "email": null,
+      "telephone": null
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Arts/Exhibits"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "url": "https://yongeperspective.eventbrite.ca"
+    }
   },
   {
     "@context": "https://schema.org",
@@ -832,6 +747,44 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Dance: Paintings by Caroline Marshall",
+    "startDate": "2026-05-21T11:00:00-04:00",
+    "endDate": "2026-06-03T11:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Muse  Gallery",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1230 Yonge St",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M4T 1W3",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.682447,
+        "longitude": -79.392049
+      }
+    },
+    "description": "I slap and slide paint from the base of a canvas and move upward with my palette knife. \n\nUnrefined segments of various shades and colour rock and roll, lines intercept blocks and many go beyond the forms they touch. A rhythmic figure appears surrounded by a simple neutral background.  \n\nThe figure is a dancer. It's limbs flail, forms jump or twist and the body of my loosely composed figure vibrates with the music it hears. The subject moves alone, unaware that viewers are watching. \n\nMy abstract landscapes involve a dialogue or relationship between areas of intensity or excitement on the canvas and space. The many times I have driven past Outaouais fields and inland roads near Mont Jolie, Qc. have left their imprint. While still using geometric forms, the abstract landscapes are based on nature.",
+    "url": "https://www.musegallery.ca/exhibitions",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/Va3Rl8q98LZia_B6S0CylA",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": "contact@musegallery.ca",
+      "telephone": "1-416-974-9986"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Arts/Exhibits",
+      "Cultural"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Toronto Climate Justice Summit",
     "startDate": "2026-05-22T00:00:00-04:00",
     "endDate": "2026-05-23T00:00:00-04:00",
@@ -1083,6 +1036,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Bloor-Yorkville Soccer Fest",
+    "startDate": "2026-06-13T13:00:00-04:00",
+    "endDate": "2026-06-27T13:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Village of Yorkville Park",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "115 Cumberland St",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5R 1A6",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.669941,
+        "longitude": -79.391928
+      }
+    },
+    "description": "Join us for a neighbourhood-wide celebration of soccer's biggest event in Toronto! Featuring live freestyle performances by world-renowned athletes, interactive fan experiences including Juggle Zone, Knee Grab, Urban Run and a curated Neighbourhood Soccer Trail of things to do. \n\nWith high-energy programming and immersive activations, we're excited to showcase Bloor-Yorkville signature blend of culture, cuisine, retail, and wellness.",
+    "url": "https://www.bloor-yorkville.com/soccerfest/",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/7Q9-ye8EQViIKNIq59dWsw",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": null,
+      "telephone": null
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Celebrations",
+      "Live Performances",
+      "Sports"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "10 Days in a Madhouse",
     "startDate": "2026-06-16T19:30:00-04:00",
     "endDate": "2026-06-21T13:30:00-04:00",
@@ -1123,6 +1115,49 @@
       "price": "35.00",
       "priceCurrency": "CAD",
       "url": "https://am.ticketmaster.com/tolive/10daysinamadhouse-lum2026"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "South by South East International Festival",
+    "startDate": "2026-06-17T12:00:00-04:00",
+    "endDate": "2026-06-21T12:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "Nathan Phillips Square",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "100 Queen St W",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5H 2N1",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.652822,
+        "longitude": -79.383625
+      }
+    },
+    "description": "Watch as we transform Nathan Phillips Square into a high-energy, global playground and celebrate Toronto's \"World in a City\" identity.\n\nTap into your latin flare with open-air dance floor with top Latin DJs, salsa, bachata and dance workshops and show-stopping Latin dance performances, thunderous drumming ensembles and live salsa big bands and Latin orchestras.\n\nBe dazzled by Chinese lion and fan dances and K-Pop and Bollywood showcases. Enjoy acrobatics, samba, mariachi and feast on our interational market, cuisine, food truck alley and shopping. Watch live matches of soccer's biggest event!\n\nPerfect for the whole family, this isn't just a festival, it's a full-on cultural explosion in the heart of the city.",
+    "url": "https://www.eventbrite.ca/e/south-by-south-east-international-festival-tickets-1289085031029?aff=ebdsshwebmobile&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=wsa&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZnRzaARdeyZleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAacq9i-jtibLkaXvUbZpGX8B3Fx3I20eQ9dw6PP5rxyZu4FPha8q0iztTLPS6g_aem_escDDtS8pyQee2kYirewTw",
+    "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/HWJ4WNy-84A_9fDUU_aSxA",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Amity Arts and Culture Hub",
+      "email": "info@southbysoutheastfest.com",
+      "telephone": null
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Cultural",
+      "Dance",
+      "Food/Culinary"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.eventbrite.ca/e/south-by-south-east-international-festival-tickets-1289085031029?aff=ebdsshwebmobile&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=wsa&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZnRzaARdeyZleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAacq9i-jtibLkaXvUbZpGX8B3Fx3I20eQ9dw6PP5rxyZu4FPha8q0iztTLPS6g_aem_escDDtS8pyQee2kYirewTw"
     }
   },
   {
