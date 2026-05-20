@@ -66737,6 +66737,45 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "The BigFamJam",
+    "startDate": "2026-03-03T21:00:00-05:00",
+    "endDate": "2026-07-28T21:00:00-04:00",
+    "location": {
+      "@type": "Place",
+      "name": "DROM Taberna",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "458 Queen St W",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "postalCode": "M5V 2A8",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.648278137,
+        "longitude": -79.399590594
+      }
+    },
+    "description": "A weekly open jam hosted by Jackson Steinwall, designed to bring together musicians of all backgrounds and skill levels to celebrate the joy of making music. \n\nWhether you're an instrumentalist, vocalist, or just a lover of live music, this welcoming space invites everyone to join in. Simply walk up, tap someone in, grab the mic, and join in the jam!\n\nThe goal is simple: to create a community where music connects, inspires and brings people together.",
+    "url": "https://www.dromtaberna.com",
+    "image": null,
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "email": null,
+      "telephone": null
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+      "Live Performances",
+      "Music",
+      "Nightlife"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Toronto Sketch Comedy Festival",
     "startDate": "2026-03-04T18:00:00-05:00",
     "endDate": "2026-03-15T18:00:00-04:00",
@@ -67450,7 +67489,7 @@
         "longitude": -79.254809969
       }
     },
-    "description": "Gather at Scarborough Museum for a fun-filled celebration of creativity and storytelling! Enjoy a warm drink and a snack prepared on the museum's historic stove and try your hand at historic and modern board games.\n\nIn honour of Women's History Month, browse the Museum's story corner featuring books by woman-identifying authors and illustrators. Join us on Thursday, March 19th for a special movement workshop with Vanessa Evans, or on March 14th, 20th and 21st for workshops led by local woman-identifying creatives, celebrating shared experiences and artistic expression.",
+    "description": "Gather at Scarborough Museum for a fun-filled celebration of creativity and storytelling! Enjoy a warm drink and a snack prepared on the museum's historic stove and try your hand at historic and modern board games.\n\nIn honour of Women's History Month, browse the Museum's story corner featuring books by woman-identifying authors and illustrators. Join us on Thursday, March 19th for a mindful movement workshop with Vanessa Evans, or on March 14th, 20th and 21st for workshops led by local woman-identifying creatives, celebrating shared experiences and artistic expression.",
     "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/museums/scarborough-museum/",
     "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/dj8sspMJtYW8_srv-772RQ",
     "organizer": {
@@ -70877,7 +70916,7 @@
     "@type": "Event",
     "name": "Threads of Connection and Conversation",
     "startDate": "2026-09-03T10:00:00-04:00",
-    "endDate": "2026-10-03T10:00:00-04:00",
+    "endDate": "2026-10-02T10:00:00-04:00",
     "location": {
       "@type": "Place",
       "name": "Assembly Hall Gallery",
@@ -70895,7 +70934,7 @@
         "longitude": -79.515824559
       }
     },
-    "description": "Fleeting moments and beauty of urban life captured through watercolour, oils, and gouache paintings that invite viewers to pause, connect and slow down to reflect beautifully in memory. Anchored in connection, this exhibition by Dinesh Subramanian and Isabel Fryszberg preserves the essence of human interwovenness.",
+    "description": "Fleeting moments and beauty of urban life captured through visual storytelling inviting viewers to pause, connect and reflect. Anchored in connection, this exhibition preserves the essence of human interwovenness. By Isabel Fryszberg, Janna Robins Walters and Poonam Khanna.",
     "url": "https://www.isabelfryszberg.com/artwork",
     "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/o43cyz0H12nVokwP81Ppeg",
     "organizer": {

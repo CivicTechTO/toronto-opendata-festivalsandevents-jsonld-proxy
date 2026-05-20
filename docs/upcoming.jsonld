@@ -754,7 +754,7 @@
     "@type": "Event",
     "name": "Threads of Connection and Conversation",
     "startDate": "2026-09-03T10:00:00-04:00",
-    "endDate": "2026-10-03T10:00:00-04:00",
+    "endDate": "2026-10-02T10:00:00-04:00",
     "location": {
       "@type": "Place",
       "name": "Assembly Hall Gallery",
@@ -772,7 +772,7 @@
         "longitude": -79.515824559
       }
     },
-    "description": "Fleeting moments and beauty of urban life captured through watercolour, oils, and gouache paintings that invite viewers to pause, connect and slow down to reflect beautifully in memory. Anchored in connection, this exhibition by Dinesh Subramanian and Isabel Fryszberg preserves the essence of human interwovenness.",
+    "description": "Fleeting moments and beauty of urban life captured through visual storytelling inviting viewers to pause, connect and reflect. Anchored in connection, this exhibition preserves the essence of human interwovenness. By Isabel Fryszberg, Janna Robins Walters and Poonam Khanna.",
     "url": "https://www.isabelfryszberg.com/artwork",
     "image": "https://s3.ca-central-1.amazonaws.com/c3api-penguin-prod-toronto-storagestack-oc9o88-uploads/o43cyz0H12nVokwP81Ppeg",
     "organizer": {
