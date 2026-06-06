@@ -12,10 +12,10 @@ jobs:
 
     steps:
       - name: 🧾 Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: 🐍 Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.11"
 
@@ -30,11 +30,14 @@ jobs:
       - name: 🔄 Build indexes (all.jsonld + upcoming.jsonld)
         run: python scripts/build_indexes.py
 
+      - name: 📰 Render feed status notices
+        run: python scripts/render_status.py
+
       - name: 🚀 Commit and push changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add docs/
+          git add docs/ README.md
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
