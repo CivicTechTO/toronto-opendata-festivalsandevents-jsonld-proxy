@@ -1,7 +1,13 @@
 import os
+import sys
 import json
-from ckan import get_latest_resource_url, stream_resource_data
+from ckan import (
+    get_latest_resource_url,
+    stream_resource_data,
+    FeedUnavailableError,
+)
 from transform import transform_event, normalize_text
+from status import record_success, record_outage
 import hashlib
 
 OUTPUT_DIR = "docs/daily_jsonl"
@@ -61,21 +67,32 @@ def write_event_jsonl(event):
 
 def main():
     print("🚀 Starting JSON-LD generation")
-    resource_url = get_latest_resource_url()
-    print(f"📡 Resource URL: {resource_url}")
 
-    count = 0
-    for item in stream_resource_data(resource_url):
-        try:
-            jsonld_event = transform_event(item)
-            if jsonld_event:
-                write_event_jsonl(jsonld_event)
-                count += 1
-                if count % 500 == 0:
-                    print(f"✍️ Processed {count} events...")
-        except Exception as e:
-            print(f"⚠️ Failed to process event: {e}")
+    try:
+        resource_url = get_latest_resource_url()
+        print(f"📡 Resource URL: {resource_url}")
 
+        count = 0
+        for item in stream_resource_data(resource_url):
+            try:
+                jsonld_event = transform_event(item)
+                if jsonld_event:
+                    write_event_jsonl(jsonld_event)
+                    count += 1
+                    if count % 500 == 0:
+                        print(f"✍️ Processed {count} events...")
+            except Exception as e:
+                print(f"⚠️ Failed to process event: {e}")
+    except FeedUnavailableError as e:
+        # Upstream (City of Toronto) feed is temporarily down. Record the
+        # outage and skip this run gracefully so the workflow stays green and
+        # the last-good committed data is preserved. The run will pick up fresh
+        # data automatically once Toronto's source recovers.
+        record_outage()
+        print(f"⏭️ Skipping update — upstream feed unavailable: {e}")
+        sys.exit(0)
+
+    record_success()
     print(f"✅ Finished. Wrote {count} events to {OUTPUT_DIR}")
 
 

@@ -26,9 +26,30 @@
       border-radius: 4px;
       font-size: 0.9rem;
     }
+    .notice {
+      background-color: #5a2a00;
+      border: 1px solid #ffab40;
+      border-radius: 6px;
+      padding: 1rem 1.25rem;
+      margin-bottom: 2rem;
+    }
+    .notice strong {
+      color: #ffab40;
+    }
   </style>
 </head>
 <body>
+
+  <!-- FEED_STATUS_NOTICE:START -->
+  <div class="notice">
+    <strong>⚠️ Feed temporarily unavailable.</strong>
+    The City of Toronto's upstream Festivals &amp; Events data source has been
+    returning an "Access Denied" response and is not serving data as of the
+    <strong>May 23, 2026 4:05 AM EDT</strong> run. The feeds below reflect the last successfully
+    retrieved data and are no longer being updated until the source is restored.
+    This notice is removed automatically when normal operation resumes.
+  </div>
+  <!-- FEED_STATUS_NOTICE:END -->
 
   <h1>Toronto Festivals & Events</h1>
   <p>

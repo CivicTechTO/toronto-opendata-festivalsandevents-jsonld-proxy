@@ -6,6 +6,16 @@ BASE_CKAN_URL = "https://ckan0.cf.opendata.inter.prod-toronto.ca"
 PACKAGE_NAME = "festivals-events"
 
 
+class FeedUnavailableError(Exception):
+    """
+    Raised when the upstream City of Toronto feed cannot be parsed as event data.
+
+    This typically happens when Toronto's data-access service is blocked
+    (e.g. an Akamai "Access Denied" page is served in place of the JSON feed).
+    It signals a temporary upstream outage rather than a bug in this pipeline.
+    """
+
+
 def get_latest_resource_url():
     """
     Fetch the latest downloadable (non-datastore) resource URL from CKAN.
@@ -63,7 +73,19 @@ def stream_resource_data(resource_url):
 
     response = requests.get(resource_url, timeout=60)
     response.raise_for_status()
-    data = response.json()
+
+    # Toronto's CKAN sometimes serves an Akamai "Access Denied" HTML page in
+    # place of the JSON feed when its upstream data-access service is blocked.
+    # Detect that (and any other non-JSON body) and surface it as a recoverable
+    # upstream outage rather than an unhandled JSONDecodeError.
+    try:
+        data = response.json()
+    except ValueError:
+        snippet = response.text.strip()[:200]
+        raise FeedUnavailableError(
+            "Upstream feed did not return JSON (likely an Access Denied page). "
+            f"First bytes of response: {snippet!r}"
+        )
 
     # Handle wrapped response {"value": [...]} or plain array [...]
     if isinstance(data, dict) and "value" in data:

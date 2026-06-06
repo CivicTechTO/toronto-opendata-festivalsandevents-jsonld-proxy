@@ -3,6 +3,10 @@
 **A daily-refreshed JSON-LD proxy for Toronto’s Festivals & Events open data feed.**  
 Built to help make Toronto the most programmable city in the world.
 
+<!-- FEED_STATUS_NOTICE:START -->
+> ⚠️ **Feed temporarily unavailable.** The City of Toronto’s upstream Festivals & Events data source has been returning an “Access Denied” response and is not serving data as of the **May 23, 2026 4:05 AM EDT** run. The published feeds reflect the last successfully retrieved data and are not being updated until the source is restored. The daily workflow skips gracefully (rather than failing) while the source is down. This notice is removed automatically when normal operation resumes.
+<!-- FEED_STATUS_NOTICE:END -->
+
 ## Function
 
 This project transforms the [City of Toronto’s Festivals and Events dataset](https://open.toronto.ca/dataset/festivals-events/) into structured, linked data using the [schema.org/Event](https://schema.org/Event) vocabulary.
